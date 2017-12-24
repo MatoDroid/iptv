@@ -123,7 +123,7 @@ http://213.81.153.241/live001/channel014_p5.stream/DVR.m3u8
 http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1 group-title="Športové" tvg-id="Insight HD" tvg-logo="http://22century.cz/soubory/loga/transparent/insight.png",Insight
 http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/index_1728_av-p.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Novasport" tvg-logo="http://22century.cz/soubory/loga/transparent/novasport.png",Nova Sport
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/novasport.png",Nova Sport
 http://213.81.153.241/live001/channel028_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Športové" tvg-id="Sport1" tvg-logo="http://22century.cz/soubory/loga/transparent/sport1.png",Sport 1
 http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8
