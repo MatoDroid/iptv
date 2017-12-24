@@ -141,6 +141,84 @@ http://213.81.153.241/live001/channel049_p5.stream/DVR.m3u8
 http://213.81.170.239/live002/channel048_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Ostatní" tvg-id="JOJ Family" tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
 https://nn5.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="expres.png",Radio Expres
+http://85.248.7.162:8000/96.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="slovensko.png",Radio Slovensko
+http://live.slovakradio.sk:8000/Slovensko_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="europa2.png",Europa 2
+http://pool.cdn.lagardere.cz/fm-europa2sk-128
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="europa2-dance-exxtravaganza.png",Europa2 Dance Exxtravaganza
+http://pool.cdn.lagardere.cz/web-e2sk-dexx
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="europa2-movin.png",Europa2 Movin
+http://ice-01.lagardere.cz/web-e2-movin
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun.png",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-cz-sk.png",Fun radio Cs
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-running.png",Fun Radio Running
+http://stream.funradio.sk:8000/running128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-rock.png",Fun Radio Rock
+http://stream.funradio.sk:8000/rock128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-top-20.png",Fun Radio Top20
+http://stream.funradio.sk:8000/top20128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-love-songs.png",Fun Radio Love Songs
+http://stream.funradio.sk:8000/slow128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-pre-deti.png",Fun Radio Pre Deti
+http://stream.funradio.sk:8000/children128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-novinky.png",Fun Radio Novinky
+http://stream.funradio.sk:8000/new128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-80-90-roky.png",Fun Radio 80.90.Roky
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-dance.png",Fun Radio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="one.png",Radio One
+http://217.75.92.14:8000/nr160kb
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fm.png",Radio FM
+http://live.slovakradio.sk:8000/FM_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="kosice.png",Radio Kosice
+http://194.145.206.131:8000/radiokosice-64.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="max.png",Radio Max
+http://mp3stream4.abradio.cz:8000/max128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="best-fm.png",Radio Best FM
+http://stream2.bestfm.sk:80/128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="kiss.png",Radio Kiss
+http://stream.radiokiss.sk:8000/kissmp3_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="nonstop.png",Nonstop Radio
+http://50.7.158.186:8126/nonstop_a
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-dance.png",tvojeRADIO.com Dance
+http://stream.tvojeradio.com:8400/;stream/1
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-gold-80-90.png",tvojeRADIO.com Gold 80/90
+http://stream.tvojeradio.com:8600/;stream/1
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-hip-hop.png",tvojeRADIO.com Hip-Hop
+http://stream.tvojeradio.com:8150/;stream/1
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-lovesongs.png",tvojeRADIO.com Lovesongs
+http://stream.tvojeradio.com:8500/;stream/1
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-pophits.png",tvojeRADIO.com Pophits
+http://stream.tvojeradio.com:8300/;stream/1
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-sk-cz.png",tvojeRADIO.com SK/CZ
+http://stream.tvojeradio.com:8700/;stream/1
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-repete.png",tvojeRADIO.com Repete
+http://stream.tvojeradio.com:8100/;stream/1
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="antena-rock.png",Rádio Anténa Rock
+http://217.75.92.14:8000/rrock
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="presov.png",Rádio Prešov
+http://95.168.193.248:8000/128.ogg
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="sever.png",Rádio Sever
+http://stream.sepia.sk:8000/sever128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="sity.png",Radio SiTy
+http://217.73.17.42:8000/hq.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="sport.png",Rádio Šport
+http://stream.radiosport.sk:8000/Sport192.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="viva-metropol.png",Radio Viva Metropol
+http://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="vlna.png",Rádio Vlna
+http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="wow.png",Radio WOW
+http://stream.radiowow.sk:8200/
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="rockova-republika.png",Rockova republika
+http://217.67.31.66:8000/republika128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="zahoracke.png",Záhorácke Rádio
+http://live.zahorackeradio.sk:8000/zr128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="České rádia" tvg-logo="cro1.png",Cesky rozhlas 1 - Radiozurnal
 http://icecast7.play.cz:443/cro1-128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="České rádia" tvg-logo="cro2.png",Cesky rozhlas 2 - Praha
@@ -265,81 +343,3 @@ http://ice.abradio.cz:80/sumava128.mp3
 http://icecast5.play.cz:8000/rockzone128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="České rádia" tvg-logo="signal.png",Signál Rádio
 http://icecast1.play.cz:8000/signal128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="expres.png",Radio Expres
-http://85.248.7.162:8000/96.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="slovensko.png",Radio Slovensko
-http://live.slovakradio.sk:8000/Slovensko_128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="europa2.png",Europa 2
-http://pool.cdn.lagardere.cz/fm-europa2sk-128
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="europa2-dance-exxtravaganza.png",Europa2 Dance Exxtravaganza
-http://pool.cdn.lagardere.cz/web-e2sk-dexx
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="europa2-movin.png",Europa2 Movin
-http://ice-01.lagardere.cz/web-e2-movin
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun.png",Fun Radio
-http://stream.funradio.sk:8000/fun128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-cz-sk.png",Fun radio Cs
-http://stream.funradio.sk:8000/cs128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-running.png",Fun Radio Running
-http://stream.funradio.sk:8000/running128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-rock.png",Fun Radio Rock
-http://stream.funradio.sk:8000/rock128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-top-20.png",Fun Radio Top20
-http://stream.funradio.sk:8000/top20128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-love-songs.png",Fun Radio Love Songs
-http://stream.funradio.sk:8000/slow128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-pre-deti.png",Fun Radio Pre Deti
-http://stream.funradio.sk:8000/children128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-novinky.png",Fun Radio Novinky
-http://stream.funradio.sk:8000/new128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-80-90-roky.png",Fun Radio 80.90.Roky
-http://stream.funradio.sk:8000/80-90-128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fun-dance.png",Fun Radio Dance
-http://stream.funradio.sk:8000/dance128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="one.png",Radio One
-http://217.75.92.14:8000/nr160kb
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="fm.png",Radio FM
-http://live.slovakradio.sk:8000/FM_128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="kosice.png",Radio Kosice
-http://194.145.206.131:8000/radiokosice-64.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="max.png",Radio Max
-http://mp3stream4.abradio.cz:8000/max128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="best-fm.png",Radio Best FM
-http://stream2.bestfm.sk:80/128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="kiss.png",Radio Kiss
-http://stream.radiokiss.sk:8000/kissmp3_128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="nonstop.png",Nonstop Radio
-http://50.7.158.186:8126/nonstop_a
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-dance.png",tvojeRADIO.com Dance
-http://stream.tvojeradio.com:8400/;stream/1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-gold-80-90.png",tvojeRADIO.com Gold 80/90
-http://stream.tvojeradio.com:8600/;stream/1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-hip-hop.png",tvojeRADIO.com Hip-Hop
-http://stream.tvojeradio.com:8150/;stream/1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-lovesongs.png",tvojeRADIO.com Lovesongs
-http://stream.tvojeradio.com:8500/;stream/1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-pophits.png",tvojeRADIO.com Pophits
-http://stream.tvojeradio.com:8300/;stream/1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-sk-cz.png",tvojeRADIO.com SK/CZ
-http://stream.tvojeradio.com:8700/;stream/1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="tvojeradio-com-repete.png",tvojeRADIO.com Repete
-http://stream.tvojeradio.com:8100/;stream/1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="antena-rock.png",Rádio Anténa Rock
-http://217.75.92.14:8000/rrock
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="presov.png",Rádio Prešov
-http://95.168.193.248:8000/128.ogg
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="sever.png",Rádio Sever
-http://stream.sepia.sk:8000/sever128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="sity.png",Radio SiTy
-http://217.73.17.42:8000/hq.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="sport.png",Rádio Šport
-http://stream.radiosport.sk:8000/Sport192.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="viva-metropol.png",Radio Viva Metropol
-http://stream.sepia.sk:8000/viva128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="vlna.png",Rádio Vlna
-http://stream.radiovlna.sk/vlna-hi.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="wow.png",Radio WOW
-http://stream.radiowow.sk:8200/
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="rockova-republika.png",Rockova republika
-http://217.67.31.66:8000/republika128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="zahoracke.png",Záhorácke Rádio
-http://live.zahorackeradio.sk:8000/zr128.mp3
