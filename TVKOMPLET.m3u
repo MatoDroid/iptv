@@ -9,10 +9,6 @@ http://213.81.153.241/live001/channel002_p5.stream/DVR.m3u8
 http://199.195.199.196:5000/live/366/366.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
 http://213.81.153.243/live003/channel003_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
-http://5.63.149.252:5000/live/418/418.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
-http://69.39.239.166:5000/live/36/36.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JOJ
 http://213.81.170.239/live002/channel005_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JOJ
