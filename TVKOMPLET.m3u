@@ -3,9 +3,9 @@
 http://213.81.153.241/live001/channel001_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka" tvg-logo="http://22century.cz/soubory/loga/transparent/jednotka.png",Jednotka
 http://88.202.231.174/live/stv_1_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TV Dvojka" tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dvojka" tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
 http://213.81.153.241/live001/channel002_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TV Dvojka" tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dvojka" tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
 http://88.202.231.174/live/stv_2_hd_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
 http://213.81.153.243/live003/channel003_p5.stream/DVR.m3u8
