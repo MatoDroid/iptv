@@ -1,154 +1,609 @@
 #EXTM3U
-#EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka" tvg-logo="http://22century.cz/soubory/loga/transparent/jednotka.png",Jednotka
+#EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka"  tvg-logo="http://22century.cz/soubory/loga/transparent/jednotka.png",Jednotka
 http://88.202.231.174/live/stv_1_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Dvojka" tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
+#EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka"  tvg-logo="http://22century.cz/soubory/loga/transparent/jednotka.png",Jednotka
+http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p4.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka"  tvg-logo="http://22century.cz/soubory/loga/transparent/jednotka.png",Jednotka
+http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="TV Dvojka"  tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
 http://88.202.231.174/live/stv_2_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
+#EXTINF:-1 group-title="Slovenské" tvg-id="TV Dvojka"  tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
+http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p4.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="TV Dvojka"  tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
+http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza"  tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
 http://88.202.231.174:80/live/markiza_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza"  tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
+http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p4.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza"  tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
+http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza"  tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18681.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza International"  tvg-logo="http://22century.cz/soubory/loga/transparent/markizainternational.png",Markiza International
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18680.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza International"  tvg-logo="http://22century.cz/soubory/loga/transparent/markizainternational.png",Markiza International
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4200.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ"  tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
 http://88.202.231.174:80/live/joj_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ+1" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JOJ+1
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ"  tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
+http://nn2.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ"  tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18683.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ"  tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18671.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ"  tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6827.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ+1"  tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JOJ+1
 http://88.202.231.174:80/live/joj_plus1_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
 http://88.202.231.174:80/live/joj_plus_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
+http://se02.se.magiogo05.cdn.telekom.sk/live005/channel006_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
+http://nn2.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18682.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6840.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
 https://nn5.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
+https://nn5.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
+http://83.167.253.110:5000/live/joj_family/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
+http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
+http://31.31.231.70:9981/stream/channelid/1653201500?ticket=976b5dfce6eecd643921bceeabf084c5cb769516&profile=pass
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6066.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4163.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU"  tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
+http://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU"  tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6044.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU"  tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4157.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU"  tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
 http://88.202.231.174:80/live/wau_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto" tvg-logo="http://22century.cz/soubory/loga/transparent/dajto.png",Dajto
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU"  tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
+http://magiogo05.cdn.telekom.sk/live005/channel030_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU"  tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto"  tvg-logo="http://22century.cz/soubory/loga/transparent/dajto.png",Dajto
+http://se03.se.magiogo06.cdn.telekom.sk/live006/channel004_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto"  tvg-logo="http://22century.cz/soubory/loga/transparent/dajto.png",Dajto
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6847.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto"  tvg-logo="http://22century.cz/soubory/loga/transparent/dajto.png",Dajto
 http://88.202.231.174:80/live/dajto_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto"  tvg-logo="http://22century.cz/soubory/loga/transparent/dajto.png",Dajto
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18694.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma"  tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6845.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma"  tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
+http://se03.se.magiogo06.cdn.telekom.sk/live006/channel011_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma"  tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18692.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma"  tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18691.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma"  tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
 http://88.202.231.174:80/live/doma_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-logo="http://22century.cz/soubory/loga/transparent/ta3.png",TA3
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3"  tvg-logo="http://22century.cz/soubory/loga/transparent/ta3.png",TA3
+http://unicast.bbxnet.sk/live/ta3/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3"  tvg-logo="http://22century.cz/soubory/loga/transparent/ta3.png",TA3
 http://213.81.153.243/live003/channel007_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-logo="http://22century.cz/soubory/loga/transparent/ta3.png",TA3
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3"  tvg-logo="http://22century.cz/soubory/loga/transparent/ta3.png",TA3
 http://88.202.231.174:80/live/ta_3_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="CT1" tvg-logo="http://22century.cz/soubory/loga/transparent/ct1.png",ČT 1
+#EXTINF:-1 group-title="České" tvg-id="CT1"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct1.png",ČT 1
+http://89.239.16.34:8085/ct1.webm
+#EXTINF:-1 group-title="České" tvg-id="CT1"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct1.png",ČT 1
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18669.ts
+#EXTINF:-1 group-title="České" tvg-id="CT1"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct1.png",ČT 1
+http://31.31.231.70:9981/stream/channelid/531956296?ticket=a8b28c4e654619b43b58f18a2d4df4d0da18bb9d&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="CT1"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct1.png",ČT 1
 http://88.202.231.174:80/live/ct_1_high_3500_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="CT2" tvg-logo="http://22century.cz/soubory/loga/transparent/ct2.png",ČT 2
+#EXTINF:-1 group-title="České" tvg-id="CT2"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct2.png",ČT 2
+http://89.239.16.34:8085/ct2.webm
+#EXTINF:-1 group-title="České" tvg-id="CT2"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct2.png",ČT 2
+http://31.31.231.70:9981/stream/channelid/1207501847?ticket=8b130cabed708c668b48e9589d0db42ad60b0812&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="CT2"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct2.png",ČT 2
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18668.ts
+#EXTINF:-1 group-title="České" tvg-id="CT2"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct2.png",ČT 2
 http://88.202.231.174:80/live/ct_2_high_3500_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="CT4 Sport" tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
+#EXTINF:-1 group-title="České" tvg-id="CT4 Sport"  tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
+http://89.239.16.34:8085/ct4.webm
+#EXTINF:-1 group-title="České" tvg-id="CT4 Sport"  tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
 http://88.202.231.174:80/live/ct_4_sport_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="CT24" tvg-logo="http://22century.cz/soubory/loga/transparent/ct24.png",ČT 24
+#EXTINF:-1 group-title="České" tvg-id="CT4 Sport"  tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18695.ts
+#EXTINF:-1 group-title="České" tvg-id="CT4 Sport"  tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1149.ts
+#EXTINF:-1 group-title="České" tvg-id="CT4 Sport"  tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
+http://31.31.231.70:9981/stream/channelid/1844413820?ticket=f9ced0bf55ece4786e159d2b118e9fb2de22c0d3&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="CT24"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct24.png",ČT 24
 http://88.202.231.174:80/live/ct_24_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="CT art" tvg-logo="http://22century.cz/soubory/loga/transparent/ctart.png",ČT art
+#EXTINF:-1 group-title="České" tvg-id="CT24"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct24.png",ČT 24
+http://31.31.231.70:9981/stream/channelid/595214726?ticket=db5c990072f3f234b1ea7a4f7358f4ba0006e6b2&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="CT24"  tvg-logo="http://22century.cz/soubory/loga/transparent/ct24.png",ČT 24
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18696.ts
+#EXTINF:-1 group-title="České" tvg-id="CT art"  tvg-logo="http://22century.cz/soubory/loga/transparent/ctart.png",ČT art
 http://88.202.231.174:80/live/ct_detem_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
+#EXTINF:-1 group-title="České" tvg-id="Prima"  tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
 http://88.202.231.174/live/prima_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
+#EXTINF:-1 group-title="České" tvg-id="Prima"  tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
+http://83.167.253.110:5000/live/prima/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima"  tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
+http://89.239.16.34:8085/prima.webm
+#EXTINF:-1 group-title="České" tvg-id="Prima"  tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
+http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima"  tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
+http://31.31.231.70:9981/stream/channelid/813114696?ticket=8e429746afb1328c1716eb89f06e464f57352be9&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Prima"  tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18659.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima"  tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6831.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima Comedy Central"  tvg-logo="http://22century.cz/soubory/loga/transparent/primacomedycentral.png",Prima Comedy Central
+http://31.31.231.70:9981/stream/channelid/368520040?ticket=d71e1dbcd5a44545700c916ec4c0dc39548b2357&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Prima Comedy Central"  tvg-logo="http://22century.cz/soubory/loga/transparent/primacomedycentral.png",Prima Comedy Central
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18661.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool"  tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
 http://88.202.231.174:80/live/prima_cool_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-logo="http://22century.cz/soubory/loga/transparent/primalove.png",Prima Love
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool"  tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
+http://89.239.16.34:8085/prima_cool.webm
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool"  tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
+http://31.31.231.70:9981/stream/channelid/300181410?ticket=964a1e34dc42f5e65de511542a35db8ca1b95f2d&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool"  tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18660.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool"  tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6832.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE"  tvg-logo="http://22century.cz/soubory/loga/transparent/primalove.png",Prima Love
 http://88.202.231.174:80/live/prima_love_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima Zoom" tvg-logo="http://22century.cz/soubory/loga/transparent/primazoom.png",Prima Zoom
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE"  tvg-logo="http://22century.cz/soubory/loga/transparent/primalove.png",Prima Love
+http://89.239.16.34:8085/prima_love.webm
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE"  tvg-logo="http://22century.cz/soubory/loga/transparent/primalove.png",Prima Love
+http://31.31.231.70:9981/stream/channelid/1902869903?ticket=e7f400238a27d57b29c6eadce12f8fb9d66178fd&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE"  tvg-logo="http://22century.cz/soubory/loga/transparent/primalove.png",Prima Love
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/5264.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima Zoom"  tvg-logo="http://22century.cz/soubory/loga/transparent/primazoom.png",Prima Zoom
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18656.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima Zoom"  tvg-logo="http://22century.cz/soubory/loga/transparent/primazoom.png",Prima Zoom
 http://88.202.231.174:80/live/prima_zoom_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-logo="http://22century.cz/soubory/loga/transparent/primamax.png",Prima MAX
-http://74.208.44.158:5000/live/518/518.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-logo="http://22century.cz/soubory/loga/transparent/primamax.png",Prima MAX
+#EXTINF:-1 group-title="České" tvg-id="Prima Zoom"  tvg-logo="http://22century.cz/soubory/loga/transparent/primazoom.png",Prima Zoom
+http://89.239.16.34:8085/prima_zoom.webm
+#EXTINF:-1 group-title="České" tvg-id="Prima Zoom"  tvg-logo="http://22century.cz/soubory/loga/transparent/primazoom.png",Prima Zoom
+http://31.31.231.70:9981/stream/channelid/1559324911?ticket=fa0437bfb0e188dd03f5d1ee4ec6f10f2e931a7c&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX"  tvg-logo="http://22century.cz/soubory/loga/transparent/primamax.png",Prima MAX
+http://31.31.231.70:9981/stream/channelid/1912928307?ticket=803984ebe52e727721a31172b4c1042853534f9b&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX"  tvg-logo="http://22century.cz/soubory/loga/transparent/primamax.png",Prima MAX
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18658.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX"  tvg-logo="http://22century.cz/soubory/loga/transparent/primamax.png",Prima MAX
 http://88.202.231.174/live/prima_max_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/primaplus.png",Prima Plus
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18657.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/primaplus.png",Prima Plus
 http://88.202.231.174:80/live/prima_plus_medium_1800_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova International" tvg-logo="http://22century.cz/soubory/loga/transparent/novainternational.png",Nova International
+#EXTINF:-1 group-title="České" tvg-id="Nova"  tvg-logo="http://22century.cz/soubory/loga/transparent/nova.png",Nova
+http://89.239.16.34:8085/nova.webm
+#EXTINF:-1 group-title="České" tvg-id="Nova"  tvg-logo="http://22century.cz/soubory/loga/transparent/nova.png",Nova
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6834.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova"  tvg-logo="http://22century.cz/soubory/loga/transparent/nova.png",Nova
+http://31.31.231.70:9981/stream/channelid/1456702484?ticket=879a7bf5ba317bbdc265ce6d0cf572438b24d808&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Nova"  tvg-logo="http://22century.cz/soubory/loga/transparent/nova.png",Nova
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18667.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova International"  tvg-logo="http://22century.cz/soubory/loga/transparent/novainternational.png",Nova International
 http://88.202.231.174:80/live/nova_international_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Nova International"  tvg-logo="http://22century.cz/soubory/loga/transparent/novainternational.png",Nova International
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18663.ts
 #EXTINF:-1 group-title="České"  tvg-id="Nova Action" tvg-logo="http://22century.cz/soubory/loga/transparent/novaaction.png",Nova Action
-http://174.36.163.12:4000/live/304/304.m3u8
+http://31.31.231.70:9981/stream/channelid/33930792?ticket=c343fd245f6e5872ceb6a12bc51a459d99f6f8a3&profile=pass
+#EXTINF:-1 group-title="České"  tvg-id="Nova Action" tvg-logo="http://22century.cz/soubory/loga/transparent/novaaction.png",Nova Action
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18666.ts
+#EXTINF:-1 group-title="České"  tvg-id="Nova Action" tvg-logo="http://22century.cz/soubory/loga/transparent/novaaction.png",Nova Action
+http://89.239.16.34:8085/fanda.webm
+#EXTINF:-1 group-title="České"  tvg-id="Nova Action" tvg-logo="http://22century.cz/soubory/loga/transparent/novaaction.png",Nova Action
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6836.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/novagold.png",Nova Gold
+http://89.239.16.34:8085/telka.webm
 #EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/novagold.png",Nova Gold
 http://88.202.231.174/live/telka_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-logo="http://22century.cz/soubory/loga/transparent/barrandov.png",Barrandov
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/novagold.png",Nova Gold
+http://31.31.231.70:9981/stream/channelid/550706616?ticket=38626f88ceddc9a22bf46ee3d6394f0798cb607d&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/novagold.png",Nova Gold
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18664.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/novagold.png",Nova Gold
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6048.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/novagold.png",Nova Gold
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4191.ts
+#EXTINF:-1 group-title="České" tvg-id="Barrandov"  tvg-logo="http://22century.cz/soubory/loga/transparent/barrandov.png",Barrandov
+http://31.31.231.70:9981/stream/channelid/772282847?ticket=0ef36d81f07c2c6154b7c3ccbbb77a9bda05aa53&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Barrandov"  tvg-logo="http://22century.cz/soubory/loga/transparent/barrandov.png",Barrandov
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18703.ts
+#EXTINF:-1 group-title="České" tvg-id="Barrandov"  tvg-logo="http://22century.cz/soubory/loga/transparent/barrandov.png",Barrandov
 http://88.202.231.174:80/live/barrandov_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/barrandovplus.png",Barrandov Plus
+#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/barrandovplus.png",Barrandov Plus
 http://88.202.231.174:80/live/barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov" tvg-logo="http://22century.cz/soubory/loga/transparent/kinobarrandov.png",Kino Barrandov
+#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/barrandovplus.png",Barrandov Plus
+http://31.31.231.70:9981/stream/channelid/1584512263?ticket=a72d55e66db821ec427f036ea4fedba83bec1a2a&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/barrandovplus.png",Barrandov Plus
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18702.ts
+#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov"  tvg-logo="http://22century.cz/soubory/loga/transparent/kinobarrandov.png",Kino Barrandov
 http://88.202.231.174:80/live/kino_barrandov_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-logo="http://22century.cz/soubory/loga/transparent/idextra.png",Discovery ID Xtra
+#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov"  tvg-logo="http://22century.cz/soubory/loga/transparent/kinobarrandov.png",Kino Barrandov
+http://31.31.231.70:9981/stream/channelid/31021385?ticket=29bb5ffbf6990c95df5633f9d18f52d2c4e2fbd3&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov"  tvg-logo="http://22century.cz/soubory/loga/transparent/kinobarrandov.png",Kino Barrandov
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18701.ts
+#EXTINF:-1 group-title="České" tvg-id="RELAX"  tvg-logo="http://22century.cz/soubory/loga/transparent/relax.png",RELAX
+http://31.31.231.70:9981/stream/channelid/1998698758?ticket=55a8d506118b93f4216f211e71bf80bd0092b551&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="RELAX"  tvg-logo="http://22century.cz/soubory/loga/transparent/relax.png",RELAX
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6055.ts
+#EXTINF:-1 group-title="České" tvg-id="RELAX"  tvg-logo="http://22century.cz/soubory/loga/transparent/relax.png",RELAX
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4194.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/nova2.png",Nova 2
+http://89.239.16.34:8085/smichov.webm
+#EXTINF:-1 group-title="České" tvg-id="Nova 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/nova2.png",Nova 2
+http://31.31.231.70:9981/stream/channelid/118797330?ticket=125f5f10634e05679340ee8c56a9523f80af8edb&profile=pass
+#EXTINF:-1 group-title="České" tvg-id="Nova 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/nova2.png",Nova 2
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18677.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/nova2.png",Nova 2
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6053.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/nova2.png",Nova 2
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4192.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery"  tvg-logo="http://22century.cz/soubory/loga/transparent/discoverychannel.png",Discovery Channel
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4211.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery"  tvg-logo="http://22century.cz/soubory/loga/transparent/discoverychannel.png",Discovery Channel
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery"  tvg-logo="http://22century.cz/soubory/loga/transparent/discoverychannel.png",Discovery Channel
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6080.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery"  tvg-logo="http://22century.cz/soubory/loga/transparent/discoverychannel.png",Discovery Channel
+http://74.81.71.186:4000/live/138/138.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra"  tvg-logo="http://22century.cz/soubory/loga/transparent/idextra.png",Discovery ID Xtra
 http://213.81.153.243/live003/channel035_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-logo="http://22century.cz/soubory/loga/transparent/animalplanet.png",Animal Planet
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet"  tvg-logo="http://22century.cz/soubory/loga/transparent/animalplanet.png",Animal Planet
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18707.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet"  tvg-logo="http://22century.cz/soubory/loga/transparent/animalplanet.png",Animal Planet
 http://88.202.231.174/live/animal_planet_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic"  tvg-logo="http://22century.cz/soubory/loga/transparent/nationalgeographic.png",National geographic
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18679.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic"  tvg-logo="http://22century.cz/soubory/loga/transparent/nationalgeographic.png",National geographic
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6839.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic"  tvg-logo="http://22century.cz/soubory/loga/transparent/nationalgeographic.png",National geographic
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6061.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic"  tvg-logo="http://22century.cz/soubory/loga/transparent/nationalgeographic.png",National geographic
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4162.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild"  tvg-logo="http://22century.cz/soubory/loga/transparent/natgeowild.png",National Geographic Wild
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6060.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild"  tvg-logo="http://22century.cz/soubory/loga/transparent/natgeowild.png",National Geographic Wild
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6838.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild"  tvg-logo="http://22century.cz/soubory/loga/transparent/natgeowild.png",National Geographic Wild
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4161.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum"  tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
 http://174.36.155.34:4000/live/189/189.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum"  tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
 http://88.202.231.174/live/spektrum_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explore" tvg-logo="http://22century.cz/soubory/loga/transparent/viasatexplore.png",Viasat Explore
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum"  tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6052.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum"  tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18675.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum"  tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6830.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum"  tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4156.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum Home"  tvg-logo="http://22century.cz/soubory/loga/transparent/spektrumhome.png",Spektrum Home
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18674.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explore"  tvg-logo="http://22century.cz/soubory/loga/transparent/viasatexplore.png",Viasat Explore
 http://213.81.153.243/live003/channel039_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explore"  tvg-logo="http://22century.cz/soubory/loga/transparent/viasatexplore.png",Viasat Explore
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4158.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History"  tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
 http://213.81.153.243/live003/channel038_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History"  tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
 http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux" tvg-logo="http://22century.cz/soubory/loga/transparent/lux.png",Lux
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History"  tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4189.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Nature"  tvg-logo="http://22century.cz/soubory/loga/transparent/viasatnature.png",Viasat Nature
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18670.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Nature"  tvg-logo="http://22century.cz/soubory/loga/transparent/viasatnature.png",Viasat Nature
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6826.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="E! Entertainment"  tvg-logo="http://22century.cz/soubory/loga/transparent/e!.png",E! Entertainment
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6078.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="E! Entertainment"  tvg-logo="http://22century.cz/soubory/loga/transparent/e!.png",E! Entertainment
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18689.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="E! Entertainment"  tvg-logo="http://22century.cz/soubory/loga/transparent/e!.png",E! Entertainment
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4208.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Fine Living"  tvg-logo="http://22century.cz/soubory/loga/transparent/fineliving.png",Fine Living
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18686.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Fine Living"  tvg-logo="http://22century.cz/soubory/loga/transparent/fineliving.png",Fine Living
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/10124.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Fishing and Hunting"  tvg-logo="http://22century.cz/soubory/loga/transparent/fishinghunting.png",Fishing and Hunting
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4206.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Fishing and Hunting"  tvg-logo="http://22century.cz/soubory/loga/transparent/fishinghunting.png",Fishing and Hunting
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6072.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="History"  tvg-logo="http://22century.cz/soubory/loga/transparent/history.png",History
+http://unicast.bbxnet.sk/live/history/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="History"  tvg-logo="http://22century.cz/soubory/loga/transparent/history.png",History
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6841.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="History"  tvg-logo="http://22century.cz/soubory/loga/transparent/history.png",History
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18685.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="KinoSvet"  tvg-logo="http://22century.cz/soubory/loga/transparent/kinosvet.png",KinoSvět
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6065.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="KinoSvet"  tvg-logo="http://22century.cz/soubory/loga/transparent/kinosvet.png",KinoSvět
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4201.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux"  tvg-logo="http://22century.cz/soubory/loga/transparent/lux.png",Lux
 http://88.202.231.174/live/tv_lux_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-logo="http://22century.cz/soubory/loga/transparent/noe.png",Noe
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux"  tvg-logo="http://22century.cz/soubory/loga/transparent/lux.png",Lux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Mnam TV"  tvg-logo="http://22century.cz/soubory/loga/transparent/mnam.png",Mňam TV
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6063.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Mnam TV"  tvg-logo="http://22century.cz/soubory/loga/transparent/mnam.png",Mňam TV
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4198.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe"  tvg-logo="http://22century.cz/soubory/loga/transparent/noe.png",Noe
 http://88.202.231.174/live/noe_tv_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe"  tvg-logo="http://22century.cz/soubory/loga/transparent/noe.png",Noe
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18678.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika"  tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
 http://213.81.153.243/live003/channel055_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-logo="http://22century.cz/soubory/loga/transparent/tv8.png",TV8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika"  tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6046.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika"  tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4159.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8"  tvg-logo="http://22century.cz/soubory/loga/transparent/tv8.png",TV8
 http://88.202.231.174/live/tv_8_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO
-http://pvr.rete.netforms.cz/master_180.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8"  tvg-logo="http://22century.cz/soubory/loga/transparent/tv8.png",TV8
+http://unicast.bbxnet.sk/live/tv8/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="AMC"  tvg-logo="http://22century.cz/soubory/loga/transparent/amc.png",AMC
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6085.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="AMC"  tvg-logo="http://22century.cz/soubory/loga/transparent/amc.png",AMC
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4215.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO
 http://88.202.231.174/live/hbo_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo2.png",HBO 2
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6070.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4164.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO
+http://pvr.rete.netforms.cz/master_180.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO2"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo2.png",HBO 2
 http://88.202.231.174/live/hbo_2_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo3.png",HBO 3
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO2"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo2.png",HBO 2
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6069.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO2"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo2.png",HBO 2
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4204.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO3"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo3.png",HBO 3
 http://88.202.231.174/live/hbo_3_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-logo="http://22century.cz/soubory/loga/transparent/jojcinema.png",JoJ Cinema
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO3"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo3.png",HBO 3
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6068.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO3"  tvg-logo="http://22century.cz/soubory/loga/transparent/hbo3.png",HBO 3
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4203.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema"  tvg-logo="http://22century.cz/soubory/loga/transparent/jojcinema.png",JoJ Cinema
 http://88.202.231.174/live/joj_cinema_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema"  tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
+http://31.31.231.70:9981/stream/channelid/7207813?ticket=a1ae1b1a1e3b14ab9fbf7089485e3de3dc4954e4&profile=pass
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema"  tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18665.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema"  tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6835.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema"  tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
+http://89.239.16.34:8085/nova_cinema.webm
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema"  tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
 http://88.202.231.174/live/nova_cinema_high_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax 2" tvg-logo="http://22century.cz/soubory/loga/transparent/cinemax2.png",Cinemax 2
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN"  tvg-logo="http://22century.cz/soubory/loga/transparent/axn.png",AXN
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6084.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN"  tvg-logo="http://22century.cz/soubory/loga/transparent/axn.png",AXN
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4214.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN Black"  tvg-logo="http://22century.cz/soubory/loga/transparent/axnblack.png",AXN Black
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18705.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN White"  tvg-logo="http://22century.cz/soubory/loga/transparent/axnwhite.png",AXN White
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18704.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax"  tvg-logo="http://22century.cz/soubory/loga/transparent/cinemax.png",Cinemax
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6081.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax"  tvg-logo="http://22century.cz/soubory/loga/transparent/cinemax.png",Cinemax
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18699.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/cinemax2.png",Cinemax 2
 http://88.202.231.174/live/cinemax_2_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-logo="http://22century.cz/soubory/loga/transparent/filmeurope.png",Film Europe
+#EXTINF:-1 group-title="Filmové" tvg-id="Ceskoslovensko"  tvg-logo="http://22century.cz/soubory/loga/transparent/ceskoslovensko.png",Československo
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18700.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Ceskoslovensko"  tvg-logo="http://22century.cz/soubory/loga/transparent/ceskoslovensko.png",Československo
+http://65.254.55.10:4000/live/196/196.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="CS Film"  tvg-logo="http://22century.cz/soubory/loga/transparent/csfilm.png",ČS Film
+http://89.239.16.34:8085/cs_film.webm
+#EXTINF:-1 group-title="Filmové" tvg-id="CS Film"  tvg-logo="http://22century.cz/soubory/loga/transparent/csfilm.png",ČS Film
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18698.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmeurope.png",Film Europe
 http://213.81.170.239/live002/channel008_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-logo="http://22century.cz/soubory/loga/transparent/filmbox.png",FilmBox
+#EXTINF:-1 group-title="Filmové" tvg-id="Film+"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmplus.png",Film+
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18687.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Film+"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmplus.png",Film+
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6076.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Film+"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmplus.png",Film+
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4169.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmbox.png",FilmBox
 http://88.202.231.174/live/filmbox_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra HD" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxextra.png",Filmbox Extra HD
-http://88.202.231.174/live/filmbox_extra_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxfamily.png",Filmbox Family
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmbox.png",FilmBox
+http://unicast.bbxnet.sk/live/filmbox/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra HD"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxextra.png",Filmbox Extra
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6075.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra HD"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxextra.png",Filmbox Extra
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6842.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra HD"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxextra.png",Filmbox Extra
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4168.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxfamily.png",Filmbox Family
 http://88.202.231.174/live/filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxfamily.png",Filmbox Family
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/8041.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxfamily.png",Filmbox Family
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4167.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus
 http://213.81.153.243/live003/channel043_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus
 http://88.202.231.174/live/filmbox_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxpremium.png",Filmbox Premium
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6074.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4166.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxpremium.png",Filmbox Premium
 http://88.202.231.174/live/filmbox_premium_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="213" tvg-logo="http://22century.cz/soubory/loga/transparent/213.png",213
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxpremium.png",Filmbox Premium
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6073.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxpremium.png",Filmbox Premium
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4165.ts
+#EXTINF:-1 group-title="Športové" tvg-id="213"  tvg-logo="http://22century.cz/soubory/loga/transparent/213.png",213
 http://s4.media-planet.sk/liverepeater/tv213/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport.png",Digi Sport 1
+#EXTINF:-1 group-title="Športové" tvg-id="Auto Motor und Sport Channel"  tvg-logo="http://22century.cz/soubory/loga/transparent/automotorsport.png",Auto Motor und Sport Channel
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18706.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 1"  tvg-logo="http://22century.cz/soubory/loga/transparent/digisport.png",Digi Sport 1
 http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport2.png",Digi Sport 2
+#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 1"  tvg-logo="http://22century.cz/soubory/loga/transparent/digisport.png",Digi Sport 1
+http://magiogo.exmad.com/digisport1.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/digisport2.png",Digi Sport 2
 http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 4" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport4.png",Digi Sport 4
+#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 4"  tvg-logo="http://22century.cz/soubory/loga/transparent/digisport4.png",Digi Sport 4
 http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport1.png",Eurosport
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 1"  tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport1.png",Eurosport
 http://213.81.153.243/live003/channel013_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport2.png",Eurosport 2
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 1"  tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport1.png",Eurosport
+http://31.31.231.70:9981/stream/channelid/1276513557?ticket=bcbff759ca2976ddc29ed7b4fee5993f6ba73db4&profile=pass
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 1"  tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport1.png",Eurosport
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18690.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 1"  tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport1.png",Eurosport
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6844.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport2.png",Eurosport 2
 http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxarthouse.png",FilmBox Arthouse
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport2.png",Eurosport 2
+http://31.31.231.70:9981/stream/channelid/962699735?ticket=0cac719abd26ef9ee62883afe09474f108b6271e&profile=pass
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport2.png",Eurosport 2
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6843.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Fightbox HD"  tvg-logo="http://22century.cz/soubory/loga/transparent/fightbox.png",Fightbox
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18688.ts
+#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse"  tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxarthouse.png",FilmBox Arthouse
 http://88.202.231.174/live/filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Sport1" tvg-logo="http://22century.cz/soubory/loga/transparent/sport1.png",Sport 1
+#EXTINF:-1 group-title="Športové" tvg-id="Golf Channel"  tvg-logo="http://22century.cz/soubory/loga/transparent/golfchannel.png",Golf Channel
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6071.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Golf Channel"  tvg-logo="http://22century.cz/soubory/loga/transparent/golfchannel.png",Golf Channel
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4205.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 1"  tvg-logo="http://22century.cz/soubory/loga/transparent/novasport.png",Nova sport
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18662.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 1"  tvg-logo="http://22century.cz/soubory/loga/transparent/novasport.png",Nova sport
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6833.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 1"  tvg-logo="http://22century.cz/soubory/loga/transparent/novasport.png",Nova sport
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1153.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/novasport2.png",Nova Sport 2
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6057.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/novasport2.png",Nova Sport 2
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1152.ts
+#EXTINF:-1 group-title="Športové" tvg-id="O2 Fotbal"  tvg-logo="http://22century.cz/soubory/loga/transparent/o2fotbal.png",O2 Fotbal
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1151.ts
+#EXTINF:-1 group-title="Športové" tvg-id="O2 Sport"  tvg-logo="http://22century.cz/soubory/loga/transparent/o2sport.png",O2 Sport
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18673.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Sport1"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport1.png",Sport 1
 http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Sport1" tvg-logo="http://22century.cz/soubory/loga/transparent/sport1.png",Sport 1
+#EXTINF:-1 group-title="Športové" tvg-id="Sport1"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport1.png",Sport 1
 http://88.202.231.174/live/sport_1_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/sport2.png",Sport 2
+#EXTINF:-1 group-title="Športové" tvg-id="Sport1"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport1.png",Sport 1
+http://83.167.253.110:5000/live/sport1_hd/playlist.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Sport1"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport1.png",Sport 1
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6051.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Sport1"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport1.png",Sport 1
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18672.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Sport1"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport1.png",Sport 1
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1148.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport2.png",Sport 2
 http://213.81.153.243/live003/channel045_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/sport2.png",Sport 2
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport2.png",Sport 2
 http://88.202.231.174/live/sport_2_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko" tvg-logo="http://22century.cz/soubory/loga/transparent/ocko.png",Óčko
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport2.png",Sport 2
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6050.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport2.png",Sport 2
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6829.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 2"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport2.png",Sport 2
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1147.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 5"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport5.png",Sport 5
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6049.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 5"  tvg-logo="http://22century.cz/soubory/loga/transparent/sport5.png",Sport 5
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4170.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko"  tvg-logo="http://22century.cz/soubory/loga/transparent/ocko.png",Óčko
 http://88.202.231.174/live/ocko_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Music Box" tvg-logo="http://22century.cz/soubory/loga/transparent/musicbox.png",Music Box
+#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko"  tvg-logo="http://22century.cz/soubory/loga/transparent/ocko.png",Óčko
+http://unicast.bbxnet.sk/live/ocko/playlist.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko"  tvg-logo="http://22century.cz/soubory/loga/transparent/ocko.png",Óčko
+http://31.31.231.70:9981/stream/channelid/922357612?ticket=f0087e5cf005e3c4302542f23f53818b9b3acdff&profile=pass
+#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko Gold"  tvg-logo="http://22century.cz/soubory/loga/transparent/ockogold.png",Óčko Gold
+http://31.31.231.70:9981/stream/channelid/1248396181?ticket=d9509530364d0fc318bf38aa16659d52fbf4932b&profile=pass
+#EXTINF:-1 group-title="Hudobné" tvg-id="MTVEUROPE"  tvg-logo="http://22century.cz/soubory/loga/transparent/mtv.png",MTV
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6062.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="MTVEUROPE"  tvg-logo="http://22century.cz/soubory/loga/transparent/mtv.png",MTV
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4197.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Music Box"  tvg-logo="http://22century.cz/soubory/loga/transparent/musicbox.png",Music Box
 http://88.202.231.174/live/music_box_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Slagr TV" tvg-logo="http://22century.cz/soubory/loga/transparent/slagr.png",Šlágr TV
+#EXTINF:-1 group-title="Hudobné" tvg-id="Rebel"  tvg-logo="http://22century.cz/soubory/loga/transparent/rebel.png",Rebel
+http://31.31.231.70:9981/stream/channelid/84187481?ticket=389b79b1593ef01fa208207ddbed92d3f6b75c53&profile=pass
+#EXTINF:-1 group-title="Hudobné" tvg-id="Rebel"  tvg-logo="http://22century.cz/soubory/loga/transparent/rebel.png",Rebel
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6056.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Rebel"  tvg-logo="http://22century.cz/soubory/loga/transparent/rebel.png",Rebel
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4195.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Retro Music"  tvg-logo="http://22century.cz/soubory/loga/transparent/retro.png",Retro Music
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6054.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Retro Music"  tvg-logo="http://22century.cz/soubory/loga/transparent/retro.png",Retro Music
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4193.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="SENZI"  tvg-logo="http://22century.cz/soubory/loga/transparent/senzi.png",SENZI
+http://unicast.bbxnet.sk/live/senzi/playlist.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Slagr TV"  tvg-logo="http://22century.cz/soubory/loga/transparent/slagr.png",Šlágr TV
 http://88.202.231.174/live/mtv_europe_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-logo="http://22century.cz/soubory/loga/transparent/disneychannel.png",Disney channel
+#EXTINF:-1 group-title="Hudobné" tvg-id="Brava HDTV"  tvg-logo="http://22century.cz/soubory/loga/transparent/brava.png",Brava
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6082.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Brava HDTV"  tvg-logo="http://22century.cz/soubory/loga/transparent/brava.png",Brava
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4212.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Brava HDTV"  tvg-logo="http://22century.cz/soubory/loga/transparent/brava.png",Brava
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6828.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="iConcerts"  tvg-logo="http://22century.cz/soubory/loga/transparent/iconcerts.png",iConcerts
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6067.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Boomerang"  tvg-logo="http://22century.cz/soubory/loga/transparent/boomerang.png",Boomerang
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6083.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Boomerang"  tvg-logo="http://22century.cz/soubory/loga/transparent/boomerang.png",Boomerang
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4213.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel"  tvg-logo="http://22century.cz/soubory/loga/transparent/disneychannel.png",Disney channel
 http://213.81.153.243/live003/channel051_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-logo="http://22century.cz/soubory/loga/transparent/minimax.png",Minimax
+#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel"  tvg-logo="http://22century.cz/soubory/loga/transparent/disneychannel.png",Disney channel
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18693.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel"  tvg-logo="http://22century.cz/soubory/loga/transparent/disneychannel.png",Disney channel
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4210.ts
+#EXTINF:-1 group-title="Detské" tvg-id="duck.tv"  tvg-logo="http://22century.cz/soubory/loga/transparent/ducktv.png",duck.tv
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6079.ts
+#EXTINF:-1 group-title="Detské" tvg-id="duck.tv"  tvg-logo="http://22century.cz/soubory/loga/transparent/ducktv.png",duck.tv
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4209.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Jim Jam"  tvg-logo="http://22century.cz/soubory/loga/transparent/jimjam.png",JimJam
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18684.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Minimax"  tvg-logo="http://22century.cz/soubory/loga/transparent/minimax.png",Minimax
 http://213.81.170.239/live002/channel048_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
+#EXTINF:-1 group-title="Detské" tvg-id="Minimax"  tvg-logo="http://22century.cz/soubory/loga/transparent/minimax.png",Minimax
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6064.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Minimax"  tvg-logo="http://22century.cz/soubory/loga/transparent/minimax.png",Minimax
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4199.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Nick Jr."  tvg-logo="http://22century.cz/soubory/loga/transparent/nickjr.png",Nick Jr.
+http://65.254.55.10:4000/live/195/195.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon"  tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
 http://88.202.231.174/live/nickelodeon_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="RiK" tvg-logo="http://22century.cz/soubory/loga/transparent/rik.png",RiK
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon"  tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
+http://unicast.bbxnet.sk/live/nickelodeon/playlist.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon"  tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/6058.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon"  tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/4196.ts
+#EXTINF:-1 group-title="Detské" tvg-id="RiK"  tvg-logo="http://22century.cz/soubory/loga/transparent/rik.png",RiK
 http://88.202.231.174:80/live/rik_tv_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="RiK"  tvg-logo="http://22century.cz/soubory/loga/transparent/rik.png",RiK
+http://unicast.bbxnet.sk/live/rik/playlist.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="RiK"  tvg-logo="http://22century.cz/soubory/loga/transparent/rik.png",RiK
+http://nn2.joj.sk/hls/rik-540.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="RiK"  tvg-logo="http://22century.cz/soubory/loga/transparent/rik.png",RiK
+http://nn2.joj.sk/hls/rik-360.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="RiK"  tvg-logo="http://22century.cz/soubory/loga/transparent/rik.png",RiK
+http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18676.ts
 #EXTINF:-1 group-title="Detské" tvg-id="Tuty" tvg-logo="http://22century.cz/soubory/loga/transparent/tuty.png",Tuty
 http://88.202.231.174:80/live/tuty_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="Regionálne"  tvg-id="Reduta"  tvg-logo="https://ulango.tv/uploads/channels/7230/logo_tv%20reduta.png",Reduta rtmp://s1.media-planet.sk:80/live/reduta
 
----------------------------Radia---------------------------
+---------------------------Rádiá---------------------------
 
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radios20.jpg",
 http://sleduj.16mb.com/tip/jingl.mp3
