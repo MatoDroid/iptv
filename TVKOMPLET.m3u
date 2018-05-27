@@ -601,7 +601,8 @@ http://nn2.joj.sk/hls/rik-360.m3u8
 http://iptvsun.net:8080/live/LN137/wzrnvhp884512/18676.ts
 #EXTINF:-1 group-title="Detské" tvg-id="Tuty" tvg-logo="http://22century.cz/soubory/loga/transparent/tuty.png",Tuty
 http://88.202.231.174:80/live/tuty_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="Regionálne"  tvg-id="Reduta"  tvg-logo="https://ulango.tv/uploads/channels/7230/logo_tv%20reduta.png",Reduta rtmp://s1.media-planet.sk:80/live/reduta
+#EXTINF:-1 group-title="Regionálne"  tvg-id="Reduta"  tvg-logo="https://ulango.tv/uploads/channels/7230/logo_tv%20reduta.png",Reduta
+rtmp://s1.media-planet.sk:80/live/reduta
 
 ---------------------------Rádiá---------------------------
 
