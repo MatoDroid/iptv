@@ -1,402 +1,2128 @@
 #EXTM3U
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1",Jednotka
-http://88.202.231.174/live/stv_1_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1",Jednotka
-http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p4.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1",Jednotka
-http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1",Jednotka
-http://65.254.55.10:4000/live/177/177.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2",Dvojka
-http://88.202.231.174/live/stv_2_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2",Dvojka
-http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p4.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2",Dvojka
-http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2",Dvojka
-http://176.222.224.107:52011/udp/233.49.26.75_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza",Markíza
-http://88.202.231.174:80/live/markiza_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza",Markíza
-http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p4.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza",Markíza
-http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj",JOJ
-http://88.202.231.174:80/live/joj_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj",JOJ
-http://nn2.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj",JOJ
-http://65.254.55.10:4000/live/141/141.m3u8
-#EXTINF:-1 group-title="Slovenské"   JOJ+1
-http://88.202.231.174:80/live/joj_plus1_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus",JoJ Plus
-http://88.202.231.174:80/live/joj_plus_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus",JoJ Plus
-http://se02.se.magiogo05.cdn.telekom.sk/live005/channel006_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus",JoJ Plus
-http://nn2.joj.sk/hls/jojplus-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family",JOJ Family
-https://nn5.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family",JOJ Family
-http://83.167.253.110:5000/live/joj_family/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family",JOJ Family
-http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family",JOJ Family
-http://176.222.224.107:52011/udp/224.0.120.2_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau",WAU
-http://88.202.231.174:80/live/wau_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau",WAU
-http://magiogo05.cdn.telekom.sk/live005/channel030_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau",WAU
-http://nn2.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau",WAU
-http://nn.geo.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TV DAJTO" tvg-name="Tv Dajto",Dajto
-http://88.202.231.174:80/live/dajto_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TV DAJTO" tvg-name="Tv Dajto",Dajto
-http://se03.se.magiogo06.cdn.telekom.sk/live006/channel004_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma",Doma
-http://88.202.231.174:80/live/doma_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma",Doma
-http://se03.se.magiogo06.cdn.telekom.sk/live006/channel011_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma",Doma
-http://176.222.224.107:52011/udp/233.49.26.81_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3",TA3
-http://213.81.153.243/live003/channel007_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3",TA3
-http://88.202.231.174:80/live/ta_3_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3",TA3
-http://unicast.bbxnet.sk/live/ta3/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3",TA3
-http://176.222.224.107:52011/udp/233.49.26.74_2314
-#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2",ČT 2
-http://88.202.231.174:80/live/ct_2_high_3500_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2",ČT 2
-http://89.239.16.34:8085/ct2.webm
-#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2",ČT 2
-http://65.254.55.10:4000/live/78/78.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24",ČT 24
-http://88.202.231.174:80/live/ct_24_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24",ČT 24
-http://176.222.224.107:52011/udp/233.49.26.169_2314
-#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24",ČT 24
-http://176.222.224.107:52011/udp/233.49.26.125_2314
-#EXTINF:-1 group-title="České" tvg-id="ČT art" tvg-name="Ct Art",ČT art
-http://88.202.231.174:80/live/ct_detem_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT art" tvg-name="Ct Art",ČT art
-http://176.222.224.107:52011/udp/224.0.120.1_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
-http://88.202.231.174/live/prima_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
-http://83.167.253.110:5000/live/prima/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
-http://89.239.16.34:8085/prima.webm
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
-http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
-http://65.254.55.10:4000/live/115/115.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
-http://176.222.224.107:52011/udp/233.49.26.84_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima Comedy Central" tvg-name="Prima Comedy Central",Prima Comedy Central
-http://176.222.224.107:52011/udp/224.0.120.49_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool",Prima Cool
-http://88.202.231.174:80/live/prima_cool_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool",Prima Cool
-http://89.239.16.34:8085/prima_cool.webm
-#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool",Prima Cool
-http://176.222.224.107:52011/udp/233.49.26.93_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love",Prima Love
-http://88.202.231.174:80/live/prima_love_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love",Prima Love
-http://89.239.16.34:8085/prima_love.webm
-#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love",Prima Love
-http://176.222.224.107:52011/udp/224.0.120.37_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom",Prima Zoom
-http://88.202.231.174:80/live/prima_zoom_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom",Prima Zoom
-http://89.239.16.34:8085/prima_zoom.webm
-#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom",Prima Zoom
-http://176.222.224.107:52011/udp/224.0.120.36_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max",Prima MAX
-http://74.208.44.158:5000/live/518/518.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max",Prima MAX
-http://88.202.231.174/live/prima_max_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max",Prima MAX
-http://176.222.224.107:52011/udp/224.0.120.43_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-name="Prima Plus",Prima Plus
-http://88.202.231.174:80/live/prima_plus_medium_1800_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova",Nova
-http://89.239.16.34:8085/nova.webm
-#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova",Nova
-http://176.222.224.107:52011/udp/233.49.26.123_2314
-#EXTINF:-1 group-title="České" tvg-id="Nova International" tvg-name="Nova International",Nova International
-http://88.202.231.174:80/live/nova_international_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action",Nova Action
-http://174.36.163.12:4000/live/304/304.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action",Nova Action
-http://89.239.16.34:8085/fanda.webm
-#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action",Nova Action
-http://176.222.224.107:52011/udp/224.0.120.32_2314
-#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold",Nova Gold
-http://88.202.231.174/live/telka_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold",Nova Gold
-http://89.239.16.34:8085/telka.webm
-#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold",Nova Gold
-http://176.222.224.107:52011/udp/224.0.120.34_2314
-#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov",Barrandov
-http://88.202.231.174:80/live/barrandov_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov",Barrandov
-http://176.222.224.107:52011/udp/233.49.26.135_2314
-#EXTINF:-1 group-title="České" tvg-id="Barrandov Family" tvg-name="Barrandov Family",Barrandov Family
-http://176.222.224.107:52011/udp/224.0.120.38_2314
-#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus" tvg-name="Barrandov Plus",Barrandov Plus
-http://88.202.231.174:80/live/barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov" tvg-name="Kino Barrandov",Kino Barrandov
-http://88.202.231.174:80/live/kino_barrandov_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2",Nova 2
-http://89.239.16.34:8085/smichov.webm
-#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2",Nova 2
-http://176.222.224.107:52011/udp/224.0.120.33_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase",Discovery HD Showcase
-http://74.81.71.186:4000/live/138/138.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase",Discovery HD Showcase
-http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase",Discovery HD Showcase
-http://176.222.224.107:52011/udp/233.49.26.109_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase",Discovery HD Showcase
-http://176.222.224.107:52011/udp/233.49.26.143_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-name="Id Xtra",Discovery ID Xtra
-http://213.81.153.243/live003/channel035_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-name="Id Xtra",Discovery ID Xtra
-http://176.222.224.107:52011/udp/224.0.120.40_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery Science" tvg-name="Discovery Science",Discovery Science
-http://176.222.224.107:52011/udp/224.0.120.41_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-name="Animalplanet",Animal Planet
-http://88.202.231.174/live/animal_planet_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-name="Animalplanet",Animal Planet
-http://176.222.224.107:52011/udp/233.49.26.217_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic" tvg-name="National Geographic",National Geographic
-http://176.222.224.107:52011/udp/233.49.26.79_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic" tvg-name="National Geographic",National Geographic
-http://176.222.224.107:52011/udp/233.49.26.228_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-name="National Geographic Wild",National Geographic Wild
-http://176.222.224.107:52011/udp/224.0.120.8_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum",Spektrum
-http://174.36.155.34:4000/live/189/189.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum",Spektrum
-http://88.202.231.174/live/spektrum_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum",Spektrum
-http://176.222.224.107:52011/udp/233.49.26.57_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explorer" tvg-name="Viasat Explorer",Viasat Explore
-http://213.81.153.243/live003/channel039_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explorer" tvg-name="Viasat Explorer",Viasat Explore
-http://176.222.224.107:52011/udp/233.49.26.213_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History",Viasat History
-http://213.81.153.243/live003/channel038_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History",Viasat History
-http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History",Viasat History
-http://176.222.224.107:52011/udp/233.49.26.212_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History HD" tvg-name="Viasat History Hd",Viasat History HD
-http://unicast.bbxnet.sk/live/history/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TLC" tvg-name="Tlc",TLC
-http://176.222.224.107:52011/udp/233.49.26.97_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="CBS Reality" tvg-name="Cbs Reality",CBS Reality
-http://176.222.224.107:52011/udp/233.49.26.112_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="DTX" tvg-name="Dtx",DTX
-http://176.222.224.107:52011/udp/233.49.26.148_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="FashionBox HD" tvg-name="Fashionbox Hd",FashionBox HD
-http://176.222.224.107:52011/udp/233.49.26.26_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové"   Fishing and Hunting
-http://176.222.224.107:52011/udp/233.49.26.98_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux" tvg-name="Lux",Lux
-http://88.202.231.174/live/tv_lux_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Mňam TV" tvg-name="Mnam Tv",Mňam TV
-http://176.222.224.107:52011/udp/224.0.120.23_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-name="Noe",Noe
-http://88.202.231.174/live/noe_tv_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-name="Noe",Noe
-http://176.222.224.107:52011/udp/233.49.26.126_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
-http://213.81.153.243/live003/channel055_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
-http://88.202.231.174:80/live/rik_tv_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
-http://unicast.bbxnet.sk/live/rik/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
-http://nn2.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
-http://nn2.joj.sk/hls/rik-360.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
-http://176.222.224.107:52011/udp/233.49.26.209_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8",TV8
-http://88.202.231.174/live/tv_8_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8",TV8
-http://unicast.bbxnet.sk/live/tv8/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8",TV8
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo",HBO
-http://pvr.rete.netforms.cz/master_180.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo",HBO
-http://88.202.231.174/live/hbo_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo",HBO
-http://176.222.224.107:52011/udp/233.49.26.87_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="Hbo2",HBO 2
-http://88.202.231.174/live/hbo_2_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="Hbo2",HBO 2
-http://176.222.224.107:52011/udp/224.0.120.9_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="Hbo3",HBO 3
-http://88.202.231.174/live/hbo_3_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="Hbo3",HBO 3
-http://176.222.224.107:52011/udp/224.0.120.10_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema",JoJ Cinema
-http://88.202.231.174/live/joj_cinema_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema",JoJ Cinema
-http://176.222.224.107:52011/udp/224.0.120.31_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema",Nova Cinema
-http://88.202.231.174/live/nova_cinema_high_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema",Nova Cinema
-http://89.239.16.34:8085/nova_cinema.webm
-#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema",Nova Cinema
-http://176.222.224.107:52011/udp/233.49.26.140_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="AXN" tvg-name="Axn",AXN
-http://176.222.224.107:52011/udp/233.49.26.116_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="AXN White" tvg-name="Axn White",AXN White
-http://176.222.224.107:52011/udp/233.49.26.161_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax" tvg-name="Cinemax",Cinemax
-http://176.222.224.107:52011/udp/224.0.120.11_2314
-#EXTINF:-1 group-title="Filmové"   Cinemax 2
-http://88.202.231.174/live/cinemax_2_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové"   Cinemax 2
-http://176.222.224.107:52011/udp/224.0.120.12_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Československo" tvg-name="Ceskoslovensko",Československo
-http://65.254.55.10:4000/live/196/196.m3u8
-#EXTINF:-1 group-title="Filmové"   ČS Film
-http://89.239.16.34:8085/cs_film.webm
-#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-name="Film Europe",Film Europe
-http://213.81.170.239/live002/channel008_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-name="Film Europe",Film Europe
-http://176.222.224.107:52011/udp/233.49.26.54_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox",FilmBox
-http://88.202.231.174/live/filmbox_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox",FilmBox
-http://unicast.bbxnet.sk/live/filmbox/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox",FilmBox
-http://176.222.224.107:52011/udp/233.49.26.226_2314
-#EXTINF:-1 group-title="Filmové"   Filmbox Extra
-http://88.202.231.174/live/filmbox_extra_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové"   Filmbox Extra
-http://176.222.224.107:52011/udp/233.49.26.233_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family",Filmbox Family
-http://88.202.231.174/live/filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family",Filmbox Family
-http://176.222.224.107:52011/udp/233.49.26.42_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus",Filmbox Plus
-http://213.81.153.243/live003/channel043_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus",Filmbox Plus
-http://88.202.231.174/live/filmbox_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus",Filmbox Plus
-http://176.222.224.107:52011/udp/233.49.26.43_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium",Filmbox Premium
-http://88.202.231.174/live/filmbox_premium_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium",Filmbox Premium
-http://176.222.224.107:52011/udp/233.49.26.218_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1",Arena Sport 1
-http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1",Arena Sport 1
-http://88.202.231.174/live/sport_1_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1",Arena Sport 1
-http://176.222.224.107:52011/udp/233.49.26.94_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2",Arena Sport 2
-http://213.81.153.243/live003/channel045_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2",Arena Sport 2
-http://88.202.231.174/live/sport_2_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2",Arena Sport 2
-http://176.222.224.107:52011/udp/233.49.26.28_2314
-#EXTINF:-1 group-title="Športové"   Digi Sport 1
-http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové"   Digi Sport 1
-http://magiogo.exmad.com/digisport1.m3u8
-#EXTINF:-1 group-title="Športové"   Digi Sport 1
-http://83.167.253.110:5000/live/sport1_hd/playlist.m3u8
-#EXTINF:-1 group-title="Športové"   Digi Sport 2
-http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové"   Digi Sport 4
-http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové"   Eurosport
-http://213.81.153.243/live003/channel013_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-name="Eurosport 2",Eurosport 2
-http://176.222.224.107:52011/udp/233.49.26.56_2314
-#EXTINF:-1 group-title="Športové"   Fightbox
-http://176.222.224.107:52011/udp/233.49.26.25_2314
-#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-name="Filmbox Arthouse",FilmBox Arthouse
-http://88.202.231.174/live/filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-name="Filmbox Arthouse",FilmBox Arthouse
-http://176.222.224.107:52011/udp/224.0.120.45_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Golf Channel" tvg-name="Golf Channel",Golf Channel
-http://176.222.224.107:52011/udp/233.49.26.50_2314
-#EXTINF:-1 group-title="Športové"   Nova sport
-http://176.222.224.107:52011/udp/233.49.26.133_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2" tvg-name="Nova Sport 2",Nova Sport 2
-http://176.222.224.107:52011/udp/224.0.120.35_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Sport 5" tvg-name="Sport 5",Sport 5
-http://176.222.224.107:52011/udp/233.49.26.99_2314
-#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko" tvg-name="Ocko",Óčko
-http://88.202.231.174/live/ocko_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko" tvg-name="Ocko",Óčko
-http://unicast.bbxnet.sk/live/ocko/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko" tvg-name="Ocko",Óčko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Expres" tvg-name="Ocko Expres",Óčko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Hudobné"   Óčko Gold
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Music Box" tvg-name="Music Box",Music Box
-http://88.202.231.174/live/music_box_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Rebel" tvg-name="Rebel",Rebel
-http://176.222.224.107:52011/udp/233.49.26.138_2314
-#EXTINF:-1 group-title="Hudobné" tvg-id="SENZI" tvg-name="Senzi",SENZI
-http://unicast.bbxnet.sk/live/senzi/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Šlágr TV" tvg-name="Slagr Tv",Šlágr TV
-http://88.202.231.174/live/mtv_europe_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Šlágr TV" tvg-name="Slagr Tv",Šlágr TV
-http://176.222.224.107:52011/udp/233.49.26.45_2314
-#EXTINF:-1 group-title="Hudobné" tvg-id="VH1" tvg-name="Vh1",VH1
-http://176.222.224.107:52011/udp/233.49.26.208_2314
-#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-name="Disney Channel",Disney channel
-http://213.81.153.243/live003/channel051_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-name="Disney Channel",Disney channel
-http://176.222.224.107:52011/udp/233.49.26.115_2314
-#EXTINF:-1 group-title="Detské"   JimJam
-http://176.222.224.107:52011/udp/233.49.26.198_2314
-#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-name="Minimax",Minimax
-http://213.81.170.239/live002/channel048_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-name="Minimax",Minimax
-http://176.222.224.107:52011/udp/233.49.26.210_2314
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon",Nickelodeon
-http://88.202.231.174/live/nickelodeon_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon",Nickelodeon
-http://unicast.bbxnet.sk/live/nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon",Nickelodeon
-http://176.222.224.107:52011/udp/233.49.26.251_2314
-#EXTINF:-1 group-title="Detské" tvg-id="TUTY" tvg-name="Tuty",Tuty
-http://88.202.231.174:80/live/tuty_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="TUTY" tvg-name="Tuty",Tuty
-http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
-#EXTINF:-1 group-title="Erotické"   Playboy
-http://176.222.224.107:52011/udp/233.49.26.96_2314
-#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1",ČT 1
-http://88.202.231.174:80/live/ct_1_high_3500_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1",ČT 1
-http://89.239.16.34:8085/ct1.webm
-#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1",ČT 1
-http://65.254.55.10:4000/live/176/176.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport",ČT 4 Sport
-http://88.202.231.174:80/live/ct_4_sport_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport",ČT 4 Sport
-http://89.239.16.34:8085/ct4.webm
-#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport",ČT 4 Sport
-http://176.222.224.107:52011/udp/233.49.26.170_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza International" tvg-name="Markiza International",Markíza International
-http://176.222.224.107:52011/udp/233.49.26.68_2314
 
+#EXTINF:0 tvg-id="AMC" tvg-name="Amc", AMC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AnimalPlanet" tvg-name="Animalplanet", AnimalPlanet
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Auto Motor und Sport Channel" tvg-name="Auto Motor Und Sport Channel", Auto Motor und Sport Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AXN" tvg-name="Axn", AXN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AXN Black" tvg-name="Axn Black", AXN Black
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AXN Digi TV" tvg-name="Axn Digi Tv", AXN Digi TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AXN HD" tvg-name="Axn Hd", AXN HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AXN White" tvg-name="Axn White", AXN White
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Barrandov" tvg-name="Barrandov", Barrandov
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Barrandov Family" tvg-name="Barrandov Family", Barrandov Family
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Barrandov Plus" tvg-name="Barrandov Plus", Barrandov Plus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Btv" tvg-name="Btv", Btv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CBS Drama" tvg-name="Cbs Drama", CBS Drama
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CBS Reality" tvg-name="Cbs Reality", CBS Reality
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cinemax" tvg-name="Cinemax", Cinemax
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cinemax2" tvg-name="Cinemax2", Cinemax2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Country No. 1" tvg-name="Country No. 1", Country No. 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Crime and Investigation" tvg-name="Crime And Investigation", Crime and Investigation
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CS Film" tvg-name="Cs Film", CS Film
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CS Mini" tvg-name="Cs Mini", CS Mini
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Československo" tvg-name="Ceskoslovensko", ceskoslovensko
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČT :D" tvg-name="Ct :d", cT :D
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČT art" tvg-name="Ct Art", cT art
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČT1" tvg-name="Ct1", cT1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČT2" tvg-name="Ct2", cT2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČT24" tvg-name="Ct24", cT24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČT4 Sport" tvg-name="Ct4 Sport", cT4 Sport
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery" tvg-name="Discovery", Discovery
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase", Discovery HD Showcase
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery Investigation" tvg-name="Discovery Investigation", Discovery Investigation
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery Science", Discovery Science
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Channel" tvg-name="Disney Channel", Disney Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="DTX" tvg-name="Dtx", DTX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Erox HD" tvg-name="Erox Hd", Erox HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport 1" tvg-name="Eurosport 1", Eurosport 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport 2", Eurosport 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Extasy" tvg-name="Extasy", Extasy
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FashionTV" tvg-name="Fashiontv", FashionTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FashionTV czsk" tvg-name="Fashiontv Czsk", FashionTV czsk
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Festival" tvg-name="Festival", Festival
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Film Europe" tvg-name="Film Europe", Film Europe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Film+" tvg-name="Film+", Film+
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Filmbox" tvg-name="Filmbox", Filmbox
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Filmbox Extra HD" tvg-name="Filmbox Extra Hd", Filmbox Extra HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Filmbox Family" tvg-name="Filmbox Family", Filmbox Family
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Filmbox Plus" tvg-name="Filmbox Plus", Filmbox Plus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Filmbox Premium" tvg-name="Filmbox Premium", Filmbox Premium
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fine Living Network" tvg-name="Fine Living Network", Fine Living Network
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Food Network HD" tvg-name="Food Network Hd", Food Network HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FUN1" tvg-name="Fun1", FUN1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Golf Channel" tvg-name="Golf Channel", Golf Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Harmonie TV" tvg-name="Harmonie Tv", Harmonie TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HBO" tvg-name="Hbo", HBO
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HBO2" tvg-name="Hbo2", HBO2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HBO3" tvg-name="Hbo3", HBO3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HD Plus" tvg-name="Hd Plus", HD Plus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="History Channel" tvg-name="History Channel", History Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HOROR FILM" tvg-name="Horor Film", HOROR FILM
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ID Xtra" tvg-name="Id Xtra", ID Xtra
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Jihočeská televize" tvg-name="Jihoceska Televize", Jihoceska televize
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Jim Jam" tvg-name="Jim Jam", Jim Jam
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="JOJ Cinema" tvg-name="Joj Cinema", JOJ Cinema
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="JOJ Family" tvg-name="Joj Family", JOJ Family
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kino Barrandov" tvg-name="Kino Barrandov", Kino Barrandov
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kino CS" tvg-name="Kino Cs", Kino CS
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="KinoSvět" tvg-name="Kinosvet", KinoSvet
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Leo" tvg-name="Leo", Leo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Megamax" tvg-name="Megamax", Megamax
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MeteoTV" tvg-name="Meteotv", MeteoTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Minimax" tvg-name="Minimax", Minimax
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Mňam TV" tvg-name="Mnam Tv", Mnam TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Mňau TV" tvg-name="Mnau Tv", Mnau TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV" tvg-name="Mtv", MTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Muzika CS" tvg-name="Muzika Cs", Muzika CS
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic" tvg-name="National Geographic", National Geographic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic HD" tvg-name="National Geographic Hd", National Geographic HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild", National Geographic Wild
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon", Nickelodeon
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Noe" tvg-name="Noe", Noe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nova" tvg-name="Nova", Nova
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nova 2" tvg-name="Nova 2", Nova 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nova Action" tvg-name="Nova Action", Nova Action
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nova Cinema" tvg-name="Nova Cinema", Nova Cinema
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nova Gold" tvg-name="Nova Gold", Nova Gold
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nova International" tvg-name="Nova International", Nova International
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nova Sport 1" tvg-name="Nova Sport 1", Nova Sport 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nova Sport 2" tvg-name="Nova Sport 2", Nova Sport 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="O2 Info 1" tvg-name="O2 Info 1", O2 Info 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="O2 Sport" tvg-name="O2 Sport", O2 Sport
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="O2TV Fotbal" tvg-name="O2tv Fotbal", O2TV Fotbal
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="O2TV Tenis" tvg-name="O2tv Tenis", O2TV Tenis
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Óčko" tvg-name="Ocko", Ocko
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Óčko Expres" tvg-name="Ocko Expres", Ocko Expres
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Óčko Star" tvg-name="Ocko Star", Ocko Star
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="OIK TV" tvg-name="Oik Tv", OIK TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Paprika" tvg-name="Paprika", Paprika
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="POLAR" tvg-name="Polar", POLAR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="PRAHA TV" tvg-name="Praha Tv", PRAHA TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Prima" tvg-name="Prima", Prima
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Prima Comedy Central" tvg-name="Prima Comedy Central", Prima Comedy Central
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Prima Cool" tvg-name="Prima Cool", Prima Cool
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Prima LOVE" tvg-name="Prima Love", Prima LOVE
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Prima MAX" tvg-name="Prima Max", Prima MAX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Prima ZOOM" tvg-name="Prima Zoom", Prima ZOOM
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Reality Kings TV" tvg-name="Reality Kings Tv", Reality Kings TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rebel" tvg-name="Rebel", Rebel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="regionalnitelevize.cz" tvg-name="Regionalnitelevize.cz", regionalnitelevize.cz
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="regiony+" tvg-name="Regiony+", regiony+
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RELAX" tvg-name="Relax", RELAX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Retro Music" tvg-name="Retro Music", Retro Music
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Ring" tvg-name="Ring", Ring
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RT Ústecko" tvg-name="Rt Ustecko", RT Ustecko
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTM" tvg-name="Rtm", RTM
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Slovácko" tvg-name="Slovacko", Slovacko
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Slušnej Kanál TV" tvg-name="Slusnej Kanal Tv", Slusnej Kanal TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Spektrum" tvg-name="Spektrum", Spektrum
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Spektrum Home" tvg-name="Spektrum Home", Spektrum Home
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sport 5" tvg-name="Sport 5", Sport 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sport M" tvg-name="Sport M", Sport M
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sport1" tvg-name="Sport1", Sport1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sport2" tvg-name="Sport2", Sport2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Šlágr TV" tvg-name="Slagr Tv", Slagr TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="The Fishing and Hunting" tvg-name="The Fishing And Hunting", The Fishing and Hunting
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="The Fishing and Hunting (v UPC)" tvg-name="The Fishing And Hunting (v Upc)", The Fishing and Hunting (v UPC)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TIK" tvg-name="Tik", TIK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TLC" tvg-name="Tlc", TLC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Travel Channel" tvg-name="Travel Channel", Travel Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TUTY" tvg-name="Tuty", TUTY
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="UP NETWORK" tvg-name="Up Network", UP NETWORK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="V1" tvg-name="V1", V1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Viasat Explorer" tvg-name="Viasat Explorer", Viasat Explorer
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Viasat History" tvg-name="Viasat History", Viasat History
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Viasat History HD" tvg-name="Viasat History Hd", Viasat History HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Viasat Nature" tvg-name="Viasat Nature", Viasat Nature
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Viasat Nature HD" tvg-name="Viasat Nature Hd", Viasat Nature HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VOYO" tvg-name="Voyo", VOYO
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="WAR svět válek" tvg-name="War Svet Valek", WAR svet valek
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZAK" tvg-name="Zak", ZAK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="213" tvg-name="213", 213
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Arena Sport 1" tvg-name="Arena Sport 1", Arena Sport 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Arena Sport 2" tvg-name="Arena Sport 2", Arena Sport 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CETV" tvg-name="Cetv", CETV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Digi sport SK" tvg-name="Digi Sport Sk", Digi sport SK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Digi sport SK 2" tvg-name="Digi Sport Sk 2", Digi sport SK 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Digi sport SK 3" tvg-name="Digi Sport Sk 3", Digi sport SK 3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Digi sport SK 4" tvg-name="Digi Sport Sk 4", Digi sport SK 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Digi sport SK 5" tvg-name="Digi Sport Sk 5", Digi sport SK 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Doma" tvg-name="Doma", Doma
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="duck.tv" tvg-name="Duck.tv", duck.tv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="duck.tv HD" tvg-name="Duck.tv Hd", duck.tv HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="JOJ" tvg-name="Joj", JOJ
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="JOJ Plus" tvg-name="Joj Plus", JOJ Plus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="LifeTV" tvg-name="Lifetv", LifeTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Liptov" tvg-name="Liptov", Liptov
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Lux" tvg-name="Lux", Lux
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Markíza" tvg-name="Markiza", Markiza
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Markíza International" tvg-name="Markiza International", Markiza International
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Music Box" tvg-name="Music Box", Music Box
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Prima Plus" tvg-name="Prima Plus", Prima Plus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="PVTV" tvg-name="Pvtv", PVTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rádio Vlna" tvg-name="Radio Vlna", Radio Vlna
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RiK" tvg-name="Rik", RiK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SENZI" tvg-name="Senzi", SENZI
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Severka" tvg-name="Severka", Severka
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Spartak TV" tvg-name="Spartak Tv", Spartak TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="STV1" tvg-name="Stv1", STV1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="STV2" tvg-name="Stv2", STV2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TA3" tvg-name="Ta3", TA3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Ťuki" tvg-name="Tuki", tuki
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV Bratislava" tvg-name="Tv Bratislava", TV Bratislava
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV DAJTO" tvg-name="Tv Dajto", TV DAJTO
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV Naša" tvg-name="Tv Nasa", TV Nasa
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV Považie" tvg-name="Tv Povazie", TV Povazie
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV RAJ" tvg-name="Tv Raj", TV RAJ
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV8" tvg-name="Tv8", TV8
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV9 KTV" tvg-name="Tv9 Ktv", TV9 KTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Vega" tvg-name="Vega", Vega
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="WAU" tvg-name="Wau", WAU
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cartoon Network (pl)" tvg-name="Cartoon Network (pl)", Cartoon Network (pl)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ESKA TV" tvg-name="Eska Tv", ESKA TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kino Polska" tvg-name="Kino Polska", Kino Polska
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kuchnia+" tvg-name="Kuchnia+", Kuchnia+
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="nSport HD" tvg-name="Nsport Hd", nSport HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ONTV" tvg-name="Ontv", ONTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polonia" tvg-name="Polonia", Polonia
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat" tvg-name="Polsat", Polsat
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat Café" tvg-name="Polsat Cafe", Polsat Cafe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat Film" tvg-name="Polsat Film", Polsat Film
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat News" tvg-name="Polsat News", Polsat News
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat Play" tvg-name="Polsat Play", Polsat Play
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat Romans" tvg-name="Polsat Romans", Polsat Romans
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat Sport" tvg-name="Polsat Sport", Polsat Sport
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Extra", Polsat Sport Extra
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat Sport News" tvg-name="Polsat Sport News", Polsat Sport News
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat1" tvg-name="Polsat1", Polsat1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Polsat2" tvg-name="Polsat2", Polsat2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Puls 2" tvg-name="Puls 2", Puls 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Super Polsat" tvg-name="Super Polsat", Super Polsat
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Tele5" tvg-name="Tele5", Tele5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV Bialorus" tvg-name="Tv Bialorus", TV Bialorus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV Puls" tvg-name="Tv Puls", TV Puls
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV4" tvg-name="Tv4", TV4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV6" tvg-name="Tv6", TV6
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVN" tvg-name="Tvn", TVN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVN7" tvg-name="Tvn7", TVN7
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP HD" tvg-name="Tvp Hd", TVP HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP Historia" tvg-name="Tvp Historia", TVP Historia
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP Info" tvg-name="Tvp Info", TVP Info
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP Kultura" tvg-name="Tvp Kultura", TVP Kultura
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP Rozrywka" tvg-name="Tvp Rozrywka", TVP Rozrywka
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP Seriale" tvg-name="Tvp Seriale", TVP Seriale
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP Sport" tvg-name="Tvp Sport", TVP Sport
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP Warszawa" tvg-name="Tvp Warszawa", TVP Warszawa
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP1" tvg-name="Tvp1", TVP1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP2" tvg-name="Tvp2", TVP2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVP3" tvg-name="Tvp3", TVP3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVS" tvg-name="Tvs", TVS
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="3SAT" tvg-name="3sat", 3SAT
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ANIXE HD" tvg-name="Anixe Hd", ANIXE HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ARD" tvg-name="Ard", ARD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ARD-alpha" tvg-name="Ard-alpha", ARD-alpha
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ARTE" tvg-name="Arte", ARTE
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ATV (de)" tvg-name="Atv (de)", ATV (de)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BR" tvg-name="Br", BR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Deluxe Lounge HD" tvg-name="Deluxe Lounge Hd", Deluxe Lounge HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Deluxe Music" tvg-name="Deluxe Music", Deluxe Music
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle", Deutsche Welle
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="EinsFestival" tvg-name="Einsfestival", EinsFestival
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="EinsPlus" tvg-name="Einsplus", EinsPlus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HR-fernsehen" tvg-name="Hr-fernsehen", HR-fernsehen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kabel1" tvg-name="Kabel1", Kabel1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kika" tvg-name="Kika", Kika
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MDR" tvg-name="Mdr", MDR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV Germany" tvg-name="Mtv Germany", MTV Germany
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="n-tv" tvg-name="N-tv", n-tv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="N24" tvg-name="N24", N24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NDR Fernsehen" tvg-name="Ndr Fernsehen", NDR Fernsehen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ORF SPORT +" tvg-name="Orf Sport +", ORF SPORT +
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ORF1" tvg-name="Orf1", ORF1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ORF2" tvg-name="Orf2", ORF2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ORF3" tvg-name="Orf3", ORF3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Passion" tvg-name="Passion", Passion
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Phoenix" tvg-name="Phoenix", Phoenix
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="PRO7" tvg-name="Pro7", PRO7
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Puls 4" tvg-name="Puls 4", Puls 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RBB Berlin" tvg-name="Rbb Berlin", RBB Berlin
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL" tvg-name="Rtl", RTL
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL Crime" tvg-name="Rtl Crime", RTL Crime
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL Living" tvg-name="Rtl Living", RTL Living
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL Nitro" tvg-name="Rtl Nitro", RTL Nitro
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL2" tvg-name="Rtl2", RTL2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SAT1" tvg-name="Sat1", SAT1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sixx" tvg-name="Sixx", Sixx
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SPORT1 (DSF)" tvg-name="Sport1 (dsf)", SPORT1 (DSF)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Super RTL" tvg-name="Super Rtl", Super RTL
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SWR Fernsehen" tvg-name="Swr Fernsehen", SWR Fernsehen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="tagesschau24" tvg-name="Tagesschau24", tagesschau24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VIVA" tvg-name="Viva", VIVA
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VOX" tvg-name="Vox", VOX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="WDR Fernsehen" tvg-name="Wdr Fernsehen", WDR Fernsehen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZDF" tvg-name="Zdf", ZDF
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZDF.kultur" tvg-name="Zdf.kultur", ZDF.kultur
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZDFinfo" tvg-name="Zdfinfo", ZDFinfo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ZDFneo" tvg-name="Zdfneo", ZDFneo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="360TuneBox" tvg-name="360tunebox", 360TuneBox
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Adult Channel" tvg-name="Adult Channel", Adult Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Alibi SD Ireland" tvg-name="Alibi Sd Ireland", Alibi SD Ireland
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Aljazeera" tvg-name="Aljazeera", Aljazeera
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AnimalPlanet (Digi TV)" tvg-name="Animalplanet (digi Tv)", AnimalPlanet (Digi TV)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AnimalPlanet UK" tvg-name="Animalplanet Uk", AnimalPlanet UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Arirang" tvg-name="Arirang", Arirang
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="At the Races" tvg-name="At The Races", At the Races
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="B in Balance" tvg-name="B In Balance", B in Balance
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Baby TV" tvg-name="Baby Tv", Baby TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC Entertainment" tvg-name="Bbc Entertainment", BBC Entertainment
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC Four" tvg-name="Bbc Four", BBC Four
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC One" tvg-name="Bbc One", BBC One
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC Three" tvg-name="Bbc Three", BBC Three
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC Two" tvg-name="Bbc Two", BBC Two
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC World News" tvg-name="Bbc World News", BBC World News
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="beIN LaLiga" tvg-name="Bein Laliga", beIN LaLiga
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BeIn Sports 11 HD" tvg-name="Bein Sports 11 Hd", BeIn Sports 11 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BeIn Sports 12 HD" tvg-name="Bein Sports 12 Hd", BeIn Sports 12 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BeIn Sports 13 HD" tvg-name="Bein Sports 13 Hd", BeIn Sports 13 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Bloomberg" tvg-name="Bloomberg", Bloomberg
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Blue Hustler" tvg-name="Blue Hustler", Blue Hustler
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang", Boomerang
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Brazzers TV Europe" tvg-name="Brazzers Tv Europe", Brazzers TV Europe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BT Sport 1 HD" tvg-name="Bt Sport 1 Hd", BT Sport 1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BT Sport 2 HD" tvg-name="Bt Sport 2 Hd", BT Sport 2 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BT Sport ESPN SD" tvg-name="Bt Sport Espn Sd", BT Sport ESPN SD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BT Sport Europe HD" tvg-name="Bt Sport Europe Hd", BT Sport Europe HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="C Music TV" tvg-name="C Music Tv", C Music TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal+ Accion HD" tvg-name="Canal+ Accion Hd", Canal+ Accion HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal+ Comedia HD" tvg-name="Canal+ Comedia Hd", Canal+ Comedia HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal+ DCine HD" tvg-name="Canal+ Dcine Hd", Canal+ DCine HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal+ Deportes 2 HD" tvg-name="Canal+ Deportes 2 Hd", Canal+ Deportes 2 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal+ Deportes HD" tvg-name="Canal+ Deportes Hd", Canal+ Deportes HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal+ Estrenos HD" tvg-name="Canal+ Estrenos Hd", Canal+ Estrenos HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal+ Futbol HD" tvg-name="Canal+ Futbol Hd", Canal+ Futbol HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal+ Golf HD" tvg-name="Canal+ Golf Hd", Canal+ Golf HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal+ Series HD" tvg-name="Canal+ Series Hd", Canal+ Series HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon Network", Cartoon Network
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cartoon Network (v UPC direct)" tvg-name="Cartoon Network (v Upc Direct)", Cartoon Network (v UPC direct)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cartoon Network UK" tvg-name="Cartoon Network Uk", Cartoon Network UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CCTV News" tvg-name="Cctv News", CCTV News
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CCTV9" tvg-name="Cctv9", CCTV9
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Channel 4" tvg-name="Channel 4", Channel 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Channel 5" tvg-name="Channel 5", Channel 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CNBC Europe" tvg-name="Cnbc Europe", CNBC Europe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CNN" tvg-name="Cnn", CNN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CNTV" tvg-name="Cntv", CNTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Comedy Central" tvg-name="Comedy Central", Comedy Central
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Comedy Central Extra" tvg-name="Comedy Central Extra", Comedy Central Extra
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Crime and Investigation UK" tvg-name="Crime And Investigation Uk", Crime and Investigation UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Dave SD UK" tvg-name="Dave Sd Uk", Dave SD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery (Digi TV) (en)" tvg-name="Discovery (digi Tv) (en)", Discovery (Digi TV) (en)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery EN" tvg-name="Discovery En", Discovery EN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery History SD" tvg-name="Discovery History Sd", Discovery History SD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery Home and Health SD UK" tvg-name="Discovery Home And Health Sd Uk", Discovery Home and Health SD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Junior" tvg-name="Disney Junior", Disney Junior
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Junior HD UK" tvg-name="Disney Junior Hd Uk", Disney Junior HD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney XD" tvg-name="Disney Xd", Disney XD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="DJazz" tvg-name="Djazz", DJazz
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="DocuBox HD" tvg-name="Docubox Hd", DocuBox HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="E! Entertainment" tvg-name="E! Entertainment", E! Entertainment
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="E4 HD UK" tvg-name="E4 Hd Uk", E4 HD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eden HD" tvg-name="Eden Hd", Eden HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="English Club TV" tvg-name="English Club Tv", English Club TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eroxxx HD" tvg-name="Eroxxx Hd", Eroxxx HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Esquire TV" tvg-name="Esquire Tv", Esquire TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurochannel" tvg-name="Eurochannel", Eurochannel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport 2 HD British" tvg-name="Eurosport 2 Hd British", Eurosport 2 HD British
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Eurosport HD British" tvg-name="Eurosport Hd British", Eurosport HD British
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="EWTN Africa India" tvg-name="Ewtn Africa India", EWTN Africa India
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Extreme Sports" tvg-name="Extreme Sports", Extreme Sports
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fashion One" tvg-name="Fashion One", Fashion One
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fashion TV F.MEN" tvg-name="Fashion Tv F.men", Fashion TV F.MEN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FashionBox HD" tvg-name="Fashionbox Hd", FashionBox HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FashionTV HD" tvg-name="Fashiontv Hd", FashionTV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fast&Funbox HD" tvg-name="Fast&funbox Hd", Fast&Funbox HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fightbox HD" tvg-name="Fightbox Hd", Fightbox HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Film 4" tvg-name="Film 4", Film 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FilmBox Arthouse" tvg-name="Filmbox Arthouse", FilmBox Arthouse
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Food Network" tvg-name="Food Network", Food Network
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fuel" tvg-name="Fuel", Fuel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Ginx" tvg-name="Ginx", Ginx
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Good Food Channel HD" tvg-name="Good Food Channel Hd", Good Food Channel HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="H2" tvg-name="H2", H2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="History HD UK" tvg-name="History Hd Uk", History HD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Hustler HD" tvg-name="Hustler Hd", Hustler HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Hustler TV" tvg-name="Hustler Tv", Hustler TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="iConcerts" tvg-name="Iconcerts", iConcerts
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ITV" tvg-name="Itv", ITV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ITV HD London" tvg-name="Itv Hd London", ITV HD London
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ITV2" tvg-name="Itv2", ITV2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ITV3" tvg-name="Itv3", ITV3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ITV4" tvg-name="Itv4", ITV4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="KBS World" tvg-name="Kbs World", KBS World
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Luxe.tv HD" tvg-name="Luxe.tv Hd", Luxe.tv HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="More 4" tvg-name="More 4", More 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MotorsTV" tvg-name="Motorstv", MotorsTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV Dance" tvg-name="Mtv Dance", MTV Dance
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV Hits" tvg-name="Mtv Hits", MTV Hits
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV Live HD" tvg-name="Mtv Live Hd", MTV Live HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV Rocks" tvg-name="Mtv Rocks", MTV Rocks
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV UK HD" tvg-name="Mtv Uk Hd", MTV UK HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic HD UK" tvg-name="National Geographic Hd Uk", National Geographic HD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic Wild HD Europe" tvg-name="National Geographic Wild Hd Europe", National Geographic Wild HD Europe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nautical Channel" tvg-name="Nautical Channel", Nautical Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NBA SD" tvg-name="Nba Sd", NBA SD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NHK World TV" tvg-name="Nhk World Tv", NHK World TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nick Jr." tvg-name="Nick Jr.", Nick Jr.
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nickelodeon HD UK" tvg-name="Nickelodeon Hd Uk", Nickelodeon HD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Outdoor Channel" tvg-name="Outdoor Channel", Outdoor Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Pick TV" tvg-name="Pick Tv", Pick TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Playboy TV" tvg-name="Playboy Tv", Playboy TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Playhouse Disney" tvg-name="Playhouse Disney", Playhouse Disney
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Premier Sports SD" tvg-name="Premier Sports Sd", Premier Sports SD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Private TV" tvg-name="Private Tv", Private TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Racing UK SD" tvg-name="Racing Uk Sd", Racing UK SD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Redlight HD" tvg-name="Redlight Hd", Redlight HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Setanta Ireland SD" tvg-name="Setanta Ireland Sd", Setanta Ireland SD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1", Setanta Sports 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ShortsHD" tvg-name="Shortshd", ShortsHD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Arts HD" tvg-name="Sky Arts Hd", Sky Arts HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Atlantic HD UK" tvg-name="Sky Atlantic Hd Uk", Sky Atlantic HD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Living HD" tvg-name="Sky Living Hd", Sky Living HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Action & Adventure HD" tvg-name="Sky Movies Action & Adventure Hd", Sky Movies Action & Adventure HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Comedy HD" tvg-name="Sky Movies Comedy Hd", Sky Movies Comedy HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Crime & Thriller HD" tvg-name="Sky Movies Crime & Thriller Hd", Sky Movies Crime & Thriller HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Disney HD" tvg-name="Sky Movies Disney Hd", Sky Movies Disney HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Drama & Romance HD" tvg-name="Sky Movies Drama & Romance Hd", Sky Movies Drama & Romance HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Family HD" tvg-name="Sky Movies Family Hd", Sky Movies Family HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Greats HD" tvg-name="Sky Movies Greats Hd", Sky Movies Greats HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Premiere HD" tvg-name="Sky Movies Premiere Hd", Sky Movies Premiere HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Select HD" tvg-name="Sky Movies Select Hd", Sky Movies Select HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Movies Showcase HD" tvg-name="Sky Movies Showcase Hd", Sky Movies Showcase HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky news" tvg-name="Sky News", Sky news
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky News HD UK" tvg-name="Sky News Hd Uk", Sky News HD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky SciFi & Horror SD" tvg-name="Sky Scifi & Horror Sd", Sky SciFi & Horror SD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports 1" tvg-name="Sky Sports 1", Sky Sports 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports 2" tvg-name="Sky Sports 2", Sky Sports 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports 3" tvg-name="Sky Sports 3", Sky Sports 3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports 4" tvg-name="Sky Sports 4", Sky Sports 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports 5" tvg-name="Sky Sports 5", Sky Sports 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports Cricket HD" tvg-name="Sky Sports Cricket Hd", Sky Sports Cricket HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports F1 HD" tvg-name="Sky Sports F1 Hd", Sky Sports F1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports Footbal HD" tvg-name="Sky Sports Footbal Hd", Sky Sports Footbal HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports Gold HD" tvg-name="Sky Sports Gold Hd", Sky Sports Gold HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports Main Event HD" tvg-name="Sky Sports Main Event Hd", Sky Sports Main Event HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports News" tvg-name="Sky Sports News", Sky Sports News
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky Sports Premier League HD" tvg-name="Sky Sports Premier League Hd", Sky Sports Premier League HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sky1 HD UK" tvg-name="Sky1 Hd Uk", Sky1 HD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sundance TV" tvg-name="Sundance Tv", Sundance TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Super One" tvg-name="Super One", Super One
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Syfy SD UK" tvg-name="Syfy Sd Uk", Syfy SD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TCM" tvg-name="Tcm", TCM
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TCM (v UPC)" tvg-name="Tcm (v Upc)", TCM (v UPC)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="The Active Channel" tvg-name="The Active Channel", The Active Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV5monde (en)" tvg-name="Tv5monde (en)", TV5monde (en)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Unitel Classica HD" tvg-name="Unitel Classica Hd", Unitel Classica HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Universal SD UK" tvg-name="Universal Sd Uk", Universal SD UK
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VH1" tvg-name="Vh1", VH1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VH1 Classic" tvg-name="Vh1 Classic", VH1 Classic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Viasat Spice" tvg-name="Viasat Spice", Viasat Spice
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="World Fashion" tvg-name="World Fashion", World Fashion
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ARTE (fr.)" tvg-name="Arte (fr.)", ARTE (fr.)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BFM TV" tvg-name="Bfm Tv", BFM TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CANAL+" tvg-name="Canal+", CANAL+
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CNTV Francais" tvg-name="Cntv Francais", CNTV Francais
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Direct 8" tvg-name="Direct 8", Direct 8
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="DirectStar" tvg-name="Directstar", DirectStar
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Dorcel XXX" tvg-name="Dorcel Xxx", Dorcel XXX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France O" tvg-name="France O", France O
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France2" tvg-name="France2", France2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France24" tvg-name="France24", France24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France24 EN" tvg-name="France24 En", France24 EN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France3" tvg-name="France3", France3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France4" tvg-name="France4", France4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="France5" tvg-name="France5", France5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Gulli" tvg-name="Gulli", Gulli
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="iTELE" tvg-name="Itele", iTELE
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="LCP" tvg-name="Lcp", LCP
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="M6" tvg-name="M6", M6
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Mark Dorcel" tvg-name="Mark Dorcel", Mark Dorcel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MCM Top" tvg-name="Mcm Top", MCM Top
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Mezzo" tvg-name="Mezzo", Mezzo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live Hd", Mezzo Live HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="myZen" tvg-name="Myzen", myZen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RFM TV" tvg-name="Rfm Tv", RFM TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TF1" tvg-name="Tf1", TF1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TMC" tvg-name="Tmc", TMC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Trace Sports" tvg-name="Trace Sports", Trace Sports
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV5monde" tvg-name="Tv5monde", TV5monde
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVA (Fr.)" tvg-name="Tva (fr.)", TVA (Fr.)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="W9" tvg-name="W9", W9
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Wild TV" tvg-name="Wild Tv", Wild TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Wild TV HD" tvg-name="Wild Tv Hd", Wild TV HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ATV" tvg-name="Atv", ATV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="AXN Sat" tvg-name="Axn Sat", AXN Sat
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cartoon Network+TCM (hu)" tvg-name="Cartoon Network+tcm (hu)", Cartoon Network+TCM (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Comedy Central (hu)" tvg-name="Comedy Central (hu)", Comedy Central (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cool TV" tvg-name="Cool Tv", Cool TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Digi Sport 1 HD" tvg-name="Digi Sport 1 Hd", Digi Sport 1 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Digi Sport 2 HD" tvg-name="Digi Sport 2 Hd", Digi Sport 2 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery (Digi TV)" tvg-name="Discovery (digi Tv)", Discovery (Digi TV)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery (hu)" tvg-name="Discovery (hu)", Discovery (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="DoQ" tvg-name="Doq", DoQ
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Duna" tvg-name="Duna", Duna
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Duna World" tvg-name="Duna World", Duna World
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Euronews (hu)" tvg-name="Euronews (hu)", Euronews (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FEM3" tvg-name="Fem3", FEM3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Film Café" tvg-name="Film Cafe", Film Cafe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Film Mánia" tvg-name="Film Mania", Film Mania
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Film+ (hu)" tvg-name="Film+ (hu)", Film+ (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="FOX" tvg-name="Fox", FOX
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Galaxy" tvg-name="Galaxy", Galaxy
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="H!t Music Channel (hu)" tvg-name="H!t Music Channel (hu)", H!t Music Channel (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Hír TV" tvg-name="Hir Tv", Hir TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Izaura TV" tvg-name="Izaura Tv", Izaura TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Life Network" tvg-name="Life Network", Life Network
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="M1" tvg-name="M1", M1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="M2" tvg-name="M2", M2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="M3" tvg-name="M3", M3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="M4 Sport" tvg-name="M4 Sport", M4 Sport
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="M5 HD" tvg-name="M5 Hd", M5 HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Megamax (hu)" tvg-name="Megamax (hu)", Megamax (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MGM (hu)" tvg-name="Mgm (hu)", MGM (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Minimax (hu)" tvg-name="Minimax (hu)", Minimax (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Mozi+" tvg-name="Mozi+", Mozi+
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV (hu)" tvg-name="Mtv (hu)", MTV (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Music Channel (hu)" tvg-name="Music Channel (hu)", Music Channel (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Muzsika TV" tvg-name="Muzsika Tv", Muzsika TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic (hu)" tvg-name="National Geographic (hu)", National Geographic (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="National Geographic Wild (hu)" tvg-name="National Geographic Wild (hu)", National Geographic Wild (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nickelodeon (hu)" tvg-name="Nickelodeon (hu)", Nickelodeon (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nóta TV" tvg-name="Nota Tv", Nota TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Ozone Network" tvg-name="Ozone Network", Ozone Network
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Paprika (hu)" tvg-name="Paprika (hu)", Paprika (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Paramount Channel" tvg-name="Paramount Channel", Paramount Channel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Pax TV" tvg-name="Pax Tv", Pax TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="PRIME" tvg-name="Prime", PRIME
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="PRO4" tvg-name="Pro4", PRO4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL Gold" tvg-name="Rtl Gold", RTL Gold
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL klub" tvg-name="Rtl Klub", RTL klub
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL+" tvg-name="Rtl+", RTL+
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL2 (hu)" tvg-name="Rtl2 (hu)", RTL2 (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sláger TV" tvg-name="Slager Tv", Slager TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sony Movie" tvg-name="Sony Movie", Sony Movie
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sorozat+" tvg-name="Sorozat+", Sorozat+
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Spektrum (hu)" tvg-name="Spektrum (hu)", Spektrum (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Spektrum Home (hu)" tvg-name="Spektrum Home (hu)", Spektrum Home (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Spiler TV" tvg-name="Spiler Tv", Spiler TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sport1 (hu)" tvg-name="Sport1 (hu)", Sport1 (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sport2 (hu)" tvg-name="Sport2 (hu)", Sport2 (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sportklub" tvg-name="Sportklub", Sportklub
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SportM (hu)" tvg-name="Sportm (hu)", SportM (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Story4" tvg-name="Story4", Story4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Story5" tvg-name="Story5", Story5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SuperTV2" tvg-name="Supertv2", SuperTV2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="The Fishing and Hunting (hu)" tvg-name="The Fishing And Hunting (hu)", The Fishing and Hunting (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV2" tvg-name="Tv2", TV2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Universal Channel (hu)" tvg-name="Universal Channel (hu)", Universal Channel (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Viasat3" tvg-name="Viasat3", Viasat3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Viasat6" tvg-name="Viasat6", Viasat6
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VIVA (hu)" tvg-name="Viva (hu)", VIVA (hu)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Zenebutik" tvg-name="Zenebutik", Zenebutik
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canale 5" tvg-name="Canale 5", Canale 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cielo" tvg-name="Cielo", Cielo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Deejay TV" tvg-name="Deejay Tv", Deejay TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Euronews" tvg-name="Euronews", Euronews
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Frisbee" tvg-name="Frisbee", Frisbee
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HSE24" tvg-name="Hse24", HSE24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Iris" tvg-name="Iris", Iris
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Italia 1" tvg-name="Italia 1", Italia 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Italia 2" tvg-name="Italia 2", Italia 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="K2" tvg-name="K2", K2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="LA5" tvg-name="La5", LA5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="LA7" tvg-name="La7", LA7
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="LA7d" tvg-name="La7d", LA7d
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Mediaset Extra" tvg-name="Mediaset Extra", Mediaset Extra
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="QVC" tvg-name="Qvc", QVC
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio Capital" tvg-name="Radio Capital", Radio Capital
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai 5" tvg-name="Rai 5", Rai 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Due" tvg-name="Rai Due", Rai Due
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Gulp" tvg-name="Rai Gulp", Rai Gulp
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Movie" tvg-name="Rai Movie", Rai Movie
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai News" tvg-name="Rai News", Rai News
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Premium" tvg-name="Rai Premium", Rai Premium
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Sport 1" tvg-name="Rai Sport 1", Rai Sport 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Sport 2" tvg-name="Rai Sport 2", Rai Sport 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Storia" tvg-name="Rai Storia", Rai Storia
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Tre" tvg-name="Rai Tre", Rai Tre
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Uno" tvg-name="Rai Uno", Rai Uno
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rai Yoyo" tvg-name="Rai Yoyo", Rai Yoyo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rete 4" tvg-name="Rete 4", Rete 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL 102.5" tvg-name="Rtl 102.5", RTL 102.5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Sportitalia 1" tvg-name="Sportitalia 1", Sportitalia 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Supertennis" tvg-name="Supertennis", Supertennis
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Teleradio Padre Pio" tvg-name="Teleradio Padre Pio", Teleradio Padre Pio
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV2000" tvg-name="Tv2000", TV2000
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="1TV" tvg-name="1tv", 1TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CCTV Russkij" tvg-name="Cctv Russkij", CCTV Russkij
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning", Da Vinci Learning
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Dom Kino" tvg-name="Dom Kino", Dom Kino
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="KHL TV" tvg-name="Khl Tv", KHL TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Muzyka Pervogo" tvg-name="Muzyka Pervogo", Muzyka Pervogo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTR" tvg-name="Rtr", RTR
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Russia 24" tvg-name="Russia 24", Russia 24
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Russia Today" tvg-name="Russia Today", Russia Today
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Russia Today Doc" tvg-name="Russia Today Doc", Russia Today Doc
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Russian Travel Guide" tvg-name="Russian Travel Guide", Russian Travel Guide
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Shanson TV" tvg-name="Shanson Tv", Shanson TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Soyuz" tvg-name="Soyuz", Soyuz
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TNT-Comedy" tvg-name="Tnt-comedy", TNT-Comedy
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV Nanny" tvg-name="Tv Nanny", TV Nanny
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Vremya" tvg-name="Vremya", Vremya
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="13tv" tvg-name="13tv", 13tv
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="324" tvg-name="324", 324
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="33" tvg-name="33", 33
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Antena3" tvg-name="Antena3", Antena3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Boing (es)" tvg-name="Boing (es)", Boing (es)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Canal 24 Horas" tvg-name="Canal 24 Horas", Canal 24 Horas
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cero" tvg-name="Cero", Cero
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Clan TVE" tvg-name="Clan Tve", Clan TVE
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CNTV Espanol" tvg-name="Cntv Espanol", CNTV Espanol
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Cuatro" tvg-name="Cuatro", Cuatro
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Discovery Max" tvg-name="Discovery Max", Discovery Max
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Disney Channel (es)" tvg-name="Disney Channel (es)", Disney Channel (es)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Divinity" tvg-name="Divinity", Divinity
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Energy" tvg-name="Energy", Energy
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Esport 3" tvg-name="Esport 3", Esport 3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Factoría de Ficción" tvg-name="Factoria De Ficcion", Factoria de Ficcion
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Foxsports HD" tvg-name="Foxsports Hd", Foxsports HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="La 1" tvg-name="La 1", La 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="La 1 Cataluňa" tvg-name="La 1 Cataluna", La 1 Cataluna
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="La 2" tvg-name="La 2", La 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="La 2 Cataluňa" tvg-name="La 2 Cataluna", La 2 Cataluna
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="MTV (es)" tvg-name="Mtv (es)", MTV (es)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Neox" tvg-name="Neox", Neox
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Nova (es)" tvg-name="Nova (es)", Nova (es)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Super3" tvg-name="Super3", Super3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Telecinco" tvg-name="Telecinco", Telecinco
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Teledeporte" tvg-name="Teledeporte", Teledeporte
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV3" tvg-name="Tv3", TV3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TV3CAT" tvg-name="Tv3cat", TV3CAT
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVE" tvg-name="Tve", TVE
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="TVE HD" tvg-name="Tve Hd", TVE HD
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Aljazeera (Arabic)" tvg-name="Aljazeera (arabic)", Aljazeera (Arabic)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Brava HDTV" tvg-name="Brava Hdtv", Brava HDTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BVN" tvg-name="Bvn", BVN
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CCTV Arabic" tvg-name="Cctv Arabic", CCTV Arabic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="CCTV4 Europe" tvg-name="Cctv4 Europe", CCTV4 Europe
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Credo" tvg-name="Credo", Credo
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Dusk!" tvg-name="Dusk!", Dusk!
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Gospel" tvg-name="Gospel", Gospel
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HRT1" tvg-name="Hrt1", HRT1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="HRT2" tvg-name="Hrt2", HRT2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="IneditTV" tvg-name="Inedittv", IneditTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Jurnal TV Moldova" tvg-name="Jurnal Tv Moldova", Jurnal TV Moldova
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kazakh TV" tvg-name="Kazakh Tv", Kazakh TV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Music Channel (ro)" tvg-name="Music Channel (ro)", Music Channel (ro)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Netviet" tvg-name="Netviet", Netviet
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NPO 1" tvg-name="Npo 1", NPO 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NPO 2" tvg-name="Npo 2", NPO 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="NPO 3" tvg-name="Npo 3", NPO 3
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ProTV International" tvg-name="Protv International", ProTV International
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Publika" tvg-name="Publika", Publika
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL 4" tvg-name="Rtl 4", RTL 4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RTL 5" tvg-name="Rtl 5", RTL 5
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="RÚV" tvg-name="Ruv", RUV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SBS6" tvg-name="Sbs6", SBS6
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ServusTV" tvg-name="Servustv", ServusTV
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Slovenija 1" tvg-name="Slovenija 1", Slovenija 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Slovenija 2" tvg-name="Slovenija 2", Slovenija 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Veronica" tvg-name="Veronica", Veronica
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VTV4" tvg-name="Vtv4", VTV4
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="XMO" tvg-name="Xmo", XMO
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC Czech" tvg-name="Bbc Czech", BBC Czech
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="BBC Radio" tvg-name="Bbc Radio", BBC Radio
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Classic FM" tvg-name="Classic Fm", Classic FM
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Country Radio" tvg-name="Country Radio", Country Radio
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRO - D Dur" tvg-name="Cro - D Dur", cRO - D Dur
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRO - Jazz" tvg-name="Cro - Jazz", cRO - Jazz
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRO - Plus" tvg-name="Cro - Plus", cRO - Plus
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRO - Proglas" tvg-name="Cro - Proglas", cRO - Proglas
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRO - Wave" tvg-name="Cro - Wave", cRO - Wave
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Brno" tvg-name="Cro Brno", cRo Brno
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo České Budějovice" tvg-name="Cro Ceske Budejovice", cRo ceske Budejovice
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Hradec Králové" tvg-name="Cro Hradec Kralove", cRo Hradec Kralove
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Liberec" tvg-name="Cro Liberec", cRo Liberec
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Olomouc" tvg-name="Cro Olomouc", cRo Olomouc
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Ostrava" tvg-name="Cro Ostrava", cRo Ostrava
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Pardubice" tvg-name="Cro Pardubice", cRo Pardubice
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Plzeň" tvg-name="Cro Plzen", cRo Plzen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Radio Praha" tvg-name="Cro Radio Praha", cRo Radio Praha
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Regina" tvg-name="Cro Regina", cRo Regina
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Region - Stč. kraj" tvg-name="Cro Region - Stc. Kraj", cRo Region - Stc. kraj
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Region - Vysočina" tvg-name="Cro Region - Vysocina", cRo Region - Vysocina
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRo Sever" tvg-name="Cro Sever", cRo Sever
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRO1 - Radiožurnál" tvg-name="Cro1 - Radiozurnal", cRO1 - Radiozurnal
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRO2 - Praha" tvg-name="Cro2 - Praha", cRO2 - Praha
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="ČRO3 - Vltava" tvg-name="Cro3 - Vltava", cRO3 - Vltava
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Dance Radio" tvg-name="Dance Radio", Dance Radio
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Europa 2" tvg-name="Europa 2", Europa 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Evropa 2" tvg-name="Evropa 2", Evropa 2
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fajn radio" tvg-name="Fajn Radio", Fajn radio
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Frekvence 1" tvg-name="Frekvence 1", Frekvence 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Fun rádio" tvg-name="Fun Radio", Fun radio
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Impuls" tvg-name="Impuls", Impuls
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Janko Hraško" tvg-name="Janko Hrasko", Janko Hrasko
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Jemne Melodie" tvg-name="Jemne Melodie", Jemne Melodie
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kiss 98" tvg-name="Kiss 98", Kiss 98
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Kiss Morava" tvg-name="Kiss Morava", Kiss Morava
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Lumen" tvg-name="Lumen", Lumen
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio 1" tvg-name="Radio 1", Radio 1
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rádio Anténa Rock" tvg-name="Radio Antena Rock", Radio Antena Rock
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio Beat" tvg-name="Radio Beat", Radio Beat
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rádio Blaník" tvg-name="Radio Blanik", Radio Blanik
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio Čas" tvg-name="Radio Cas", Radio cas
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio Expres" tvg-name="Radio Expres", Radio Expres
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rádio Junior" tvg-name="Radio Junior", Radio Junior
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio Junior (sk)" tvg-name="Radio Junior (sk)", Radio Junior (sk)
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio Košice" tvg-name="Radio Kosice", Radio Kosice
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rádio Retro" tvg-name="Radio Retro", Radio Retro
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio Šport" tvg-name="Radio Sport", Radio Sport
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rádio VIVA" tvg-name="Radio Viva", Radio VIVA
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio WOW" tvg-name="Radio Wow", Radio WOW
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Radio7" tvg-name="Radio7", Radio7
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="Rocková republika" tvg-name="Rockova Republika", Rockova republika
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO1 - Slovensko" tvg-name="Sro1 - Slovensko", SRO1 - Slovensko
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO2 - Regina Stred" tvg-name="Sro2 - Regina Stred", SRO2 - Regina Stred
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO2 - Regina Východ" tvg-name="Sro2 - Regina Vychod", SRO2 - Regina Vychod
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO2 - Regina Západ" tvg-name="Sro2 - Regina Zapad", SRO2 - Regina Zapad
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO3 - Devín" tvg-name="Sro3 - Devin", SRO3 - Devin
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO4 - Radio FM" tvg-name="Sro4 - Radio Fm", SRO4 - Radio FM
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO5 - Patria" tvg-name="Sro5 - Patria", SRO5 - Patria
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO6 - Slovakia International" tvg-name="Sro6 - Slovakia International", SRO6 - Slovakia International
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO7 - Klasika" tvg-name="Sro7 - Klasika", SRO7 - Klasika
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="SRO8 - Litera" tvg-name="Sro8 - Litera", SRO8 - Litera
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VALC 1 - Gold" tvg-name="Valc 1 - Gold", VALC 1 - Gold
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VALC 2 - Country and Folk" tvg-name="Valc 2 - Country And Folk", VALC 2 - Country and Folk
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VALC 3 - Hit" tvg-name="Valc 3 - Hit", VALC 3 - Hit
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VALC 4 - Rock" tvg-name="Valc 4 - Rock", VALC 4 - Rock
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VALC 5 - Classic" tvg-name="Valc 5 - Classic", VALC 5 - Classic
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VALC 6 - Valcárka" tvg-name="Valc 6 - Valcarka", VALC 6 - Valcarka
+http://example.site/example.video.path
+
+#EXTINF:0 tvg-id="VALC Live" tvg-name="Valc Live", VALC Live
+http://example.site/example.video.path
