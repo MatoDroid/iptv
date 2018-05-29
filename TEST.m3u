@@ -1,317 +1,317 @@
 #EXTM3U
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1" Jednotka
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1",Jednotka
 http://88.202.231.174/live/stv_1_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1" Jednotka
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1",Jednotka
 http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p4.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1" Jednotka
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1",Jednotka
 http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1" Jednotka
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1",Jednotka
 http://65.254.55.10:4000/live/177/177.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2" Dvojka
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2",Dvojka
 http://88.202.231.174/live/stv_2_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2" Dvojka
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2",Dvojka
 http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p4.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2" Dvojka
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2",Dvojka
 http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2" Dvojka
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2",Dvojka
 http://176.222.224.107:52011/udp/233.49.26.75_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza" Markíza
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza",Markíza
 http://88.202.231.174:80/live/markiza_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza" Markíza
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza",Markíza
 http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p4.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza" Markíza
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza",Markíza
 http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj" JOJ
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj",JOJ
 http://88.202.231.174:80/live/joj_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj" JOJ
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj",JOJ
 http://nn2.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj" JOJ
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj",JOJ
 http://65.254.55.10:4000/live/141/141.m3u8
 #EXTINF:-1 group-title="Slovenské"   JOJ+1
 http://88.202.231.174:80/live/joj_plus1_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus" JoJ Plus
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus",JoJ Plus
 http://88.202.231.174:80/live/joj_plus_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus" JoJ Plus
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus",JoJ Plus
 http://se02.se.magiogo05.cdn.telekom.sk/live005/channel006_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus" JoJ Plus
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus",JoJ Plus
 http://nn2.joj.sk/hls/jojplus-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family" JOJ Family
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family",JOJ Family
 https://nn5.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family" JOJ Family
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family",JOJ Family
 http://83.167.253.110:5000/live/joj_family/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family" JOJ Family
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family",JOJ Family
 http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family" JOJ Family
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family",JOJ Family
 http://176.222.224.107:52011/udp/224.0.120.2_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau" WAU
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau",WAU
 http://88.202.231.174:80/live/wau_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau" WAU
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau",WAU
 http://magiogo05.cdn.telekom.sk/live005/channel030_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau" WAU
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau",WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau" WAU
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau",WAU
 http://nn.geo.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TV DAJTO" tvg-name="Tv Dajto" Dajto
+#EXTINF:-1 group-title="Slovenské" tvg-id="TV DAJTO" tvg-name="Tv Dajto",Dajto
 http://88.202.231.174:80/live/dajto_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TV DAJTO" tvg-name="Tv Dajto" Dajto
+#EXTINF:-1 group-title="Slovenské" tvg-id="TV DAJTO" tvg-name="Tv Dajto",Dajto
 http://se03.se.magiogo06.cdn.telekom.sk/live006/channel004_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma" Doma
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma",Doma
 http://88.202.231.174:80/live/doma_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma" Doma
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma",Doma
 http://se03.se.magiogo06.cdn.telekom.sk/live006/channel011_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma" Doma
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma",Doma
 http://176.222.224.107:52011/udp/233.49.26.81_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3" TA3
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3",TA3
 http://213.81.153.243/live003/channel007_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3" TA3
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3",TA3
 http://88.202.231.174:80/live/ta_3_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3" TA3
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3",TA3
 http://unicast.bbxnet.sk/live/ta3/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3" TA3
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3",TA3
 http://176.222.224.107:52011/udp/233.49.26.74_2314
-#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2" ČT 2
+#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2",ČT 2
 http://88.202.231.174:80/live/ct_2_high_3500_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2" ČT 2
+#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2",ČT 2
 http://89.239.16.34:8085/ct2.webm
-#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2" ČT 2
+#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2",ČT 2
 http://65.254.55.10:4000/live/78/78.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24" ČT 24
+#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24",ČT 24
 http://88.202.231.174:80/live/ct_24_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24" ČT 24
+#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24",ČT 24
 http://176.222.224.107:52011/udp/233.49.26.169_2314
-#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24" ČT 24
+#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24",ČT 24
 http://176.222.224.107:52011/udp/233.49.26.125_2314
-#EXTINF:-1 group-title="České" tvg-id="ČT art" tvg-name="Ct Art" ČT art
+#EXTINF:-1 group-title="České" tvg-id="ČT art" tvg-name="Ct Art",ČT art
 http://88.202.231.174:80/live/ct_detem_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT art" tvg-name="Ct Art" ČT art
+#EXTINF:-1 group-title="České" tvg-id="ČT art" tvg-name="Ct Art",ČT art
 http://176.222.224.107:52011/udp/224.0.120.1_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" Prima
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
 http://88.202.231.174/live/prima_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" Prima
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
 http://83.167.253.110:5000/live/prima/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" Prima
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
 http://89.239.16.34:8085/prima.webm
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" Prima
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
 http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" Prima
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
 http://65.254.55.10:4000/live/115/115.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" Prima
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
 http://176.222.224.107:52011/udp/233.49.26.84_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima Comedy Central" tvg-name="Prima Comedy Central" Prima Comedy Central
+#EXTINF:-1 group-title="České" tvg-id="Prima Comedy Central" tvg-name="Prima Comedy Central",Prima Comedy Central
 http://176.222.224.107:52011/udp/224.0.120.49_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool" Prima Cool
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool",Prima Cool
 http://88.202.231.174:80/live/prima_cool_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool" Prima Cool
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool",Prima Cool
 http://89.239.16.34:8085/prima_cool.webm
-#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool" Prima Cool
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool",Prima Cool
 http://176.222.224.107:52011/udp/233.49.26.93_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love" Prima Love
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love",Prima Love
 http://88.202.231.174:80/live/prima_love_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love" Prima Love
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love",Prima Love
 http://89.239.16.34:8085/prima_love.webm
-#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love" Prima Love
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love",Prima Love
 http://176.222.224.107:52011/udp/224.0.120.37_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom" Prima Zoom
+#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom",Prima Zoom
 http://88.202.231.174:80/live/prima_zoom_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom" Prima Zoom
+#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom",Prima Zoom
 http://89.239.16.34:8085/prima_zoom.webm
-#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom" Prima Zoom
+#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom",Prima Zoom
 http://176.222.224.107:52011/udp/224.0.120.36_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max" Prima MAX
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max",Prima MAX
 http://74.208.44.158:5000/live/518/518.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max" Prima MAX
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max",Prima MAX
 http://88.202.231.174/live/prima_max_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max" Prima MAX
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max",Prima MAX
 http://176.222.224.107:52011/udp/224.0.120.43_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-name="Prima Plus" Prima Plus
+#EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-name="Prima Plus",Prima Plus
 http://88.202.231.174:80/live/prima_plus_medium_1800_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova" Nova
+#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova",Nova
 http://89.239.16.34:8085/nova.webm
-#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova" Nova
+#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova",Nova
 http://176.222.224.107:52011/udp/233.49.26.123_2314
-#EXTINF:-1 group-title="České" tvg-id="Nova International" tvg-name="Nova International" Nova International
+#EXTINF:-1 group-title="České" tvg-id="Nova International" tvg-name="Nova International",Nova International
 http://88.202.231.174:80/live/nova_international_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action" Nova Action
+#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action",Nova Action
 http://174.36.163.12:4000/live/304/304.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action" Nova Action
+#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action",Nova Action
 http://89.239.16.34:8085/fanda.webm
-#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action" Nova Action
+#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action",Nova Action
 http://176.222.224.107:52011/udp/224.0.120.32_2314
-#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold" Nova Gold
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold",Nova Gold
 http://88.202.231.174/live/telka_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold" Nova Gold
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold",Nova Gold
 http://89.239.16.34:8085/telka.webm
-#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold" Nova Gold
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold",Nova Gold
 http://176.222.224.107:52011/udp/224.0.120.34_2314
-#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov" Barrandov
+#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov",Barrandov
 http://88.202.231.174:80/live/barrandov_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov" Barrandov
+#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov",Barrandov
 http://176.222.224.107:52011/udp/233.49.26.135_2314
-#EXTINF:-1 group-title="České" tvg-id="Barrandov Family" tvg-name="Barrandov Family" Barrandov Family
+#EXTINF:-1 group-title="České" tvg-id="Barrandov Family" tvg-name="Barrandov Family",Barrandov Family
 http://176.222.224.107:52011/udp/224.0.120.38_2314
-#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus" tvg-name="Barrandov Plus" Barrandov Plus
+#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus" tvg-name="Barrandov Plus",Barrandov Plus
 http://88.202.231.174:80/live/barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov" tvg-name="Kino Barrandov" Kino Barrandov
+#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov" tvg-name="Kino Barrandov",Kino Barrandov
 http://88.202.231.174:80/live/kino_barrandov_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2" Nova 2
+#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2",Nova 2
 http://89.239.16.34:8085/smichov.webm
-#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2" Nova 2
+#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2",Nova 2
 http://176.222.224.107:52011/udp/224.0.120.33_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase" Discovery HD Showcase
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase",Discovery HD Showcase
 http://74.81.71.186:4000/live/138/138.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase" Discovery HD Showcase
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase",Discovery HD Showcase
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase" Discovery HD Showcase
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase",Discovery HD Showcase
 http://176.222.224.107:52011/udp/233.49.26.109_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase" Discovery HD Showcase
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase",Discovery HD Showcase
 http://176.222.224.107:52011/udp/233.49.26.143_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-name="Id Xtra" Discovery ID Xtra
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-name="Id Xtra",Discovery ID Xtra
 http://213.81.153.243/live003/channel035_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-name="Id Xtra" Discovery ID Xtra
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-name="Id Xtra",Discovery ID Xtra
 http://176.222.224.107:52011/udp/224.0.120.40_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery Science" tvg-name="Discovery Science" Discovery Science
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery Science" tvg-name="Discovery Science",Discovery Science
 http://176.222.224.107:52011/udp/224.0.120.41_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-name="Animalplanet" Animal Planet
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-name="Animalplanet",Animal Planet
 http://88.202.231.174/live/animal_planet_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-name="Animalplanet" Animal Planet
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-name="Animalplanet",Animal Planet
 http://176.222.224.107:52011/udp/233.49.26.217_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic" tvg-name="National Geographic" National Geographic
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic" tvg-name="National Geographic",National Geographic
 http://176.222.224.107:52011/udp/233.49.26.79_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic" tvg-name="National Geographic" National Geographic
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic" tvg-name="National Geographic",National Geographic
 http://176.222.224.107:52011/udp/233.49.26.228_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" National Geographic Wild
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-name="National Geographic Wild",National Geographic Wild
 http://176.222.224.107:52011/udp/224.0.120.8_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum" Spektrum
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum",Spektrum
 http://174.36.155.34:4000/live/189/189.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum" Spektrum
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum",Spektrum
 http://88.202.231.174/live/spektrum_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum" Spektrum
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum",Spektrum
 http://176.222.224.107:52011/udp/233.49.26.57_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explorer" tvg-name="Viasat Explorer" Viasat Explore
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explorer" tvg-name="Viasat Explorer",Viasat Explore
 http://213.81.153.243/live003/channel039_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explorer" tvg-name="Viasat Explorer" Viasat Explore
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explorer" tvg-name="Viasat Explorer",Viasat Explore
 http://176.222.224.107:52011/udp/233.49.26.213_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History" Viasat History
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History",Viasat History
 http://213.81.153.243/live003/channel038_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History" Viasat History
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History",Viasat History
 http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History" Viasat History
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History",Viasat History
 http://176.222.224.107:52011/udp/233.49.26.212_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History HD" tvg-name="Viasat History Hd" Viasat History HD
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History HD" tvg-name="Viasat History Hd",Viasat History HD
 http://unicast.bbxnet.sk/live/history/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TLC" tvg-name="Tlc" TLC
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TLC" tvg-name="Tlc",TLC
 http://176.222.224.107:52011/udp/233.49.26.97_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="CBS Reality" tvg-name="Cbs Reality" CBS Reality
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="CBS Reality" tvg-name="Cbs Reality",CBS Reality
 http://176.222.224.107:52011/udp/233.49.26.112_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="DTX" tvg-name="Dtx" DTX
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="DTX" tvg-name="Dtx",DTX
 http://176.222.224.107:52011/udp/233.49.26.148_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="FashionBox HD" tvg-name="Fashionbox Hd" FashionBox HD
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="FashionBox HD" tvg-name="Fashionbox Hd",FashionBox HD
 http://176.222.224.107:52011/udp/233.49.26.26_2314
 #EXTINF:-1 group-title="Dokumentárne a lifestylové"   Fishing and Hunting
 http://176.222.224.107:52011/udp/233.49.26.98_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux" tvg-name="Lux" Lux
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux" tvg-name="Lux",Lux
 http://88.202.231.174/live/tv_lux_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Mňam TV" tvg-name="Mnam Tv" Mňam TV
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Mňam TV" tvg-name="Mnam Tv",Mňam TV
 http://176.222.224.107:52011/udp/224.0.120.23_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-name="Noe" Noe
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-name="Noe",Noe
 http://88.202.231.174/live/noe_tv_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-name="Noe" Noe
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-name="Noe",Noe
 http://176.222.224.107:52011/udp/233.49.26.126_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" Paprika
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
 http://213.81.153.243/live003/channel055_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" Paprika
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
 http://88.202.231.174:80/live/rik_tv_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" Paprika
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
 http://unicast.bbxnet.sk/live/rik/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" Paprika
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
 http://nn2.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" Paprika
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
 http://nn2.joj.sk/hls/rik-360.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" Paprika
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika",Paprika
 http://176.222.224.107:52011/udp/233.49.26.209_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8" TV8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8",TV8
 http://88.202.231.174/live/tv_8_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8" TV8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8",TV8
 http://unicast.bbxnet.sk/live/tv8/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8" TV8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8",TV8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo" HBO
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo",HBO
 http://pvr.rete.netforms.cz/master_180.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo" HBO
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo",HBO
 http://88.202.231.174/live/hbo_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo" HBO
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo",HBO
 http://176.222.224.107:52011/udp/233.49.26.87_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="Hbo2" HBO 2
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="Hbo2",HBO 2
 http://88.202.231.174/live/hbo_2_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="Hbo2" HBO 2
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="Hbo2",HBO 2
 http://176.222.224.107:52011/udp/224.0.120.9_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="Hbo3" HBO 3
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="Hbo3",HBO 3
 http://88.202.231.174/live/hbo_3_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="Hbo3" HBO 3
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="Hbo3",HBO 3
 http://176.222.224.107:52011/udp/224.0.120.10_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema" JoJ Cinema
+#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema",JoJ Cinema
 http://88.202.231.174/live/joj_cinema_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema" JoJ Cinema
+#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema",JoJ Cinema
 http://176.222.224.107:52011/udp/224.0.120.31_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema" Nova Cinema
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema",Nova Cinema
 http://88.202.231.174/live/nova_cinema_high_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema" Nova Cinema
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema",Nova Cinema
 http://89.239.16.34:8085/nova_cinema.webm
-#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema" Nova Cinema
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema",Nova Cinema
 http://176.222.224.107:52011/udp/233.49.26.140_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="AXN" tvg-name="Axn" AXN
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN" tvg-name="Axn",AXN
 http://176.222.224.107:52011/udp/233.49.26.116_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="AXN White" tvg-name="Axn White" AXN White
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN White" tvg-name="Axn White",AXN White
 http://176.222.224.107:52011/udp/233.49.26.161_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax" tvg-name="Cinemax" Cinemax
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax" tvg-name="Cinemax",Cinemax
 http://176.222.224.107:52011/udp/224.0.120.11_2314
 #EXTINF:-1 group-title="Filmové"   Cinemax 2
 http://88.202.231.174/live/cinemax_2_hd_4500_atk/playlist.m3u8
 #EXTINF:-1 group-title="Filmové"   Cinemax 2
 http://176.222.224.107:52011/udp/224.0.120.12_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Československo" tvg-name="Ceskoslovensko" Československo
+#EXTINF:-1 group-title="Filmové" tvg-id="Československo" tvg-name="Ceskoslovensko",Československo
 http://65.254.55.10:4000/live/196/196.m3u8
 #EXTINF:-1 group-title="Filmové"   ČS Film
 http://89.239.16.34:8085/cs_film.webm
-#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-name="Film Europe" Film Europe
+#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-name="Film Europe",Film Europe
 http://213.81.170.239/live002/channel008_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-name="Film Europe" Film Europe
+#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-name="Film Europe",Film Europe
 http://176.222.224.107:52011/udp/233.49.26.54_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox" FilmBox
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox",FilmBox
 http://88.202.231.174/live/filmbox_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox" FilmBox
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox",FilmBox
 http://unicast.bbxnet.sk/live/filmbox/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox" FilmBox
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox",FilmBox
 http://176.222.224.107:52011/udp/233.49.26.226_2314
 #EXTINF:-1 group-title="Filmové"   Filmbox Extra
 http://88.202.231.174/live/filmbox_extra_hd_atk/playlist.m3u8
 #EXTINF:-1 group-title="Filmové"   Filmbox Extra
 http://176.222.224.107:52011/udp/233.49.26.233_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family" Filmbox Family
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family",Filmbox Family
 http://88.202.231.174/live/filmbox_family_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family" Filmbox Family
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family",Filmbox Family
 http://176.222.224.107:52011/udp/233.49.26.42_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus" Filmbox Plus
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus",Filmbox Plus
 http://213.81.153.243/live003/channel043_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus" Filmbox Plus
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus",Filmbox Plus
 http://88.202.231.174/live/filmbox_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus" Filmbox Plus
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus",Filmbox Plus
 http://176.222.224.107:52011/udp/233.49.26.43_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium" Filmbox Premium
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium",Filmbox Premium
 http://88.202.231.174/live/filmbox_premium_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium" Filmbox Premium
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium",Filmbox Premium
 http://176.222.224.107:52011/udp/233.49.26.218_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" Arena Sport 1
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1",Arena Sport 1
 http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" Arena Sport 1
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1",Arena Sport 1
 http://88.202.231.174/live/sport_1_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" Arena Sport 1
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1",Arena Sport 1
 http://176.222.224.107:52011/udp/233.49.26.94_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" Arena Sport 2
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2",Arena Sport 2
 http://213.81.153.243/live003/channel045_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" Arena Sport 2
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2",Arena Sport 2
 http://88.202.231.174/live/sport_2_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" Arena Sport 2
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2",Arena Sport 2
 http://176.222.224.107:52011/udp/233.49.26.28_2314
 #EXTINF:-1 group-title="Športové"   Digi Sport 1
 http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8
@@ -325,78 +325,78 @@ http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8
 http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Športové"   Eurosport
 http://213.81.153.243/live003/channel013_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-name="Eurosport 2" Eurosport 2
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-name="Eurosport 2",Eurosport 2
 http://176.222.224.107:52011/udp/233.49.26.56_2314
 #EXTINF:-1 group-title="Športové"   Fightbox
 http://176.222.224.107:52011/udp/233.49.26.25_2314
-#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-name="Filmbox Arthouse" FilmBox Arthouse
+#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-name="Filmbox Arthouse",FilmBox Arthouse
 http://88.202.231.174/live/filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-name="Filmbox Arthouse" FilmBox Arthouse
+#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-name="Filmbox Arthouse",FilmBox Arthouse
 http://176.222.224.107:52011/udp/224.0.120.45_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Golf Channel" tvg-name="Golf Channel" Golf Channel
+#EXTINF:-1 group-title="Športové" tvg-id="Golf Channel" tvg-name="Golf Channel",Golf Channel
 http://176.222.224.107:52011/udp/233.49.26.50_2314
 #EXTINF:-1 group-title="Športové"   Nova sport
 http://176.222.224.107:52011/udp/233.49.26.133_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2" tvg-name="Nova Sport 2" Nova Sport 2
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2" tvg-name="Nova Sport 2",Nova Sport 2
 http://176.222.224.107:52011/udp/224.0.120.35_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Sport 5" tvg-name="Sport 5" Sport 5
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 5" tvg-name="Sport 5",Sport 5
 http://176.222.224.107:52011/udp/233.49.26.99_2314
-#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko" tvg-name="Ocko" Óčko
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko" tvg-name="Ocko",Óčko
 http://88.202.231.174/live/ocko_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko" tvg-name="Ocko" Óčko
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko" tvg-name="Ocko",Óčko
 http://unicast.bbxnet.sk/live/ocko/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko" tvg-name="Ocko" Óčko
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko" tvg-name="Ocko",Óčko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Expres" tvg-name="Ocko Expres" Óčko Expres
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Expres" tvg-name="Ocko Expres",Óčko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="Hudobné"   Óčko Gold
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Music Box" tvg-name="Music Box" Music Box
+#EXTINF:-1 group-title="Hudobné" tvg-id="Music Box" tvg-name="Music Box",Music Box
 http://88.202.231.174/live/music_box_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Rebel" tvg-name="Rebel" Rebel
+#EXTINF:-1 group-title="Hudobné" tvg-id="Rebel" tvg-name="Rebel",Rebel
 http://176.222.224.107:52011/udp/233.49.26.138_2314
-#EXTINF:-1 group-title="Hudobné" tvg-id="SENZI" tvg-name="Senzi" SENZI
+#EXTINF:-1 group-title="Hudobné" tvg-id="SENZI" tvg-name="Senzi",SENZI
 http://unicast.bbxnet.sk/live/senzi/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Šlágr TV" tvg-name="Slagr Tv" Šlágr TV
+#EXTINF:-1 group-title="Hudobné" tvg-id="Šlágr TV" tvg-name="Slagr Tv",Šlágr TV
 http://88.202.231.174/live/mtv_europe_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Šlágr TV" tvg-name="Slagr Tv" Šlágr TV
+#EXTINF:-1 group-title="Hudobné" tvg-id="Šlágr TV" tvg-name="Slagr Tv",Šlágr TV
 http://176.222.224.107:52011/udp/233.49.26.45_2314
-#EXTINF:-1 group-title="Hudobné" tvg-id="VH1" tvg-name="Vh1" VH1
+#EXTINF:-1 group-title="Hudobné" tvg-id="VH1" tvg-name="Vh1",VH1
 http://176.222.224.107:52011/udp/233.49.26.208_2314
-#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-name="Disney Channel" Disney channel
+#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-name="Disney Channel",Disney channel
 http://213.81.153.243/live003/channel051_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-name="Disney Channel" Disney channel
+#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-name="Disney Channel",Disney channel
 http://176.222.224.107:52011/udp/233.49.26.115_2314
 #EXTINF:-1 group-title="Detské"   JimJam
 http://176.222.224.107:52011/udp/233.49.26.198_2314
-#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-name="Minimax" Minimax
+#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-name="Minimax",Minimax
 http://213.81.170.239/live002/channel048_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-name="Minimax" Minimax
+#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-name="Minimax",Minimax
 http://176.222.224.107:52011/udp/233.49.26.210_2314
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon" Nickelodeon
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon",Nickelodeon
 http://88.202.231.174/live/nickelodeon_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon" Nickelodeon
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon",Nickelodeon
 http://unicast.bbxnet.sk/live/nickelodeon/playlist.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon" Nickelodeon
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon",Nickelodeon
 http://176.222.224.107:52011/udp/233.49.26.251_2314
-#EXTINF:-1 group-title="Detské" tvg-id="TUTY" tvg-name="Tuty" Tuty
+#EXTINF:-1 group-title="Detské" tvg-id="TUTY" tvg-name="Tuty",Tuty
 http://88.202.231.174:80/live/tuty_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="Detské" tvg-id="TUTY" tvg-name="Tuty" Tuty
+#EXTINF:-1 group-title="Detské" tvg-id="TUTY" tvg-name="Tuty",Tuty
 http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
 #EXTINF:-1 group-title="Erotické"   Playboy
 http://176.222.224.107:52011/udp/233.49.26.96_2314
-#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1" ČT 1
+#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1",ČT 1
 http://88.202.231.174:80/live/ct_1_high_3500_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1" ČT 1
+#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1",ČT 1
 http://89.239.16.34:8085/ct1.webm
-#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1" ČT 1
+#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1",ČT 1
 http://65.254.55.10:4000/live/176/176.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport" ČT 4 Sport
+#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport",ČT 4 Sport
 http://88.202.231.174:80/live/ct_4_sport_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport" ČT 4 Sport
+#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport",ČT 4 Sport
 http://89.239.16.34:8085/ct4.webm
-#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport" ČT 4 Sport
+#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport",ČT 4 Sport
 http://176.222.224.107:52011/udp/233.49.26.170_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza International" tvg-name="Markiza International" Markíza International
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza International" tvg-name="Markiza International",Markíza International
 http://176.222.224.107:52011/udp/233.49.26.68_2314
 
