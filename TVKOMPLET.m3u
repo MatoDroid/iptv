@@ -1,42 +1,44 @@
 #EXTM3U
 #EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka" tvg-logo="http://22century.cz/soubory/loga/transparent/jednotka.png",Jednotka
-http://88.202.231.174/live/stv_1_hd_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka" tvg-logo="http://22century.cz/soubory/loga/transparent/jednotka.png",Jednotka
 http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p4.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka" tvg-logo="http://22century.cz/soubory/loga/transparent/jednotka.png",Jednotka
 http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka" tvg-logo="http://22century.cz/soubory/loga/transparent/jednotka.png",Jednotka
-http://65.254.55.10:4000/live/177/177.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Dvojka" tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
-http://88.202.231.174/live/stv_2_hd_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Dvojka" tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
 http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p4.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Dvojka" tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
 http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Dvojka" tvg-logo="http://22century.cz/soubory/loga/transparent/dvojka.png",Dvojka
-http://176.222.224.107:52011/udp/233.49.26.75_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
-http://88.202.231.174:80/live/markiza_hd_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
 http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p4.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
 http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza" tvg-logo="http://22century.cz/soubory/loga/transparent/markiza.png",Markíza
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18681.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markiza International" tvg-logo="http://22century.cz/soubory/loga/transparent/markizainternational.png",Markiza International
-http://176.222.224.107:52011/udp/233.49.26.68_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18680.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markiza International" tvg-logo="http://22century.cz/soubory/loga/transparent/markizainternational.png",Markiza International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4200.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
-http://88.202.231.174:80/live/joj_hd_atk_1200/playlist.m3u8
+http://magiogo05.cdn.telekom.sk/live005/channel005_p4.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
+http://magiogo05.cdn.telekom.sk/live005/channel005_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
 http://nn2.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
 http://65.254.55.10:4000/live/141/141.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ+1" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JOJ+1
-http://88.202.231.174:80/live/joj_plus1_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
-http://88.202.231.174:80/live/joj_plus_hd_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18683.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18671.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png",JoJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6827.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
 http://se02.se.magiogo05.cdn.telekom.sk/live005/channel006_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
 http://nn2.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18682.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/jojplus.png",JoJ Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6840.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
 https://nn5.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
@@ -44,63 +46,53 @@ http://83.167.253.110:5000/live/joj_family/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
 http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
-http://176.222.224.107:52011/udp/224.0.120.2_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
-http://88.202.231.174:80/live/wau_hd_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6066.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-logo="http://22century.cz/soubory/loga/transparent/jojfamily.png",JOJ Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4163.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
 http://magiogo05.cdn.telekom.sk/live005/channel030_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
 http://nn2.joj.sk/hls/wau-540.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
 http://nn.geo.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto" tvg-logo="http://22century.cz/soubory/loga/transparent/dajto.png",Dajto
-http://88.202.231.174:80/live/dajto_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6044.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-logo="http://22century.cz/soubory/loga/transparent/wau.png",WAU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4157.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="Dajto" tvg-logo="http://22century.cz/soubory/loga/transparent/dajto.png",Dajto
 http://se03.se.magiogo06.cdn.telekom.sk/live006/channel004_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
-http://88.202.231.174:80/live/doma_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto" tvg-logo="http://22century.cz/soubory/loga/transparent/dajto.png",Dajto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18694.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto" tvg-logo="http://22century.cz/soubory/loga/transparent/dajto.png",Dajto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6847.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
 http://se03.se.magiogo06.cdn.telekom.sk/live006/channel011_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
-http://176.222.224.107:52011/udp/233.49.26.81_2314
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-logo="http://22century.cz/soubory/loga/transparent/ta3.png",TA3
-http://213.81.153.243/live003/channel007_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-logo="http://22century.cz/soubory/loga/transparent/ta3.png",TA3
-http://88.202.231.174:80/live/ta_3_hd_4500_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18692.ts
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-logo="http://22century.cz/soubory/loga/transparent/doma.png",Doma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18691.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-logo="http://22century.cz/soubory/loga/transparent/ta3.png",TA3
 http://unicast.bbxnet.sk/live/ta3/playlist.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-logo="http://22century.cz/soubory/loga/transparent/ta3.png",TA3
-http://176.222.224.107:52011/udp/233.49.26.74_2314
-#EXTINF:-1 group-title="České" tvg-id="CT1" tvg-logo="http://22century.cz/soubory/loga/transparent/ct1.png",ČT1
-http://88.202.231.174:80/live/ct_1_high_3500_atk/playlist.m3u8
 #EXTINF:-1 group-title="České" tvg-id="CT1" tvg-logo="http://22century.cz/soubory/loga/transparent/ct1.png",ČT1
 http://89.239.16.34:8085/ct1.webm
 #EXTINF:-1 group-title="České" tvg-id="CT1" tvg-logo="http://22century.cz/soubory/loga/transparent/ct1.png",ČT1
 http://65.254.55.10:4000/live/176/176.m3u8
-#EXTINF:-1 group-title="České" tvg-id="CT2" tvg-logo="http://22century.cz/soubory/loga/transparent/ct2.png",ČT 2
-http://88.202.231.174:80/live/ct_2_high_3500_atk/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="CT1" tvg-logo="http://22century.cz/soubory/loga/transparent/ct1.png",ČT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18669.ts
 #EXTINF:-1 group-title="České" tvg-id="CT2" tvg-logo="http://22century.cz/soubory/loga/transparent/ct2.png",ČT 2
 http://89.239.16.34:8085/ct2.webm
 #EXTINF:-1 group-title="České" tvg-id="CT2" tvg-logo="http://22century.cz/soubory/loga/transparent/ct2.png",ČT 2
 http://65.254.55.10:4000/live/78/78.m3u8
-#EXTINF:-1 group-title="České" tvg-id="CT4 Sport" tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
-http://88.202.231.174:80/live/ct_4_sport_hd_atk/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="CT2" tvg-logo="http://22century.cz/soubory/loga/transparent/ct2.png",ČT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18668.ts
 #EXTINF:-1 group-title="České" tvg-id="CT4 Sport" tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
 http://89.239.16.34:8085/ct4.webm
 #EXTINF:-1 group-title="České" tvg-id="CT4 Sport" tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
-http://176.222.224.107:52011/udp/233.49.26.170_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18695.ts
+#EXTINF:-1 group-title="České" tvg-id="CT4 Sport" tvg-logo="http://22century.cz/soubory/loga/transparent/ctsport.png",ČT Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/1149.ts
 #EXTINF:-1 group-title="České" tvg-id="CT24" tvg-logo="http://22century.cz/soubory/loga/transparent/ct24.png",ČT 24
-http://88.202.231.174:80/live/ct_24_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="CT24" tvg-logo="http://22century.cz/soubory/loga/transparent/ct24.png",ČT 24
-http://176.222.224.107:52011/udp/233.49.26.169_2314
-#EXTINF:-1 group-title="České" tvg-id="CT24" tvg-logo="http://22century.cz/soubory/loga/transparent/ct24.png",ČT 24
-http://176.222.224.107:52011/udp/233.49.26.125_2314
-#EXTINF:-1 group-title="České" tvg-id="CT art" tvg-logo="http://22century.cz/soubory/loga/transparent/ctart.png",ČT art
-http://88.202.231.174:80/live/ct_detem_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="CT art" tvg-logo="http://22century.cz/soubory/loga/transparent/ctart.png",ČT art
-http://176.222.224.107:52011/udp/224.0.120.1_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
-http://88.202.231.174/live/prima_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18696.ts
 #EXTINF:-1 group-title="České" tvg-id="Prima" tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
 http://83.167.253.110:5000/live/prima/playlist.m3u8
 #EXTINF:-1 group-title="České" tvg-id="Prima" tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
@@ -110,253 +102,269 @@ http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
 #EXTINF:-1 group-title="České" tvg-id="Prima" tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
 http://65.254.55.10:4000/live/115/115.m3u8
 #EXTINF:-1 group-title="České" tvg-id="Prima" tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
-http://176.222.224.107:52011/udp/233.49.26.84_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18659.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-logo="http://22century.cz/soubory/loga/transparent/prima.png",Prima
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6831.ts
 #EXTINF:-1 group-title="České" tvg-id="Prima Comedy Central" tvg-logo="http://22century.cz/soubory/loga/transparent/primacomedycentral.png",Prima Comedy Central
-http://176.222.224.107:52011/udp/224.0.120.49_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
-http://88.202.231.174:80/live/prima_cool_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18661.ts
 #EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
 http://89.239.16.34:8085/prima_cool.webm
 #EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
-http://176.222.224.107:52011/udp/233.49.26.93_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-logo="http://22century.cz/soubory/loga/transparent/primalove.png",Prima Love
-http://88.202.231.174:80/live/prima_love_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18660.ts
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-logo="http://22century.cz/soubory/loga/transparent/primacool.png",Prima Cool
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6832.ts
 #EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-logo="http://22century.cz/soubory/loga/transparent/primalove.png",Prima Love
 http://89.239.16.34:8085/prima_love.webm
 #EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-logo="http://22century.cz/soubory/loga/transparent/primalove.png",Prima Love
-http://176.222.224.107:52011/udp/224.0.120.37_2314
-#EXTINF:-1 group-title="České" tvg-id="Prima Zoom" tvg-logo="http://22century.cz/soubory/loga/transparent/primazoom.png",Prima Zoom
-http://88.202.231.174:80/live/prima_zoom_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/5264.ts
 #EXTINF:-1 group-title="České" tvg-id="Prima Zoom" tvg-logo="http://22century.cz/soubory/loga/transparent/primazoom.png",Prima Zoom
 http://89.239.16.34:8085/prima_zoom.webm
 #EXTINF:-1 group-title="České" tvg-id="Prima Zoom" tvg-logo="http://22century.cz/soubory/loga/transparent/primazoom.png",Prima Zoom
-http://176.222.224.107:52011/udp/224.0.120.36_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18656.ts
 #EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-logo="http://22century.cz/soubory/loga/transparent/primamax.png",Prima MAX
 http://74.208.44.158:5000/live/518/518.m3u8
 #EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-logo="http://22century.cz/soubory/loga/transparent/primamax.png",Prima MAX
-http://88.202.231.174/live/prima_max_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-logo="http://22century.cz/soubory/loga/transparent/primamax.png",Prima MAX
-http://176.222.224.107:52011/udp/224.0.120.43_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18658.ts
 #EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/primaplus.png",Prima Plus
-http://88.202.231.174:80/live/prima_plus_medium_1800_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18657.ts
 #EXTINF:-1 group-title="České" tvg-id="Nova" tvg-logo="http://22century.cz/soubory/loga/transparent/nova.png",Nova
 http://89.239.16.34:8085/nova.webm
 #EXTINF:-1 group-title="České" tvg-id="Nova" tvg-logo="http://22century.cz/soubory/loga/transparent/nova.png",Nova
-http://176.222.224.107:52011/udp/233.49.26.123_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18667.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-logo="http://22century.cz/soubory/loga/transparent/nova.png",Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6834.ts
 #EXTINF:-1 group-title="České" tvg-id="Nova International" tvg-logo="http://22century.cz/soubory/loga/transparent/novainternational.png",Nova International
-http://88.202.231.174:80/live/nova_international_hd_4500_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18663.ts
 #EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-logo="http://22century.cz/soubory/loga/transparent/novaaction.png",Nova Action
 http://174.36.163.12:4000/live/304/304.m3u8
 #EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-logo="http://22century.cz/soubory/loga/transparent/novaaction.png",Nova Action
 http://89.239.16.34:8085/fanda.webm
 #EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-logo="http://22century.cz/soubory/loga/transparent/novaaction.png",Nova Action
-http://176.222.224.107:52011/udp/224.0.120.32_2314
-#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/novagold.png",Nova Gold
-http://88.202.231.174/live/telka_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18666.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-logo="http://22century.cz/soubory/loga/transparent/novaaction.png",Nova Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6836.ts
 #EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/novagold.png",Nova Gold
 http://89.239.16.34:8085/telka.webm
 #EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/novagold.png",Nova Gold
-http://176.222.224.107:52011/udp/224.0.120.34_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18664.ts
 #EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-logo="http://22century.cz/soubory/loga/transparent/barrandov.png",Barrandov
-http://88.202.231.174:80/live/barrandov_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-logo="http://22century.cz/soubory/loga/transparent/barrandov.png",Barrandov
-http://176.222.224.107:52011/udp/233.49.26.135_2314
-#EXTINF:-1 group-title="České" tvg-id="barrandov family" tvg-logo="http://22century.cz/soubory/loga/transparent/barrandovfamily.png",Barrandov Family
-http://176.222.224.107:52011/udp/224.0.120.38_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18703.ts
 #EXTINF:-1 group-title="České" tvg-id="Barrandov Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/barrandovplus.png",Barrandov Plus
-http://88.202.231.174:80/live/barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov" tvg-logo="http://22century.cz/soubory/loga/transparent/kinobarrandov.png",Kino Barrandov
-http://88.202.231.174:80/live/kino_barrandov_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18702.ts
+#EXTINF:-1 group-title="České" tvg-id="RELAX" tvg-logo="http://22century.cz/soubory/loga/transparent/relax.png",RELAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6055.ts
+#EXTINF:-1 group-title="České" tvg-id="RELAX" tvg-logo="http://22century.cz/soubory/loga/transparent/relax.png",RELAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4194.ts
 #EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-logo="http://22century.cz/soubory/loga/transparent/nova2.png",Nova 2
 http://89.239.16.34:8085/smichov.webm
 #EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-logo="http://22century.cz/soubory/loga/transparent/nova2.png",Nova 2
-http://176.222.224.107:52011/udp/224.0.120.33_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-logo="http://22century.cz/soubory/loga/transparent/discoveryshowcase.png",Discovery HD Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18677.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-logo="http://22century.cz/soubory/loga/transparent/nova2.png",Nova 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6053.ts
+#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-logo="http://22century.cz/soubory/loga/transparent/nova2.png",Nova 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4192.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery" tvg-logo="http://22century.cz/soubory/loga/transparent/discoverychannel.png",Discovery Channel
 http://74.81.71.186:4000/live/138/138.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-logo="http://22century.cz/soubory/loga/transparent/discoveryshowcase.png",Discovery HD Showcase
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery" tvg-logo="http://22century.cz/soubory/loga/transparent/discoverychannel.png",Discovery Channel
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-logo="http://22century.cz/soubory/loga/transparent/discoveryshowcase.png",Discovery HD Showcase
-http://176.222.224.107:52011/udp/233.49.26.109_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-logo="http://22century.cz/soubory/loga/transparent/discoveryshowcase.png",Discovery HD Showcase
-http://176.222.224.107:52011/udp/233.49.26.143_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-logo="http://22century.cz/soubory/loga/transparent/idextra.png",Discovery ID Xtra
-http://213.81.153.243/live003/channel035_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-logo="http://22century.cz/soubory/loga/transparent/idextra.png",Discovery ID Xtra
-http://176.222.224.107:52011/udp/224.0.120.40_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery Science" tvg-logo="http://22century.cz/soubory/loga/transparent/discoveryscience.png",Discovery Science
-http://176.222.224.107:52011/udp/224.0.120.41_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery" tvg-logo="http://22century.cz/soubory/loga/transparent/discoverychannel.png",Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6080.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery" tvg-logo="http://22century.cz/soubory/loga/transparent/discoverychannel.png",Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4211.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-logo="http://22century.cz/soubory/loga/transparent/animalplanet.png",Animal Planet
-http://88.202.231.174/live/animal_planet_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-logo="http://22century.cz/soubory/loga/transparent/animalplanet.png",Animal Planet
-http://176.222.224.107:52011/udp/233.49.26.217_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18707.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic" tvg-logo="http://22century.cz/soubory/loga/transparent/nationalgeographic.png",National Geographic
-http://176.222.224.107:52011/udp/233.49.26.79_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic" tvg-logo="http://22century.cz/soubory/loga/transparent/nationalgeographic.png",National Geographic
-http://176.222.224.107:52011/udp/233.49.26.228_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6061.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-logo="http://22century.cz/soubory/loga/transparent/natgeowild.png",National Geographic Wild
-http://176.222.224.107:52011/udp/224.0.120.8_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18679.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-logo="http://22century.cz/soubory/loga/transparent/natgeowild.png",National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6060.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-logo="http://22century.cz/soubory/loga/transparent/natgeowild.png",National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6839.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-logo="http://22century.cz/soubory/loga/transparent/natgeowild.png",National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4162.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-logo="http://22century.cz/soubory/loga/transparent/natgeowild.png",National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6838.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-logo="http://22century.cz/soubory/loga/transparent/natgeowild.png",National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4161.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
-http://174.36.155.34:4000/live/189/189.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6052.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
-http://88.202.231.174/live/spektrum_hd_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18675.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
-http://176.222.224.107:52011/udp/233.49.26.57_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6830.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-logo="http://22century.cz/soubory/loga/transparent/spektrum.png",Spektrum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4156.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum Home" tvg-logo="http://22century.cz/soubory/loga/transparent/spektrumhome.png",Spektrum Home
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18674.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explore" tvg-logo="http://22century.cz/soubory/loga/transparent/viasatexplore.png",Viasat Explore
-http://213.81.153.243/live003/channel039_p5.stream/DVR.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6826.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explore" tvg-logo="http://22century.cz/soubory/loga/transparent/viasatexplore.png",Viasat Explore
-http://176.222.224.107:52011/udp/233.49.26.213_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4158.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
-http://213.81.153.243/live003/channel038_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
-http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
-http://176.222.224.107:52011/udp/233.49.26.212_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History HD" tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistorynature.png",Viasat History HD
 http://unicast.bbxnet.sk/live/history/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TLC" tvg-logo="http://22century.cz/soubory/loga/transparent/tlc.png",TLC
-http://176.222.224.107:52011/udp/233.49.26.97_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="CBS Reality" tvg-logo="http://22century.cz/soubory/loga/transparent/cbsreality.png",CBS Reality
-http://176.222.224.107:52011/udp/233.49.26.112_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="DTX" tvg-logo="http://22century.cz/soubory/loga/transparent/dtx.png",DTX
-http://176.222.224.107:52011/udp/233.49.26.148_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="FashionBox HD" tvg-logo="http://22century.cz/soubory/loga/transparent/fashionbox.png",FashionBox HD
-http://176.222.224.107:52011/udp/233.49.26.26_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18685.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6841.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-logo="http://22century.cz/soubory/loga/transparent/viasathistory.png",Viasat History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4189.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Nature" tvg-logo="http://22century.cz/soubory/loga/transparent/viasatnature.png",Viasat Nature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18670.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="E! Entertainment" tvg-logo="http://22century.cz/soubory/loga/transparent/e!.png",E! Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6078.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="E! Entertainment" tvg-logo="http://22century.cz/soubory/loga/transparent/e!.png",E! Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4208.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Fine Living" tvg-logo="http://22century.cz/soubory/loga/transparent/fineliving.png",Fine Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18686.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Fine Living" tvg-logo="http://22century.cz/soubory/loga/transparent/fineliving.png",Fine Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/10124.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Fishing and Hunting" tvg-logo="http://22century.cz/soubory/loga/transparent/fishinghunting.png",Fishing and Hunting
-http://176.222.224.107:52011/udp/233.49.26.98_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux" tvg-logo="http://22century.cz/soubory/loga/transparent/lux.png",Lux
-http://88.202.231.174/live/tv_lux_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6072.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Fishing and Hunting" tvg-logo="http://22century.cz/soubory/loga/transparent/fishinghunting.png",Fishing and Hunting
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4206.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="KinoSvet" tvg-logo="http://22century.cz/soubory/loga/transparent/kinosvet.png",KinoSvět
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6065.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="KinoSvet" tvg-logo="http://22century.cz/soubory/loga/transparent/kinosvet.png",KinoSvět
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4201.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Mnam TV" tvg-logo="http://22century.cz/soubory/loga/transparent/mnam.png",Mňam TV
-http://176.222.224.107:52011/udp/224.0.120.23_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6063.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Mnam TV" tvg-logo="http://22century.cz/soubory/loga/transparent/mnam.png",Mňam TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4198.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-logo="http://22century.cz/soubory/loga/transparent/noe.png",Noe
-http://88.202.231.174/live/noe_tv_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-logo="http://22century.cz/soubory/loga/transparent/noe.png",Noe
-http://176.222.224.107:52011/udp/233.49.26.126_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
-http://213.81.153.243/live003/channel055_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
-http://88.202.231.174:80/live/rik_tv_hd_4500_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18678.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
 http://unicast.bbxnet.sk/live/rik/playlist.m3u8
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
 http://nn2.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
-http://nn2.joj.sk/hls/rik-360.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18676.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
-http://176.222.224.107:52011/udp/233.49.26.209_2314
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-logo="http://22century.cz/soubory/loga/transparent/tv8.png",TV8
-http://88.202.231.174/live/tv_8_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6046.ts
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4159.ts
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-logo="http://22century.cz/soubory/loga/transparent/tv8.png",TV8
 http://unicast.bbxnet.sk/live/tv8/playlist.m3u8
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-logo="http://22century.cz/soubory/loga/transparent/tv8.png",TV8
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="AMC" tvg-logo="http://22century.cz/soubory/loga/transparent/amc.png",AMC
+http://unicast.bbxnet.sk/live/amc/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="AMC" tvg-logo="http://22century.cz/soubory/loga/transparent/amc.png",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6085.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="AMC" tvg-logo="http://22century.cz/soubory/loga/transparent/amc.png",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4215.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO
-http://pvr.rete.netforms.cz/master_180.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6070.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO
-http://88.202.231.174/live/hbo_hd_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo.png",HBO
-http://176.222.224.107:52011/udp/233.49.26.87_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4164.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo2.png",HBO 2
-http://88.202.231.174/live/hbo_2_hd_4500_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6069.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo2.png",HBO 2
-http://176.222.224.107:52011/udp/224.0.120.9_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4204.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo3.png",HBO 3
-http://88.202.231.174/live/hbo_3_hd_4500_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6068.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-logo="http://22century.cz/soubory/loga/transparent/hbo3.png",HBO 3
-http://176.222.224.107:52011/udp/224.0.120.10_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-logo="http://22century.cz/soubory/loga/transparent/jojcinema.png",JoJ Cinema
-http://88.202.231.174/live/joj_cinema_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-logo="http://22century.cz/soubory/loga/transparent/jojcinema.png",JoJ Cinema
-http://176.222.224.107:52011/udp/224.0.120.31_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
-http://88.202.231.174/live/nova_cinema_high_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4203.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
 http://89.239.16.34:8085/nova_cinema.webm
 #EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
-http://176.222.224.107:52011/udp/233.49.26.140_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18665.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-logo="http://22century.cz/soubory/loga/transparent/novacinema.png",Nova Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6835.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="AXN" tvg-logo="http://22century.cz/soubory/loga/transparent/axn.png",AXN
-http://176.222.224.107:52011/udp/233.49.26.116_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6084.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN" tvg-logo="http://22century.cz/soubory/loga/transparent/axn.png",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4214.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN Black" tvg-logo="http://22century.cz/soubory/loga/transparent/axnblack.png",AXN Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18705.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="AXN White" tvg-logo="http://22century.cz/soubory/loga/transparent/axnwhite.png",AXN White
-http://176.222.224.107:52011/udp/233.49.26.161_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18704.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Cinemax" tvg-logo="http://22century.cz/soubory/loga/transparent/cinemax.png",Cinemax
-http://176.222.224.107:52011/udp/224.0.120.11_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax 2" tvg-logo="http://22century.cz/soubory/loga/transparent/cinemax2.png",Cinemax 2
-http://88.202.231.174/live/cinemax_2_hd_4500_atk/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax 2" tvg-logo="http://22century.cz/soubory/loga/transparent/cinemax2.png",Cinemax 2
-http://176.222.224.107:52011/udp/224.0.120.12_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6081.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax" tvg-logo="http://22century.cz/soubory/loga/transparent/cinemax.png",Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18699.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Ceskoslovensko" tvg-logo="http://22century.cz/soubory/loga/transparent/ceskoslovensko.png",Československo
 http://65.254.55.10:4000/live/196/196.m3u8
 #EXTINF:-1 group-title="Filmové" tvg-id="CS Film" tvg-logo="http://22century.cz/soubory/loga/transparent/csfilm.png",ČS Film
 http://89.239.16.34:8085/cs_film.webm
-#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-logo="http://22century.cz/soubory/loga/transparent/filmeurope.png",Film Europe
-http://213.81.170.239/live002/channel008_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-logo="http://22century.cz/soubory/loga/transparent/filmeurope.png",Film Europe
-http://176.222.224.107:52011/udp/233.49.26.54_2314
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-logo="http://22century.cz/soubory/loga/transparent/filmbox.png",FilmBox
-http://88.202.231.174/live/filmbox_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="CS Film" tvg-logo="http://22century.cz/soubory/loga/transparent/csfilm.png",ČS Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18698.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="CS Film" tvg-logo="http://22century.cz/soubory/loga/transparent/csfilm.png",ČS Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4169.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Film+" tvg-logo="http://22century.cz/soubory/loga/transparent/filmplus.png",Film+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18687.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Film+" tvg-logo="http://22century.cz/soubory/loga/transparent/filmplus.png",Film+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6076.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-logo="http://22century.cz/soubory/loga/transparent/filmbox.png",FilmBox
 http://unicast.bbxnet.sk/live/filmbox/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-logo="http://22century.cz/soubory/loga/transparent/filmbox.png",FilmBox
-http://176.222.224.107:52011/udp/233.49.26.226_2314
 #EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra HD" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxextra.png",Filmbox Extra
-http://88.202.231.174/live/filmbox_extra_hd_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6075.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra HD" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxextra.png",Filmbox Extra
-http://176.222.224.107:52011/udp/233.49.26.233_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6842.ts
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra HD" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxextra.png",Filmbox Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4168.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxfamily.png",Filmbox Family
-http://88.202.231.174/live/filmbox_family_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/8041.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxfamily.png",Filmbox Family
-http://176.222.224.107:52011/udp/233.49.26.42_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4167.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus
-http://213.81.153.243/live003/channel043_p5.stream/DVR.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6074.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus
-http://88.202.231.174/live/filmbox_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxplus.png",Filmbox Plus
-http://176.222.224.107:52011/udp/233.49.26.43_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4166.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxpremium.png",Filmbox Premium
-http://88.202.231.174/live/filmbox_premium_hd_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6073.ts
 #EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxpremium.png",Filmbox Premium
-http://176.222.224.107:52011/udp/233.49.26.218_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4165.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport.png",Arena Sport 1
-http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8
+http://83.167.253.110:5000/live/sport1_hd/playlist.m3u8
 #EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport.png",Arena Sport 1
-http://88.202.231.174/live/sport_1_hd_4500_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6051.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport.png",Arena Sport 1
-http://176.222.224.107:52011/udp/233.49.26.94_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18672.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport.png",Arena Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/1148.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport2.png",Arena Sport 2
-http://213.81.153.243/live003/channel045_p5.stream/DVR.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6050.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport2.png",Arena Sport 2
-http://88.202.231.174/live/sport_2_hd_4500_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6829.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport2.png",Arena Sport 2
-http://176.222.224.107:52011/udp/233.49.26.28_2314
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport.png",Digi Sport 1
-http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/1147.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Auto Motor und Sport Channel" tvg-logo="http://22century.cz/soubory/loga/transparent/automotorsport.png",Auto Motor und Sport Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18706.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport.png",Digi Sport 1
 http://magiogo.exmad.com/digisport1.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport.png",Digi Sport 1
-http://83.167.253.110:5000/live/sport1_hd/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport2.png",Digi Sport 2
-http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 4" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport4.png",Digi Sport 4
-http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Športové" tvg-id="Eurosport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport1.png",Eurosport
-http://213.81.153.243/live003/channel013_p5.stream/DVR.m3u8
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport1.png",Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18690.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport1.png",Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6844.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport2.png",Eurosport 2
-http://176.222.224.107:52011/udp/233.49.26.56_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18689.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport2.png",Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6843.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Fightbox HD" tvg-logo="http://22century.cz/soubory/loga/transparent/fightbox.png",Fightbox
-http://176.222.224.107:52011/udp/233.49.26.25_2314
-#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxarthouse.png",FilmBox Arthouse
-http://88.202.231.174/live/filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxarthouse.png",FilmBox Arthouse
-http://176.222.224.107:52011/udp/224.0.120.45_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18688.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Golf Channel" tvg-logo="http://22century.cz/soubory/loga/transparent/golfchannel.png",Golf Channel
-http://176.222.224.107:52011/udp/233.49.26.50_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6071.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Golf Channel" tvg-logo="http://22century.cz/soubory/loga/transparent/golfchannel.png",Golf Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4205.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/novasport.png",Nova sport
-http://176.222.224.107:52011/udp/233.49.26.133_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18662.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/novasport.png",Nova sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6833.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/novasport.png",Nova sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/1153.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/novasport2.png",Nova Sport 2
-http://176.222.224.107:52011/udp/224.0.120.35_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6057.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/novasport2.png",Nova Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/1152.ts
+#EXTINF:-1 group-title="Športové" tvg-id="O2 Fotbal" tvg-logo="http://22century.cz/soubory/loga/transparent/o2fotbal.png",O2 Fotbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/1151.ts
+#EXTINF:-1 group-title="Športové" tvg-id="O2 Sport" tvg-logo="http://22century.cz/soubory/loga/transparent/o2sport.png",O2 Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18673.ts
 #EXTINF:-1 group-title="Športové" tvg-id="Sport 5" tvg-logo="http://22century.cz/soubory/loga/transparent/sport5.png",Sport 5
-http://176.222.224.107:52011/udp/233.49.26.99_2314
-#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko" tvg-logo="http://22century.cz/soubory/loga/transparent/ocko.png",Óčko
-http://88.202.231.174/live/ocko_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6049.ts
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 5" tvg-logo="http://22century.cz/soubory/loga/transparent/sport5.png",Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4170.ts
 #EXTINF:-1 group-title="Hudobné" tvg-id="Ocko" tvg-logo="http://22century.cz/soubory/loga/transparent/ocko.png",Óčko
 http://unicast.bbxnet.sk/live/ocko/playlist.m3u8
 #EXTINF:-1 group-title="Hudobné" tvg-id="Ocko" tvg-logo="http://22century.cz/soubory/loga/transparent/ocko.png",Óčko
@@ -365,41 +373,53 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="Hudobné" tvg-id="Ocko Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/ockogold.png",Óčko Gold
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Music Box" tvg-logo="http://22century.cz/soubory/loga/transparent/musicbox.png",Music Box
-http://88.202.231.174/live/music_box_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="MTVEUROPE" tvg-logo="http://22century.cz/soubory/loga/transparent/mtv.png",MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6062.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="MTVEUROPE" tvg-logo="http://22century.cz/soubory/loga/transparent/mtv.png",MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4197.ts
 #EXTINF:-1 group-title="Hudobné" tvg-id="Rebel" tvg-logo="http://22century.cz/soubory/loga/transparent/rebel.png",Rebel
-http://176.222.224.107:52011/udp/233.49.26.138_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6056.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Rebel" tvg-logo="http://22century.cz/soubory/loga/transparent/rebel.png",Rebel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4195.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Retro Music" tvg-logo="http://22century.cz/soubory/loga/transparent/retro.png",Retro Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6054.ts
 #EXTINF:-1 group-title="Hudobné" tvg-id="SENZI" tvg-logo="http://22century.cz/soubory/loga/transparent/senzi.png",SENZI
 http://unicast.bbxnet.sk/live/senzi/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Slagr TV" tvg-logo="http://22century.cz/soubory/loga/transparent/slagr.png",Šlágr TV
-http://88.202.231.174/live/mtv_europe_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="Hudobné" tvg-id="Slagr TV" tvg-logo="http://22century.cz/soubory/loga/transparent/slagr.png",Šlágr TV
-http://176.222.224.107:52011/udp/233.49.26.45_2314
-#EXTINF:-1 group-title="Hudobné" tvg-id="VH1" tvg-logo="http://22century.cz/soubory/loga/transparent/vh1.png",VH1
-http://176.222.224.107:52011/udp/233.49.26.208_2314
+#EXTINF:-1 group-title="Hudobné" tvg-id="Brava HDTV" tvg-logo="http://22century.cz/soubory/loga/transparent/brava.png",Brava
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6082.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="Brava HDTV" tvg-logo="http://22century.cz/soubory/loga/transparent/brava.png",Brava
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4212.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="iConcerts" tvg-logo="http://22century.cz/soubory/loga/transparent/iconcerts.png",iConcerts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6067.ts
+#EXTINF:-1 group-title="Hudobné" tvg-id="iConcerts" tvg-logo="http://22century.cz/soubory/loga/transparent/iconcerts.png",iConcerts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4202.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Boomerang" tvg-logo="http://22century.cz/soubory/loga/transparent/boomerang.png",Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6083.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Boomerang" tvg-logo="http://22century.cz/soubory/loga/transparent/boomerang.png",Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4213.ts
 #EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-logo="http://22century.cz/soubory/loga/transparent/disneychannel.png",Disney channel
-http://213.81.153.243/live003/channel051_p5.stream/DVR.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18693.ts
 #EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-logo="http://22century.cz/soubory/loga/transparent/disneychannel.png",Disney channel
-http://176.222.224.107:52011/udp/233.49.26.115_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4210.ts
+#EXTINF:-1 group-title="Detské" tvg-id="duck.tv" tvg-logo="http://22century.cz/soubory/loga/transparent/ducktv.png",duck.tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6079.ts
+#EXTINF:-1 group-title="Detské" tvg-id="duck.tv" tvg-logo="http://22century.cz/soubory/loga/transparent/ducktv.png",duck.tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4209.ts
 #EXTINF:-1 group-title="Detské" tvg-id="Jim Jam" tvg-logo="http://22century.cz/soubory/loga/transparent/jimjam.png",JimJam
-http://176.222.224.107:52011/udp/233.49.26.198_2314
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18684.ts
 #EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-logo="http://22century.cz/soubory/loga/transparent/minimax.png",Minimax
-http://213.81.170.239/live002/channel048_p5.stream/DVR.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6064.ts
 #EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-logo="http://22century.cz/soubory/loga/transparent/minimax.png",Minimax
-http://176.222.224.107:52011/udp/233.49.26.210_2314
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
-http://88.202.231.174/live/nickelodeon_atk_1200/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4199.ts
 #EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
 http://unicast.bbxnet.sk/live/nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
-http://176.222.224.107:52011/udp/233.49.26.251_2314
-#EXTINF:-1 group-title="Detské" tvg-id="Tuty" tvg-logo="http://22century.cz/soubory/loga/transparent/tuty.png",Tuty
-http://88.202.231.174:80/live/tuty_medium_atk/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/6058.ts
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4196.ts
 #EXTINF:-1 group-title="Detské" tvg-id="Tuty" tvg-logo="http://22century.cz/soubory/loga/transparent/tuty.png",Tuty
 http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
-#EXTINF:-1 group-title="Erotické" tvg-id="Playboy" tvg-logo="http://22century.cz/soubory/loga/transparent/playboy.png",Playboy
-http://176.222.224.107:52011/udp/233.49.26.96_2314
-#EXTINF:-1 group-title="Regionálne" tvg-id="Reduta" tvg-logo="https://ulango.tv/uploads/channels/7230/logo_tv%20reduta.png" Reduta
+#EXTINF:-1 group-title="Regionálne" tvg-id="Reduta" tvg-logo="https://ulango.tv/uploads/channels/7230/logo_tv%20reduta.png",Reduta
 rtmp://s1.media-planet.sk:80/live/reduta
 
 ---Radia---
