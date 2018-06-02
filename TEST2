@@ -1,0 +1,399 @@
+#EXTM3U
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/STV1.png,Jednotka
+http://88.202.231.174/live/stv_1_hd_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/STV1.png,Jednotka
+http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p4.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/STV1.png,Jednotka
+http://se01.se.magiogo04.cdn.telekom.sk/live004/channel001_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV1" tvg-name="Stv1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/STV1.png,Jednotka
+http://65.254.55.10:4000/live/177/177.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/STV2.png,Dvojka
+http://88.202.231.174/live/stv_2_hd_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/STV2.png,Dvojka
+http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p4.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/STV2.png,Dvojka
+http://se02.se.magiogo04.cdn.telekom.sk/live004/channel002_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="STV2" tvg-name="Stv2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/STV2.png,Dvojka
+http://176.222.224.107:52011/udp/233.49.26.75_2314
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/markiza.png,Markíza
+http://88.202.231.174:80/live/markiza_hd_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/markiza.png,Markíza
+http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p4.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/markiza.png,Markíza
+http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza International" tvg-name="Markiza International" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/markiza_international.png,Markíza International
+http://176.222.224.107:52011/udp/233.49.26.68_2314
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_plus.png,JoJ Plus
+http://88.202.231.174:80/live/joj_plus_hd_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_plus.png,JoJ Plus
+http://se02.se.magiogo05.cdn.telekom.sk/live005/channel006_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_plus.png,JoJ Plus
+http://nn2.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_family.png,JOJ Family
+https://nn5.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_family.png,JOJ Family
+http://83.167.253.110:5000/live/joj_family/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_family.png,JOJ Family
+http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_family.png,JOJ Family
+http://176.222.224.107:52011/udp/224.0.120.2_2314
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/wau.png,WAU
+http://88.202.231.174:80/live/wau_hd_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/wau.png,WAU
+http://magiogo05.cdn.telekom.sk/live005/channel030_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/wau.png,WAU
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="Wau" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/wau.png,WAU
+http://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="TV DAJTO" tvg-name="Tv Dajto" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/dajto.png,Dajto
+http://88.202.231.174:80/live/dajto_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="TV DAJTO" tvg-name="Tv Dajto" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/dajto.png,Dajto
+http://se03.se.magiogo06.cdn.telekom.sk/live006/channel004_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/doma.png,Doma
+http://88.202.231.174:80/live/doma_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/doma.png,Doma
+http://se03.se.magiogo06.cdn.telekom.sk/live006/channel011_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/doma.png,Doma
+http://176.222.224.107:52011/udp/233.49.26.81_2314
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/TA3.png,TA3
+http://213.81.153.243/live003/channel007_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/TA3.png,TA3
+http://88.202.231.174:80/live/ta_3_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/TA3.png,TA3
+http://unicast.bbxnet.sk/live/ta3/playlist.m3u8
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="Ta3" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/TA3.png,TA3
+http://176.222.224.107:52011/udp/233.49.26.74_2314
+#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png,ČT 1
+http://88.202.231.174:80/live/ct_1_high_3500_atk/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png,ČT 1
+http://89.239.16.34:8085/ct1.webm
+#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="Ct1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png,ČT 1
+http://65.254.55.10:4000/live/176/176.m3u8
+#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct2.png,ČT 2
+http://88.202.231.174:80/live/ct_2_high_3500_atk/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct2.png,ČT 2
+http://89.239.16.34:8085/ct2.webm
+#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="Ct2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct2.png,ČT 2
+http://65.254.55.10:4000/live/78/78.m3u8
+#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct4.png,ČT 4 Sport
+http://88.202.231.174:80/live/ct_4_sport_hd_atk/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct4.png,ČT 4 Sport
+http://89.239.16.34:8085/ct4.webm
+#EXTINF:-1 group-title="České" tvg-id="ČT4 Sport" tvg-name="Ct4 Sport" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct4.png,ČT 4 Sport
+http://176.222.224.107:52011/udp/233.49.26.170_2314
+#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct24.png,ČT 24
+http://88.202.231.174:80/live/ct_24_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct24.png,ČT 24
+http://176.222.224.107:52011/udp/233.49.26.169_2314
+#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="Ct24" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ct24.png,ČT 24
+http://176.222.224.107:52011/udp/233.49.26.125_2314
+#EXTINF:-1 group-title="České" tvg-id="ČT art" tvg-name="Ct Art" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ctart.png,ČT art
+http://88.202.231.174:80/live/ct_detem_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="ČT art" tvg-name="Ct Art" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ctart.png,ČT art
+http://176.222.224.107:52011/udp/224.0.120.1_2314
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima.png,Prima
+http://88.202.231.174/live/prima_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima.png,Prima
+http://83.167.253.110:5000/live/prima/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima.png,Prima
+http://89.239.16.34:8085/prima.webm
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima.png,Prima
+http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima.png,Prima
+http://65.254.55.10:4000/live/115/115.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima.png,Prima
+http://176.222.224.107:52011/udp/233.49.26.84_2314
+#EXTINF:-1 group-title="České" tvg-id="Prima Comedy Central" tvg-name="Prima Comedy Central" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_comedy_central.png,Prima Comedy Central
+http://176.222.224.107:52011/udp/224.0.120.49_2314
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_cool.png,Prima Cool
+http://88.202.231.174:80/live/prima_cool_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_cool.png,Prima Cool
+http://89.239.16.34:8085/prima_cool.webm
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_cool.png,Prima Cool
+http://176.222.224.107:52011/udp/233.49.26.93_2314
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/primalove.png,Prima Love
+http://88.202.231.174:80/live/prima_love_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/primalove.png,Prima Love
+http://89.239.16.34:8085/prima_love.webm
+#EXTINF:-1 group-title="České" tvg-id="Prima LOVE" tvg-name="Prima Love" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/primalove.png,Prima Love
+http://176.222.224.107:52011/udp/224.0.120.37_2314
+#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_zoom.png,Prima Zoom
+http://88.202.231.174:80/live/prima_zoom_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_zoom.png,Prima Zoom
+http://89.239.16.34:8085/prima_zoom.webm
+#EXTINF:-1 group-title="České" tvg-id="Prima ZOOM" tvg-name="Prima Zoom" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_zoom.png,Prima Zoom
+http://176.222.224.107:52011/udp/224.0.120.36_2314
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_max.png,Prima MAX
+http://74.208.44.158:5000/live/518/518.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_max.png,Prima MAX
+http://88.202.231.174/live/prima_max_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima Max" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_max.png,Prima MAX
+http://176.222.224.107:52011/udp/224.0.120.43_2314
+#EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-name="Prima Plus" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/prima_plus.png,Prima Plus
+http://88.202.231.174:80/live/prima_plus_medium_1800_atk/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova.png,Nova
+http://89.239.16.34:8085/nova.webm
+#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova.png,Nova
+http://176.222.224.107:52011/udp/233.49.26.123_2314
+#EXTINF:-1 group-title="České" tvg-id="Nova International" tvg-name="Nova International" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_international.png,Nova International
+http://88.202.231.174:80/live/nova_international_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="České"  tvg-id="Nova Action" tvg-name="Nova Action" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_action.png,Nova Action
+http://174.36.163.12:4000/live/304/304.m3u8
+#EXTINF:-1 group-title="České"  tvg-id="Nova Action" tvg-name="Nova Action" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_action.png,Nova Action
+http://89.239.16.34:8085/fanda.webm
+#EXTINF:-1 group-title="České"  tvg-id="Nova Action" tvg-name="Nova Action" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_action.png,Nova Action
+http://176.222.224.107:52011/udp/224.0.120.32_2314
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_gold.png,Nova Gold
+http://88.202.231.174/live/telka_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_gold.png,Nova Gold
+http://89.239.16.34:8085/telka.webm
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_gold.png,Nova Gold
+http://176.222.224.107:52011/udp/224.0.120.34_2314
+#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/barrandov.png,Barrandov
+http://88.202.231.174:80/live/barrandov_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/barrandov.png,Barrandov
+http://176.222.224.107:52011/udp/233.49.26.135_2314
+#EXTINF:-1 group-title="České" tvg-id="Barrandov Family" tvg-name="Barrandov Family" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/barrandov_family.png,Barrandov Family
+http://176.222.224.107:52011/udp/224.0.120.38_2314
+#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus" tvg-name="Barrandov Plus" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/barrandovplus.png,Barrandov Plus
+http://88.202.231.174:80/live/barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov" tvg-name="Kino Barrandov" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/kinobarrandov.png,Kino Barrandov
+http://88.202.231.174:80/live/kino_barrandov_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_2.png,Nova 2
+http://89.239.16.34:8085/smichov.webm
+#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_2.png,Nova 2
+http://176.222.224.107:52011/udp/224.0.120.33_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/discovery_showcase_hd.png,Discovery HD Showcase
+http://74.81.71.186:4000/live/138/138.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/discovery_showcase_hd.png,Discovery HD Showcase
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/discovery_showcase_hd.png,Discovery HD Showcase
+http://176.222.224.107:52011/udp/233.49.26.109_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery Hd Showcase" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/discovery_showcase_hd.png,Discovery HD Showcase
+http://176.222.224.107:52011/udp/233.49.26.143_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-name="Id Xtra" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/idxtra.png,ID Xtra
+http://213.81.153.243/live003/channel035_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" tvg-name="Id Xtra" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/idxtra.png,ID Xtra
+http://176.222.224.107:52011/udp/224.0.120.40_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery Science" tvg-name="Discovery Science" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/discoveryscience.png,Discovery Science
+http://176.222.224.107:52011/udp/224.0.120.41_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-name="Animalplanet" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/AnimalPlanet.png,Animal Planet
+http://88.202.231.174/live/animal_planet_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="AnimalPlanet" tvg-name="Animalplanet" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/AnimalPlanet.png,Animal Planet
+http://176.222.224.107:52011/udp/233.49.26.217_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic HD" tvg-name="National Geographic Hd" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/NG_HD.png,National Geographic HD
+http://176.222.224.107:52011/udp/233.49.26.79_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic HD" tvg-name="National Geographic Hd" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/NG_HD.png,National Geographic HD
+http://176.222.224.107:52011/udp/233.49.26.228_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/NGWild.png,National Geographic Wild
+http://176.222.224.107:52011/udp/224.0.120.8_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/Spektrum.png,Spektrum
+http://174.36.155.34:4000/live/189/189.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/Spektrum.png,Spektrum
+http://88.202.231.174/live/spektrum_hd_atk/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/Spektrum.png,Spektrum
+http://176.222.224.107:52011/udp/233.49.26.57_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explorer" tvg-name="Viasat Explorer" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/viasatexplore.png,Viasat Explore
+http://213.81.153.243/live003/channel039_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explorer" tvg-name="Viasat Explorer" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/viasatexplore.png,Viasat Explore
+http://176.222.224.107:52011/udp/233.49.26.213_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/viasathistory.png,Viasat History
+http://213.81.153.243/live003/channel038_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/viasathistory.png,Viasat History
+http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/viasathistory.png,Viasat History
+http://176.222.224.107:52011/udp/233.49.26.212_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History HD" tvg-name="Viasat History Hd" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/viasathistoryhd.png,Viasat History HD
+http://unicast.bbxnet.sk/live/history/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TLC" tvg-name="Tlc" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/tlc.png,TLC
+http://176.222.224.107:52011/udp/233.49.26.97_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="CBS Reality" tvg-name="Cbs Reality" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/cbsreality.png,CBS Reality
+http://176.222.224.107:52011/udp/233.49.26.112_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="DTX" tvg-name="Dtx" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/dtx.png,DTX
+http://176.222.224.107:52011/udp/233.49.26.148_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="FashionBox HD" tvg-name="Fashionbox Hd" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/fashionboxhd.png,FashionBox HD
+http://176.222.224.107:52011/udp/233.49.26.26_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="The Fishing and Hunting" tvg-name="The Fishing And Hunting" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/fishingandhunting.png,Fishing and Hunting
+http://176.222.224.107:52011/udp/233.49.26.98_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Mňam TV" tvg-name="Mnam Tv" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/mnam.png,Mňam TV
+http://176.222.224.107:52011/udp/224.0.120.23_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-name="Noe" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/noe.png,Noe
+http://88.202.231.174/live/noe_tv_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Noe" tvg-name="Noe" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/noe.png,Noe
+http://176.222.224.107:52011/udp/233.49.26.126_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/paprika.png,Paprika
+http://213.81.153.243/live003/channel055_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/paprika.png,Paprika
+http://88.202.231.174:80/live/rik_tv_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/paprika.png,Paprika
+http://unicast.bbxnet.sk/live/rik/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/paprika.png,Paprika
+http://nn2.joj.sk/hls/rik-540.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/paprika.png,Paprika
+http://nn2.joj.sk/hls/rik-360.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Paprika" tvg-name="Paprika" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/paprika.png,Paprika
+http://176.222.224.107:52011/udp/233.49.26.209_2314
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/tv8.png,TV8
+http://88.202.231.174/live/tv_8_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/tv8.png,TV8
+http://unicast.bbxnet.sk/live/tv8/playlist.m3u8
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="Tv8" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/tv8.png,TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/HBO.png,HBO
+http://pvr.rete.netforms.cz/master_180.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/HBO.png,HBO
+http://88.202.231.174/live/hbo_hd_atk/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="Hbo" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/HBO.png,HBO
+http://176.222.224.107:52011/udp/233.49.26.87_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="Hbo2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/HBO2.png,HBO 2
+http://88.202.231.174/live/hbo_2_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="Hbo2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/HBO2.png,HBO 2
+http://176.222.224.107:52011/udp/224.0.120.9_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="Hbo3" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/hbo3.png,HBO 3
+http://88.202.231.174/live/hbo_3_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="Hbo3" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/hbo3.png,HBO 3
+http://176.222.224.107:52011/udp/224.0.120.10_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png,JoJ Cinema
+http://88.202.231.174:80/live/joj_hd_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png,JoJ Cinema
+http://nn2.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png,JoJ Cinema
+http://65.254.55.10:4000/live/141/141.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png,JoJ Cinema
+http://88.202.231.174/live/joj_cinema_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="JOJ Cinema" tvg-name="Joj Cinema" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png,JoJ Cinema
+http://176.222.224.107:52011/udp/224.0.120.31_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_cinema.png,Nova Cinema
+http://88.202.231.174/live/nova_cinema_high_atk/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_cinema.png,Nova Cinema
+http://89.239.16.34:8085/nova_cinema.webm
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_cinema.png,Nova Cinema
+http://176.222.224.107:52011/udp/233.49.26.140_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN" tvg-name="Axn" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/axn.png,AXN
+http://176.222.224.107:52011/udp/233.49.26.116_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN White" tvg-name="Axn White" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/axn_white.png,AXN White
+http://176.222.224.107:52011/udp/233.49.26.161_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax" tvg-name="Cinemax" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/cinemax.png,Cinemax
+http://176.222.224.107:52011/udp/224.0.120.11_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax2" tvg-name="Cinemax2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/cinemax2.png,Cinemax 2
+http://88.202.231.174/live/cinemax_2_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax2" tvg-name="Cinemax2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/cinemax2.png,Cinemax 2
+http://176.222.224.107:52011/udp/224.0.120.12_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="Československo" tvg-name="Ceskoslovensko" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ceskoslovensko.png,Československo
+http://65.254.55.10:4000/live/196/196.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="CS Film" tvg-name="Cs Film" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/csfilm.png,ČS Film
+http://89.239.16.34:8085/cs_film.webm
+#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-name="Film Europe" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmeurope.png,Film Europe
+http://213.81.170.239/live002/channel008_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Film Europe" tvg-name="Film Europe" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmeurope.png,Film Europe
+http://176.222.224.107:52011/udp/233.49.26.54_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmbox.png,FilmBox
+http://88.202.231.174/live/filmbox_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmbox.png,FilmBox
+http://unicast.bbxnet.sk/live/filmbox/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox" tvg-name="Filmbox" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmbox.png,FilmBox
+http://176.222.224.107:52011/udp/233.49.26.226_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra HD" tvg-name="Filmbox Extra Hd" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmboxhd.png,Filmbox Extra
+http://88.202.231.174/live/filmbox_extra_hd_atk/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra HD" tvg-name="Filmbox Extra Hd" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmboxhd.png,Filmbox Extra
+http://176.222.224.107:52011/udp/233.49.26.233_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmboxfamily.png,Filmbox Family
+http://88.202.231.174/live/filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmboxfamily.png,Filmbox Family
+http://176.222.224.107:52011/udp/233.49.26.42_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmboxplus.png,Filmbox Plus
+http://213.81.153.243/live003/channel043_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmboxplus.png,Filmbox Plus
+http://88.202.231.174/live/filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmboxplus.png,Filmbox Plus
+http://176.222.224.107:52011/udp/233.49.26.43_2314
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmbox-premium.png,Filmbox Premium
+http://88.202.231.174/live/filmbox_premium_hd_atk/playlist.m3u8
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmbox-premium.png,Filmbox Premium
+http://176.222.224.107:52011/udp/233.49.26.218_2314
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport.png,Arena Sport 1
+http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport.png,Arena Sport 1
+http://88.202.231.174/live/sport_1_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport.png,Arena Sport 1
+http://176.222.224.107:52011/udp/233.49.26.94_2314
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport2.png,Arena Sport 2
+http://213.81.153.243/live003/channel045_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport2.png,Arena Sport 2
+http://88.202.231.174/live/sport_2_hd_4500_atk/playlist.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/arenasport2.png,Arena Sport 2
+http://176.222.224.107:52011/udp/233.49.26.28_2314
+#EXTINF:-1 group-title="Športové" tvg-id="Digi sport SK" tvg-name="Digi Sport Sk" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/digisport1.png,Digi Sport 1
+http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Digi sport SK" tvg-name="Digi Sport Sk" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/digisport1.png,Digi Sport 1
+http://magiogo.exmad.com/digisport1.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Digi sport SK" tvg-name="Digi Sport Sk" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/digisport1.png,Digi Sport 1
+http://83.167.253.110:5000/live/sport1_hd/playlist.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Digi sport SK 2" tvg-name="Digi Sport Sk 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/digisport2.png,Digi Sport 2
+http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Digi sport SK 4" tvg-name="Digi Sport Sk 4" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/digisport4.png,Digi Sport 4
+http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-name="Eurosport 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/eurosport2.png,Eurosport 2
+http://213.81.153.243/live003/channel013_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-name="Eurosport 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/eurosport2.png,Eurosport 2
+http://176.222.224.107:52011/udp/233.49.26.56_2314
+#EXTINF:-1 group-title="Športové" tvg-id="Fightbox HD" tvg-name="Fightbox Hd" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/fightboxhd.png,Fightbox
+http://176.222.224.107:52011/udp/233.49.26.25_2314
+#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-name="Filmbox Arthouse" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmboxarthouse.png,FilmBox Arthouse
+http://88.202.231.174/live/filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-name="Filmbox Arthouse" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/filmboxarthouse.png,FilmBox Arthouse
+http://176.222.224.107:52011/udp/224.0.120.45_2314
+#EXTINF:-1 group-title="Športové" tvg-id="Golf Channel" tvg-name="Golf Channel" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png,Golf Channel
+http://176.222.224.107:52011/udp/233.49.26.50_2314
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2" tvg-name="Nova Sport 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png,Nova Sport 2
+http://176.222.224.107:52011/udp/233.49.26.133_2314
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2" tvg-name="Nova Sport 2" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png,Nova Sport 2
+http://176.222.224.107:52011/udp/224.0.120.35_2314
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 5" tvg-name="Sport 5" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/sport5.png,Sport 5
+http://176.222.224.107:52011/udp/233.49.26.99_2314
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Expres" tvg-name="Ocko Expres" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ocko-expres.png,Óčko Expres
+http://88.202.231.174/live/ocko_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Expres" tvg-name="Ocko Expres" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ocko-expres.png,Óčko Expres
+http://unicast.bbxnet.sk/live/ocko/playlist.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Expres" tvg-name="Ocko Expres" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ocko-expres.png,Óčko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Expres" tvg-name="Ocko Expres" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ocko-expres.png,Óčko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Star" tvg-name="Ocko Star" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/ocko-gold.png,Óčko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Music Box" tvg-name="Music Box" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/musicbox.png,Music Box
+http://88.202.231.174/live/music_box_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Rebel" tvg-name="Rebel" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/rebel.png,Rebel
+http://176.222.224.107:52011/udp/233.49.26.138_2314
+#EXTINF:-1 group-title="Hudobné" tvg-id="SENZI" tvg-name="Senzi" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/senzi.png,SENZI
+http://unicast.bbxnet.sk/live/senzi/playlist.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Šlágr TV" tvg-name="Slagr Tv" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/slagr.png,Šlágr TV
+http://88.202.231.174/live/mtv_europe_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Hudobné" tvg-id="Šlágr TV" tvg-name="Slagr Tv" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/slagr.png,Šlágr TV
+http://176.222.224.107:52011/udp/233.49.26.45_2314
+#EXTINF:-1 group-title="Hudobné" tvg-id="VH1" tvg-name="Vh1" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/VH1.png,VH1
+http://176.222.224.107:52011/udp/233.49.26.208_2314
+#EXTINF:-1 group-title="Hudobné" tvg-id="Deluxe Music" tvg-name="Deluxe Music" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/deluxemusic.png,Deluxe Music
+http://88.202.231.174/live/tv_lux_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-name="Disney Channel" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/disneychannel.png,Disney channel
+http://213.81.153.243/live003/channel051_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-name="Disney Channel" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/disneychannel.png,Disney channel
+http://176.222.224.107:52011/udp/233.49.26.115_2314
+#EXTINF:-1 group-title="Detské" tvg-id="Jim Jam" tvg-name="Jim Jam" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/jim-jam.png,JimJam
+http://176.222.224.107:52011/udp/233.49.26.198_2314
+#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-name="Minimax" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/Minimax.png,Minimax
+http://213.81.170.239/live002/channel048_p5.stream/DVR.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-name="Minimax" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/Minimax.png,Minimax
+http://176.222.224.107:52011/udp/233.49.26.210_2314
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nickelodeon.png,Nickelodeon
+http://88.202.231.174/live/nickelodeon_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nickelodeon.png,Nickelodeon
+http://unicast.bbxnet.sk/live/nickelodeon/playlist.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/nickelodeon.png,Nickelodeon
+http://176.222.224.107:52011/udp/233.49.26.251_2314
+#EXTINF:-1 group-title="Detské" tvg-id="TUTY" tvg-name="Tuty" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/tuty.png,Tuty
+http://88.202.231.174:80/live/tuty_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="Detské" tvg-id="TUTY" tvg-name="Tuty" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/tuty.png,Tuty
+http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
+#EXTINF:-1 group-title="Erotické" tvg-id="Playboy TV" tvg-name="Playboy Tv" http://portal2.sms.cz/kategorie/televize/bmp/loga/velka/playboy_tv.png,Playboy
+http://176.222.224.107:52011/udp/233.49.26.96_2314
