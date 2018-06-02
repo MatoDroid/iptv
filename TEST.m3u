@@ -29,7 +29,7 @@ http://88.202.231.174:80/live/joj_plus_hd_atk_1200/playlist.m3u8
 http://se02.se.magiogo05.cdn.telekom.sk/live005/channel006_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus",JoJ Plus
 http://nn2.joj.sk/hls/jojplus-540.m3u8
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-id="JOJ Family" JOJ Family
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family" JOJ Family
 https://nn5.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="Joj Family",JOJ Family
 http://83.167.253.110:5000/live/joj_family/playlist.m3u8
