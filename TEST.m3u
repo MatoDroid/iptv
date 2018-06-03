@@ -43,7 +43,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://m
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18671.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj",JOJ
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/6827.ts
-#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ+1" tvg-logo="http://22century.cz/soubory/loga/transparent/joj.png" url-epg="http://22century.cz/program.xml" ,JOJ+1
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj" tvg-shift="+1",JOJ+1
 http://88.202.231.174:80/live/joj_plus1_medium_atk/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Plus" tvg-name="Joj Plus",JoJ Plus
 http://se02.se.magiogo05.cdn.telekom.sk/live005/channel006_p5.stream/DVR.m3u8
