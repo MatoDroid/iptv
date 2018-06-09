@@ -716,11 +716,11 @@ rtmp://s1.media-planet.sk:80/live/reduta
 
 ---Rádiá---
 
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="Radio Expres" tvg-name="Radio Expres" Rádio Expres
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="Radio Expres" tvg-name="Radio Expres",Rádio Expres
 http://85.248.7.162:8000/96.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="Fun rádio" tvg-name="Fun Radio" Fun rádio
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="Fun rádio" tvg-name="Fun Radio",Fun rádio
 http://stream.funradio.sk:8000/fun128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="Europa 2" tvg-name="Europa 2" Europa 2
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="Europa 2" tvg-name="Europa 2",Europa 2
 http://pool.cdn.lagardere.cz/fm-europa2sk-128
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="SRO1 - Slovensko" tvg-name="Sro1 - Slovensko" Rádio Slovensko
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="SRO1 - Slovensko" tvg-name="Sro1 - Slovensko",Rádio Slovensko
 http://live.slovakradio.sk:8000/Slovensko_128.mp3
