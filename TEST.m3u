@@ -716,7 +716,6 @@ rtmp://s1.media-planet.sk:80/live/reduta
 
 ---Rádiá---
 
-#EXTM3U
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="Radio Expres" tvg-name="Radio Expres" Rádio Expres
 http://85.248.7.162:8000/96.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Rádiá" tvg-id="Fun rádio" tvg-name="Fun Radio" Fun rádio
