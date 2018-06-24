@@ -24,9 +24,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://m
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markiza",Markíza
 http://88.202.231.174:80/live/markiza_hd_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markíza International" tvg-name="Markiza International",Markíza International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18680.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST;url=http://mypanel.tv:8080/live/spoc0080un/gumy261up8/18680.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markíza International" tvg-name="Markiza International",Markíza International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST ;url=http://portal.geniptv.com:8080/live/jack/jack2017/4200.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TEST;url=http://portal.geniptv.com:8080/live/jack/jack2017/4200.ts
 #EXTINF:-1 group-title="Slovenské" tvg-id="Markíza International" tvg-name="Markiza International",Markíza International
 http://176.222.224.107:52011/udp/233.49.26.68_2314
 #EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="Joj",JOJ
