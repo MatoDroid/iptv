@@ -490,8 +490,27 @@ rtmp://s1.media-planet.sk:80/live/reduta
 
 ---Radia---
 
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i62.servimg.com/u/f62/19/40/01/67/radios20.jpg",
-http://sleduj.16mb.com/tip/jingl.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="Radio Expres" tvg-name="Radio Expres",Rádio Expres
+http://85.248.7.162:8000/96.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="SRO1 - Slovensko" tvg-name="Sro1 - Slovensko",Rádio Slovensko
+http://live.slovakradio.sk:8000/Slovensko_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="Fun rádio" tvg-name="Fun Radio",Fun rádio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="Europa 2" tvg-name="Europa 2",Europa 2
+http://pool.cdn.lagardere.cz/fm-europa2sk-128
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="Jemne Melodie" tvg-name="Jemne Melodie",Rádio Jemné
+http://stream.jemne.sk/jemne-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="Rádio Vlna" tvg-name="Radio Vlna",Rádio Vlna
+http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="SRO2 - Regina Západ" tvg-name="Sro2 - Regina Zapad",Rádio Regina - Západ
+http://icecast.stv.livebox.sk/regina-ba_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="Rádio Anténa Rock" tvg-name="Radio Antena Rock",Rádio Anténa Rock
+http://stream.antenarock.sk/antena-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="Lumen" tvg-name="Lumen",Rádio Lumen
+http://audio.lumen.sk:8000/live128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="SRO4 - Radio FM" tvg-name="Sro4 - Radio Fm",Rádio FM
+http://live.slovakradio.sk:8000/FM_128.mp3
+
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio710.jpg" tvg-name=",Radio 7 (Mluvene slovo)
 http://play.twr.sk:8000/128
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radio910.jpg" tvg-name=",Radio 9
@@ -502,8 +521,6 @@ http://server1.internetoveradio.sk:8817/;stream/1
 http://stream.radioaktual.sk:8000/aktual128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioa12.jpg" tvg-name=",Aligator (Rock)
 http://stream.aligator.sk:8000/aligator_192.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior16.jpg",Radio Antena Rock (Rock)
-http://stream.antenarock.sk/antena-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior17.jpg",Radio Antena Rock Hard (Rock)
 http://stream.radioservices.sk:8006/hardrock.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiob10.jpg",Radio Best FM
@@ -522,16 +539,12 @@ http://stream.detskeradio.sk/zofka-hi.mp3
 http://stream.detskeradio.sk/rozpravky.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiod11.jpg",Radio Devin
 http://live.slovakradio.sk:8000/Devin_256.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioe11.jpg",Europa2 Sk (Pop / Top40 )
-http://pool.cdn.lagardere.cz/fm-europa2sk-128
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioe12.jpg",Europa2 Dance Exxtravaganza (Dance / Electronica)
 http://pool.cdn.lagardere.cz/web-e2sk-dexx
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioe13.jpg",Europa 2 Hot 
 http://pool.cdn.lagardere.cz/web-e2sk-hot
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioe14.jpg",Europa 2 Top 22  
 http://pool.cdn.lagardere.cz/web-e2sk-top22
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioe15.jpg",Radio Expres (Pop / Top40 )
-http://85.248.7.162:8000/96.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof10.jpg",FF radio (Dance / Electronica)
 http://audio.lumen.sk:8000/ff128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof11.jpg",Fitradio (Dance / Electronica)
@@ -548,12 +561,8 @@ http://server1.internetoveradio.sk:8802/pumping
 http://server1.internetoveradio.sk:8802/strechon
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof17.jpg",Fit Family Radio (Dance / Electronica) 
 http://server1.internetoveradio.sk:8803/ffr.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof18.jpg",Radio FM
-http://live.slovakradio.sk:8000/FM_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof19.jpg",Radio Frontinus (Pop)
 http://mp3stream3.abradio.cz:8000/frontinus128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof20.jpg",Fun Radio (Pop / Top40 )
-http://stream.funradio.sk:8000/fun128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiof22.jpg",Fun Radio CZ-SK (Pop / Oldies)
 http://stream.funradio.sk:8000/cs128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo=" https://i11.servimg.com/u/f11/19/40/01/67/radiof21.jpg",Fun Radio 80 - 90 roky (Pop / Oldies) 
@@ -566,8 +575,6 @@ http://88.212.34.18:8050/mp3midband
 http://inro.tuzvo.sk:8800/inrosq
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj10.jpg",Radio Janko Hrasko (Folklor) 
 http://78.24.9.110:31088/;stream/1
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj11.jpg",Radio Jemne  
-http://stream.jemne.sk/jemne-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj12.jpg",Radio Jemne Chillout  
 http://stream.radioservices.sk/chillout.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj13.jpg",Radio Junior   
@@ -580,8 +587,6 @@ http://194.145.206.131:8000/radiokosice-64.mp3
 http://shout.alconet.sk/radioliptov
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiol12.jpg",Radio Litera 
 http://icecast.stv.livebox.sk/litera_128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiol10.jpg",Radio Lumen
-http://audio.lumen.sk:8000/live128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiom13.jpg",Radio Maria Slovakia 
 http://193.87.81.131:8081/RadioMariaSlovakia
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiom12.jpg",Radio Max
@@ -614,8 +619,6 @@ http://stream.sepia.sk:8000/plus128.mp3
 http://158.193.51.60:8000/live.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior14.jpg",Radio Rebeca 
 http://allnet.radionet.sk:8000/radiorebeca.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior10.jpg",Radio Regina Zapad
-http://icecast.stv.livebox.sk/regina-ba_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior11.jpg",Rockova republika (Rock)
 http://217.67.31.66:8000/republika128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior12.jpg",Radio Roma 
@@ -632,8 +635,6 @@ http://stream.skyradio.sk:8000/sky128
 http://78.47.79.190:8004/;stream/1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radios15.jpg",Radio Slovakia International 
 http://icecast.stv.livebox.sk/rsi_128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radios12.jpg",Radio Slovensko
-http://live.slovakradio.sk:8000/Slovensko_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radios13.jpg",Radio Sirava 
 http://server1.internetoveradio.sk:8804/;stream/1
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radios10.jpg",Radio Sport
@@ -662,8 +663,6 @@ http://server1.internetoveradio.sk:8816/repete.mp3
 http://server1.internetoveradio.sk:8816/millenium.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiov12.jpg",Radio Viva Metropol
 http://stream.sepia.sk:8000/viva128.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiov11.jpg",Radio Vlna
-http://stream.radiovlna.sk/vlna-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiov10.jpg",Radio Vlna Golden Hits (Pop / Oldies)
 http://stream.radioservices.sk:8004/goldenhits.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radiow10.jpg",Radio WOW
