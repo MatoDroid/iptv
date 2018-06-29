@@ -502,7 +502,7 @@ http://pool.cdn.lagardere.cz/fm-europa2sk-128
 http://stream.jemne.sk/jemne-hi.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="Rádio Vlna" tvg-name="Radio Vlna",Rádio Vlna
 http://stream.radiovlna.sk/vlna-hi.mp3
-#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="SRO2 - Regina Západ" tvg-name="Sro2 - Regina Zapad",Rádio Regina - Západ
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="SRO2 - Regina Západ" tvg-name="Sro2 - Regina Zapad" tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radior10.jpg",Rádio Regina - Západ
 http://icecast.stv.livebox.sk/regina-ba_128.mp3
 #EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádiá" tvg-id="Rádio Anténa Rock" tvg-name="Radio Antena Rock",Rádio Anténa Rock
 http://stream.antenarock.sk/antena-hi.mp3
