@@ -99,9 +99,9 @@ http://88.202.231.174:80/live/ct_24_atk_1200/playlist.m3u8
 http://176.222.224.107:52011/udp/233.49.26.169_2314
 #EXTINF:0 group-title="České" tvg-id="ČT24" tvg-name="Sk: Čt24",ČT 24
 http://176.222.224.107:52011/udp/233.49.26.125_2314
-#EXTINF:0 group-title="České" tvg-id="CT art" tvg-name="Sk: Čt Art",ČT art
+#EXTINF:0 group-title="České" tvg-id="CT :D+art" tvg-name="Sk: Čt Art",ČT art
 http://88.202.231.174:80/live/ct_detem_atk_1200/playlist.m3u8
-#EXTINF:0 group-title="České" tvg-id="CT art" tvg-name="Sk: Čt Art",ČT art
+#EXTINF:0 group-title="České" tvg-id="CT :D+art" tvg-name="Sk: Čt Art",ČT art
 http://176.222.224.107:52011/udp/224.0.120.1_2314
 #EXTINF:0 group-title="České" tvg-id="Prima" tvg-name="Sk: Prima",Prima
 http://83.167.253.110:5000/live/prima/playlist.m3u8
