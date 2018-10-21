@@ -23,7 +23,7 @@ http://se03.se.magiogo06.cdn.telekom.sk/live006/channel003_p5.stream/DVR.m3u8
 http://88.202.231.174:80/live/Markíza_hd_atk_1200/playlist.m3u8
 #EXTINF:0 group-title="Slovenské" tvg-id="Markíza" tvg-name="Sk: Markíza",Markíza
 http://stb.first-class-portal.com:80/live/triple-tv-all-lines/GdhXKzhK9b/36598.ts
-#EXTINF:0 group-title="Slovenské" tvg-id="Markíza International" tvg-name="Sk: Markíza International",Markíza International
+#EXTINF:0 group-title="Slovenské" tvg-id="Markiza International" tvg-name="Sk: Markíza International",Markíza International
 http://176.222.224.107:52011/udp/233.49.26.68_2314
 #EXTINF:0 group-title="Slovenské" tvg-id="JOJ" tvg-name="Sk: Joj",JOJ
 http://magiogo05.cdn.telekom.sk/live005/channel005_p4.stream/DVR.m3u8
@@ -87,11 +87,11 @@ http://89.239.16.34:8085/ct2.webm
 http://65.254.55.10:4000/live/78/78.m3u8
 #EXTINF:0 group-title="České" tvg-id="ČT2" tvg-name="Sk: Čt2",ČT 2
 http://88.202.231.174:80/live/ct_2_high_3500_atk/playlist.m3u8
-#EXTINF:0 group-title="České" tvg-id="ČT4 Sport" tvg-name="Sk: Čt4 Sport",ČT 4 Sport
+#EXTINF:0 group-title="České" tvg-id="CT4 Sport" tvg-name="Sk: Čt4 Sport",ČT 4 Sport
 http://89.239.16.34:8085/ct4.webm
-#EXTINF:0 group-title="České" tvg-id="ČT4 Sport" tvg-name="Sk: Čt4 Sport",ČT 4 Sport
+#EXTINF:0 group-title="České" tvg-id="CT4 Sport" tvg-name="Sk: Čt4 Sport",ČT 4 Sport
 http://88.202.231.174:80/live/ct_4_sport_hd_atk/playlist.m3u8
-#EXTINF:0 group-title="České" tvg-id="ČT4 Sport" tvg-name="Sk: Čt4 Sport",ČT 4 Sport
+#EXTINF:0 group-title="České" tvg-id="CT4 Sport" tvg-name="Sk: Čt4 Sport",ČT 4 Sport
 http://176.222.224.107:52011/udp/233.49.26.170_2314
 #EXTINF:0 group-title="České" tvg-id="ČT24" tvg-name="Sk: Čt24",ČT 24
 http://88.202.231.174:80/live/ct_24_atk_1200/playlist.m3u8
@@ -99,9 +99,9 @@ http://88.202.231.174:80/live/ct_24_atk_1200/playlist.m3u8
 http://176.222.224.107:52011/udp/233.49.26.169_2314
 #EXTINF:0 group-title="České" tvg-id="ČT24" tvg-name="Sk: Čt24",ČT 24
 http://176.222.224.107:52011/udp/233.49.26.125_2314
-#EXTINF:0 group-title="České" tvg-id="ČT art" tvg-name="Sk: Čt Art",ČT art
+#EXTINF:0 group-title="České" tvg-id="CT art" tvg-name="Sk: Čt Art",ČT art
 http://88.202.231.174:80/live/ct_detem_atk_1200/playlist.m3u8
-#EXTINF:0 group-title="České" tvg-id="ČT art" tvg-name="Sk: Čt Art",ČT art
+#EXTINF:0 group-title="České" tvg-id="CT art" tvg-name="Sk: Čt Art",ČT art
 http://176.222.224.107:52011/udp/224.0.120.1_2314
 #EXTINF:0 group-title="České" tvg-id="Prima" tvg-name="Sk: Prima",Prima
 http://83.167.253.110:5000/live/prima/playlist.m3u8
@@ -185,9 +185,9 @@ http://176.222.224.107:52011/udp/233.49.26.109_2314
 http://176.222.224.107:52011/udp/233.49.26.143_2314
 #EXTINF:0 group-title="Dokumentárne a lifestylové" tvg-id="Discovery" tvg-name="Sk: Discovery",Discovery Channel
 http://164.132.136.176:8000/0130
-#EXTINF:0 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" url-epg="http://22century.cz/program.xml" tvg-shift="+1" tvg-logo="http://22century.cz/soubory/loga/transparent/idextra.png",ID Xtra
+#EXTINF:0 group-title="Dokumentárne a lifestylové" tvg-id="Investigation Discovery" url-epg="http://22century.cz/program.xml" tvg-shift="+1" tvg-logo="http://22century.cz/soubory/loga/transparent/idextra.png",ID Xtra
 http://213.81.153.243/live003/channel035_p5.stream/DVR.m3u8
-#EXTINF:0 group-title="Dokumentárne a lifestylové" tvg-id="ID Xtra" url-epg="http://22century.cz/program.xml" tvg-logo="http://22century.cz/soubory/loga/transparent/idextra.png",ID Xtra
+#EXTINF:0 group-title="Dokumentárne a lifestylové" tvg-id="Investigation Discovery" url-epg="http://22century.cz/program.xml" tvg-logo="http://22century.cz/soubory/loga/transparent/idextra.png",ID Xtra
 http://176.222.224.107:52011/udp/224.0.120.40_2314
 #EXTINF:0 group-title="Dokumentárne a lifestylové" tvg-id="Discovery Science" tvg-name="Sk: Discovery Science",Discovery Science
 http://176.222.224.107:52011/udp/224.0.120.41_2314
