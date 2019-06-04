@@ -123,13 +123,13 @@ http://213.81.153.243/live003/channel009_p5.stream/DVR.m3u8
 http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8 
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux" tvg-logo="http://22century.cz/soubory/loga/transparent/lux.png",Lux
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8 
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Noe" tvg-logo="http://22century.cz/soubory/loga/transparent/noe.png",Noe
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Noe" tvg-logo="http://22century.cz/soubory/loga/transparent/noe.png",TV Noe
 http://88.202.231.174/live/noe_tv_atk_1200/playlist.m3u8 
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Noe" tvg-logo="http://22century.cz/soubory/loga/transparent/noe.png",Noe
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Noe" tvg-logo="http://22century.cz/soubory/loga/transparent/noe.png",TV Noe
 http://w102.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/chunklist_w193701414_b1000000.m3u8?id= 
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",TV Paprika
 http://unicast.bbxnet.sk/live/rik/playlist.m3u8 
-#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",TV Paprika
 http://nn2.joj.sk/hls/rik-540.m3u8 
 #EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-logo="http://22century.cz/soubory/loga/transparent/paprika.png",Paprika
 http://213.81.153.243/live003/channel055_p5.stream/DVR.m3u8 
