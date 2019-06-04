@@ -182,57 +182,329 @@ http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8
 #EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport.png",Arena Sport 1
 http://88.202.231.174/live/sport_1_hd_4500_atk/playlist.m3u8 
 #EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport2.png",Arena Sport 2
-http://213.81.153.243/live003/channel045_p5.stream/DVR.m3u8 
-#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/arenasport2.png",Arena Sport 2
-http://88.202.231.174/live/sport_2_hd_4500_atk/playlist.m3u8 
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 1" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport.png",Digi Sport 1
-http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8 
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport2.png",Digi Sport 2
-http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8 
-#EXTINF:-1 group-title="Športové" tvg-id="Digi Sport 4" tvg-logo="http://22century.cz/soubory/loga/transparent/digisport4.png",Digi Sport 4
-http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8 
-#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-logo="http://22century.cz/soubory/loga/transparent/eurosport2.png",Eurosport 2
-http://213.81.153.243/live003/channel013_p5.stream/DVR.m3u8 
-#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-logo="http://22century.cz/soubory/loga/transparent/filmboxarthouse.png",FilmBox Arthouse
-http://88.202.231.174/live/filmbox_arthouse_atk_1200/playlist.m3u8 
-#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko Expres" tvg-logo="http://22century.cz/soubory/loga/transparent/ockoexpres.png",Óčko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8 
-#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko Expres" tvg-logo="http://22century.cz/soubory/loga/transparent/ockoexpres.png",Óčko Expres
-http://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunklist.m3u8 
-#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/ockogold.png",Óčko Gold
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8 
-#EXTINF:-1 group-title="Hudobné" tvg-id="Ocko Gold" tvg-logo="http://22century.cz/soubory/loga/transparent/ockogold.png",Óčko Gold
-http://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist.m3u8 
-#EXTINF:-1 group-title="Hudobné" tvg-id="Music Box" tvg-logo="http://22century.cz/soubory/loga/transparent/musicbox.png",Music Box
-http://88.202.231.174/live/music_box_atk_1200/playlist.m3u8 
-#EXTINF:-1 group-title="Hudobné" tvg-id="Retro Music" tvg-logo="http://22century.cz/soubory/loga/transparent/retro.png",Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
-#EXTINF:-1 group-title="Hudobné" tvg-id="SENZI" tvg-logo="http://22century.cz/soubory/loga/transparent/senzi.png",SENZI
-http://unicast.bbxnet.sk/live/senzi/playlist.m3u8 
-#EXTINF:-1 group-title="Hudobné" tvg-id="Slagr TV" tvg-logo="http://22century.cz/soubory/loga/transparent/slagr.png",Šlágr TV
-http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8 
-#EXTINF:-1 group-title="Hudobné" tvg-id="Deluxe Music" tvg-logo="http://22century.cz/soubory/loga/transparent/deluxemusic.png",Deluxe Music
-http://88.202.231.174/live/tv_lux_atk_1200/playlist.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="Disney Channel" tvg-logo="http://22century.cz/soubory/loga/transparent/disneychannel.png",Disney channel
-http://213.81.153.243/live003/channel051_p5.stream/DVR.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-logo="http://22century.cz/soubory/loga/transparent/minimax.png",Minimax
-http://213.81.170.239/live002/channel048_p5.stream/DVR.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="Nick Jr." tvg-logo="http://22century.cz/soubory/loga/transparent/nickjr.png",Nick Jr.
-http://65.254.55.10:4000/live/195/195.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
-http://unicast.bbxnet.sk/live/nickelodeon/playlist.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-logo="http://22century.cz/soubory/loga/transparent/nickelodeon.png",Nickelodeon
-http://88.202.231.174/live/nickelodeon_atk_1200/playlist.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="RiK" tvg-logo="http://22century.cz/soubory/loga/transparent/rik.png",Rik
-http://5.63.149.252:5000/live/499/499.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="RiK" tvg-logo="http://22century.cz/soubory/loga/transparent/rik.png",Rik
-http://nn.geo.joj.sk/hls/rik-360.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="Tuty" tvg-logo="http://22century.cz/soubory/loga/transparent/tuty.png",Tuty
-http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="Tuty" tvg-logo="http://22century.cz/soubory/loga/transparent/tuty.png",Tuty
-http://88.202.231.174:80/live/tuty_medium_atk/playlist.m3u8 
-#EXTINF:-1 group-title="Detské" tvg-id="Tuty" tvg-logo="http://22century.cz/soubory/loga/transparent/tuty.png",Tuty
-http://stream.mediawork.cz/tuty/tutytv/chunklist_w1430339699.m3u8 
+#EXTM3U
+#EXTINF:-1 group-title="Slovenské" tvg-id="Jednotka" tvg-name="Jednotka",Jednotka
+http://88.202.231.174/live/stv_1_hd_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dvojka" tvg-name="Dvojka",Dvojka
+http://88.202.231.174/live/stv_2_hd_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markíza",Markíza
+http://88.202.231.174:80/live/markiza_hd_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza" tvg-name="Markíza",Markíza
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/209025  
+#EXTINF:-1 group-title="Slovenské" tvg-id="Markíza International" tvg-name="Markíza International",Markiza International
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63055  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="JOJ",JoJ
+http://nn2.joj.sk/hls/joj-720.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="JOJ",JoJ
+http://nn.geo.joj.sk/hls/joj-540.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="JOJ",JoJ
+http://nn.geo.joj.sk/hls/joj-360.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="JOJ",JoJ
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132054  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ" tvg-name="JOJ",JoJ
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/212305  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ +1" tvg-name="JOJ +1",JOJ+1
+http://88.202.231.174:80/live/joj_plus1_medium_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JoJ Plus" tvg-name="JoJ Plus",JoJ Plus
+http://nn2.joj.sk/hls/jojplus-540.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JoJ Plus" tvg-name="JoJ Plus",JoJ Plus
+http://88.202.231.174:80/live/joj_plus_hd_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JoJ Plus" tvg-name="JoJ Plus",JoJ Plus
+https://nn.geo.joj.sk/live/hls/jojplus-360.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="JOJ Family",JOJ Family
+https://nn5.joj.sk/hls/family-540.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="JOJ Family",JOJ Family
+http://83.167.253.110:5000/live/joj_family/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="JOJ Family",JOJ Family
+http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="JOJ Family",JOJ Family
+https://nn.geo.joj.sk/live/family-index.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="JOJ Family" tvg-name="JOJ Family",JOJ Family
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63039  
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="WAU",WAU
+http://nn2.joj.sk/hls/wau-540.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="WAU",WAU
+http://nn.geo.joj.sk/hls/wau-540.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="WAU",WAU
+http://88.202.231.174:80/live/wau_hd_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="WAU",WAU
+http://nn.geo.joj.sk/hls/wau-360.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="WAU" tvg-name="WAU",WAU
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63075  
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto" tvg-name="Dajto",Dajto
+http://88.202.231.174:80/live/dajto_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="Dajto" tvg-name="Dajto",Dajto
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132053  
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma",Doma
+http://88.202.231.174:80/live/doma_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma",Doma
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/89653  
+#EXTINF:-1 group-title="Slovenské" tvg-id="Doma" tvg-name="Doma",Doma
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/209023  
+#EXTINF:-1 group-title="Slovenské" tvg-id="TA3" tvg-name="TA3",TA3
+http://88.202.231.174:80/live/ta_3_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="ČT1",ČT1
+http://92.62.234.223/103/mystream.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="ČT1" tvg-name="ČT1",ČT1
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/106204  
+#EXTINF:-1 group-title="České" tvg-id="ČT2" tvg-name="ČT2",ČT 2
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/209016  
+#EXTINF:-1 group-title="České" tvg-id="ČTSport" tvg-name="ČTSport",ČT Sport
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/115549  
+#EXTINF:-1 group-title="České" tvg-id="ČTSport" tvg-name="ČTSport",ČT Sport
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/209014  
+#EXTINF:-1 group-title="České" tvg-id="ČT24" tvg-name="ČT24",ČT 24
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/130719  
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
+http://83.167.253.110:5000/live/prima/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
+http://83.167.253.110:5000/live/prima_hd/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
+http://88.202.231.174/live/prima_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_lq.m3u8?offsetSeconds=0  
+#EXTINF:-1 group-title="České" tvg-id="Prima" tvg-name="Prima",Prima
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/106207  
+#EXTINF:-1 group-title="České" tvg-id="Prima Comedy Central" tvg-name="Prima Comedy Central",Prima Comedy Central
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132037  
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool",Prima Cool
+http://88.202.231.174:80/live/prima_cool_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool",Prima Cool
+http://92.62.234.223/104/mystream.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima Cool" tvg-name="Prima Cool",Prima Cool
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132036  
+#EXTINF:-1 group-title="České" tvg-id="Prima Love" tvg-name="Prima Love",Prima Love
+http://88.202.231.174:80/live/prima_love_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima Love" tvg-name="Prima Love",Prima Love
+http://92.62.234.223/101/mystream.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima Love" tvg-name="Prima Love",Prima Love
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/89681  
+#EXTINF:-1 group-title="České" tvg-id="Prima Zoom" tvg-name="Prima Zoom",Prima Zoom
+http://88.202.231.174:80/live/prima_zoom_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima Zoom" tvg-name="Prima Zoom",Prima Zoom
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132035  
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima MAX",Prima MAX
+http://88.202.231.174/live/prima_max_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima MAX" tvg-name="Prima MAX",Prima MAX
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/177711  
+#EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-name="Prima Plus",Prima Plus
+http://88.202.231.174:80/live/prima_plus_medium_1800_atk/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Prima Plus" tvg-name="Prima Plus",Prima Plus
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/118144  
+#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova",Nova
+http://nova-live.ssl.cdn.cra.cz/channels/mcra/playlist/cze/live_hq.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova",Nova
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/177719  
+#EXTINF:-1 group-title="České" tvg-id="Nova" tvg-name="Nova",Nova
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/89674  
+#EXTINF:-1 group-title="České" tvg-id="Nova International" tvg-name="Nova International",Nova International
+http://88.202.231.174:80/live/nova_international_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Nova International" tvg-name="Nova International",Nova International
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132038  
+#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action",Nova Action
+http://92.62.234.223/102/mystream.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Nova Action" tvg-name="Nova Action",Nova Action
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132040  
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold",Nova Gold
+http://88.202.231.174/live/telka_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Nova Gold" tvg-name="Nova Gold",Nova Gold
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/89673  
+#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov",Barrandov
+http://88.202.231.174:80/live/barrandov_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Barrandov" tvg-name="Barrandov",Barrandov
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/127963  
+#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus" tvg-name="Barrandov Plus",Barrandov Plus
+http://88.202.231.174:80/live/barrandov_plus_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Barrandov Plus" tvg-name="Barrandov Plus",Barrandov Plus
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132056  
+#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov" tvg-name="Kino Barrandov",Kino Barrandov
+http://88.202.231.174:80/live/kino_barrandov_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="České" tvg-id="Kino Barrandov" tvg-name="Kino Barrandov",Kino Barrandov
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132044  
+#EXTINF:-1 group-title="České" tvg-id="RELAX" tvg-name="RELAX",RELAX
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63065  
+#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2",Nova 2
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/89670  
+#EXTINF:-1 group-title="České" tvg-id="Nova 2" tvg-name="Nova 2",Nova 2
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63067  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery Channel" tvg-name="Discovery Channel",Discovery Channel
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63038  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery HD Showcase" tvg-name="Discovery HD Showcase",Discovery HD Showcase
+http://83.167.253.110:5000/live/discovery/playlist.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Discovery Science" tvg-name="Discovery Science",Discovery Science
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132052  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Animal Planet" tvg-name="Animal Planet",Animal Planet
+http://88.202.231.174/live/animal_planet_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Animal Planet" tvg-name="Animal Planet",Animal Planet
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/177689  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-name="National Geographic Wild",National Geographic Wild
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63059  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="National Geographic Wild" tvg-name="National Geographic Wild",National Geographic Wild
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63060  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum",Spektrum
+http://88.202.231.174/live/spektrum_hd_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Spektrum" tvg-name="Spektrum",Spektrum
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63068  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Explore" tvg-name="Viasat Explore",Viasat Explore
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/209027  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History",Viasat History
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132046  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat History" tvg-name="Viasat History",Viasat History
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/95910  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Viasat Nature" tvg-name="Viasat Nature",Viasat Nature
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/118150  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Fine Living" tvg-name="Fine Living",Fine Living
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/123639  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="KinoSvět" tvg-name="KinoSvět",KinoSvět
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/198183  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux" tvg-name="Lux",Lux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Lux" tvg-name="Lux",Lux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="Mňam TV" tvg-name="Mňam TV",Mňam TV
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63057  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Noe" tvg-name="TV Noe",Noe
+http://88.202.231.174/live/noe_tv_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Noe" tvg-name="TV Noe",Noe
+http://w102.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/chunklist_w193701414_b1000000.m3u8?id=  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Noe" tvg-name="TV Noe",Noe
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132041  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-name="TV Paprika",Paprika
+http://nn2.joj.sk/hls/rik-540.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-name="TV Paprika",Paprika
+http://88.202.231.174:80/live/rik_tv_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-name="TV Paprika",Paprika
+http://nn2.joj.sk/hls/rik-360.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-name="TV Paprika",Paprika
+http://nn.geo.joj.sk/hls/rik-360.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV Paprika" tvg-name="TV Paprika",Paprika
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63072  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="TV8",TV8
+http://88.202.231.174/live/tv_8_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Dokumentárne a lifestylové" tvg-id="TV8" tvg-name="TV8",TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="AMC" tvg-name="AMC",AMC
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/89641  
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="HBO",HBO
+http://pvr.rete.netforms.cz/master_180.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="HBO",HBO
+http://88.202.231.174/live/hbo_hd_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO" tvg-name="HBO",HBO
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63051  
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="HBO2",HBO 2
+http://88.202.231.174/live/hbo_2_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO2" tvg-name="HBO2",HBO 2
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63050  
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="HBO3",HBO 3
+http://88.202.231.174/live/hbo_3_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="HBO3" tvg-name="HBO3",HBO 3
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63052  
+#EXTINF:-1 group-title="Filmové" tvg-id="JoJ Cinema" tvg-name="JoJ Cinema",JoJ Cinema
+http://88.202.231.174:80/live/joj_hd_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="JoJ Cinema" tvg-name="JoJ Cinema",JoJ Cinema
+http://88.202.231.174/live/joj_cinema_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema",Nova Cinema
+http://88.202.231.174/live/nova_cinema_high_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="Nova Cinema" tvg-name="Nova Cinema",Nova Cinema
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/106206  
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN" tvg-name="AXN",AXN
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63035  
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN Black" tvg-name="AXN Black",AXN Black
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132058  
+#EXTINF:-1 group-title="Filmové" tvg-id="AXN White" tvg-name="AXN White",AXN White
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132057  
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax" tvg-name="Cinemax",Cinemax
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/95893  
+#EXTINF:-1 group-title="Filmové" tvg-id="Cinemax 2" tvg-name="Cinemax 2",Cinemax 2
+http://88.202.231.174/live/cinemax_2_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="ČS Film" tvg-name="ČS Film",ČS Film
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/118112  
+#EXTINF:-1 group-title="Filmové" tvg-id="ČS Film" tvg-name="ČS Film",ČS Film
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63044  
+#EXTINF:-1 group-title="Filmové" tvg-id="FilmBox" tvg-name="FilmBox",FilmBox
+http://88.202.231.174/live/filmbox_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="FilmBox" tvg-name="FilmBox",FilmBox
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/127955  
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra" tvg-name="Filmbox Extra",Filmbox Extra
+http://88.202.231.174/live/filmbox_extra_hd_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Extra" tvg-name="Filmbox Extra",Filmbox Extra
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/127956  
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family",Filmbox Family
+http://88.202.231.174/live/filmbox_family_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Family" tvg-name="Filmbox Family",Filmbox Family
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63045  
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus",Filmbox Plus
+http://88.202.231.174/live/filmbox_plus_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Plus" tvg-name="Filmbox Plus",Filmbox Plus
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63046  
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium",Filmbox Premium
+http://88.202.231.174/live/filmbox_premium_hd_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Filmové" tvg-id="Filmbox Premium" tvg-name="Filmbox Premium",Filmbox Premium
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63047  
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1",Arena Sport 1
+http://83.167.253.110:5000/live/sport1_hd/playlist.m3u8  
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1",Arena Sport 1
+http://88.202.231.174/live/sport_1_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 1" tvg-name="Arena Sport 1",Arena Sport 1
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63069  
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2",Arena Sport 2
+http://88.202.231.174/live/sport_2_hd_4500_atk/playlist.m3u8  
+#EXTINF:-1 group-title="Športové" tvg-id="Arena Sport 2" tvg-name="Arena Sport 2",Arena Sport 2
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/95909  
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 1" tvg-name="Eurosport 1",Eurosport
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132049  
+#EXTINF:-1 group-title="Športové" tvg-id="Eurosport 2" tvg-name="Eurosport 2",Eurosport 2
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132048  
+#EXTINF:-1 group-title="Športové" tvg-id="FilmBox Arthouse" tvg-name="FilmBox Arthouse",FilmBox Arthouse
+http://88.202.231.174/live/filmbox_arthouse_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Športové" tvg-id="Golf Channel" tvg-name="Golf Channel",Golf Channel
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63049  
+#EXTINF:-1 group-title="Športové" tvg-id="Nova sport" tvg-name="Nova sport",Nova sport
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/106575  
+#EXTINF:-1 group-title="Športové" tvg-id="Nova Sport 2" tvg-name="Nova Sport 2",Nova Sport 2
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63063  
+#EXTINF:-1 group-title="Športové" tvg-id="Sport 5" tvg-name="Sport 5",Sport 5
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63070  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Expres" tvg-name="Óčko Expres",Óčko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Expres" tvg-name="Óčko Expres",Óčko Expres
+http://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunklist.m3u8  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Star" tvg-name="Óčko Star",Óčko Gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Óčko Star" tvg-name="Óčko Star",Óčko Gold
+http://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist.m3u8  
+#EXTINF:-1 group-title="Hudobné" tvg-id="MTV" tvg-name="MTV",MTV
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63058  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Music Box" tvg-name="Music Box",Music Box
+http://88.202.231.174/live/music_box_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Rebel" tvg-name="Rebel",Rebel
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/141740  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Retro Music" tvg-name="Retro Music",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Retro Music" tvg-name="Retro Music",Retro Music
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/95906  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Šlágr TV" tvg-name="Šlágr TV",Šlágr TV
+http://slagrtv-live-hls.ssl.cdn.cra.cz:80/channels/slagrtv/playlist/cze/live_hq.m3u8  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Brava" tvg-name="Brava",Brava
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63037  
+#EXTINF:-1 group-title="Hudobné" tvg-id="Deluxe Music" tvg-name="Deluxe Music",Deluxe Music
+http://88.202.231.174/live/tv_lux_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Hudobné" tvg-id="iConcerts" tvg-name="iConcerts",iConcerts
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63053  
+#EXTINF:-1 group-title="Detské" tvg-id="Boomerang" tvg-name="Boomerang",Boomerang
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63036  
+#EXTINF:-1 group-title="Detské" tvg-id="Disney channel" tvg-name="Disney channel",Disney channel
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63040  
+#EXTINF:-1 group-title="Detské" tvg-id="duck.tv" tvg-name="duck.tv",duck.tv
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63041  
+#EXTINF:-1 group-title="Detské" tvg-id="JimJam" tvg-name="JimJam",JimJam
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/132045  
+#EXTINF:-1 group-title="Detské" tvg-id="Minimax" tvg-name="Minimax",Minimax
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63056  
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon",Nickelodeon
+http://88.202.231.174/live/nickelodeon_atk_1200/playlist.m3u8  
+#EXTINF:-1 group-title="Detské" tvg-id="Nickelodeon" tvg-name="Nickelodeon",Nickelodeon
+http://dibo.live:8080/WHMCSMAG:WHMCS:8697/ng0685kTYt/63062  
 #EXTINF:-1 group-title="Regionálne" tvg-id="Reduta" tvg-logo="https://ulango.tv/uploads/channels/7230/logo_tv%20reduta.png",Reduta
 http://s1.media-planet.sk/live/reduta/playlist.m3u8 
 
